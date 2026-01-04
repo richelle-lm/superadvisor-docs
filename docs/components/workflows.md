@@ -74,32 +74,102 @@ This is auto-populated based on the profile you are viewing. If you are on a Con
 
 Use this feature to customize an active process or update its structure.
 
-### Editing Workflow Identity and Custom Fields
+1. After creating a workflow, you are automatically redirected to the **Workflow Details** page. Here you can view the current steps and add comments.
+2. Click the **Manage Workflow icon** to reveal the edit options: **Edit Name** and **Edit Steps**.
+3. **Edit Name:**
+    * Click **Edit Name** to open the Template Name pop-up.
+    * Modify the **Template Name** as needed.
+    * Click **Update Name** to save changes.
+4. **Edit Steps:**
+    * Click **Edit Steps** to open the full **Workflow Details** configuration screen.
+    * You can modify the **Template Name** here as well.
+    * View the target **Entity Type** (*Contact,Household, Team*).
+    :::note NOTE
+    This field is read-only and is defined during template creation.
+    :::
+5. **Modify Structure:**
+    * Click on an existing step to modify its details (*Step Name, Step Description, Depends On*).
+    * Click the **Add Step** button to insert new stages into the process.
+    * Within each step, you can add new tasks, edit existing task details, or delete them.
+    * Use drag-and-drop handles to reorder steps or tasks, and use the trash icon to delete unnecessary items.
+6. **Custom Fields:** You can add or modify Custom Fields associated with this specific workflow instance to track unique data points.
 
-**Steps**
+![Edit Workflow Details](../assets/images/workflows/edit-wf-details.gif)
 
-1. Open the specific workflow and click the **Manage Workflow** icon.
-2. Click **Edit Name** to open the Template Name pop-up.
-3. Modify the **Template Name** as needed and click **Update Name**.
-3. Select **Add Custom Field** to track unique data points specific to this workflow instance.
+## How to Manage Workflow Templates
+This section outlines the complete lifecycle of managing workflow blueprints, from creation to refinement. You can build templates manually for precise control, use AI to generate complex structures instantly, or modify existing workflows to adapt to new business needs.
 
-![Edit Name and Add Custom Fields](../assets/images/workflows/edit-wf-name.gif)
+### How to Create a New Workflow Template (Manual)
 
-### Managing Workflow Steps
+*Use this method to build a workflow blueprint from scratch.*
 
-Use this feature to modify the lifecycle of a standardized process.
+1. Navigate to **Workflows** and select the **View Templates** option.
+2. Click **New Template**.
+3. Enter the **Template Name** and select the **Entity Type** (*Contact, Household, or Team*).
+4. Click **Add Step** to add the first stage of the process.
+5. Within each step, add specific action items.
+6. Click **Create Template** to save.
 
-**Steps**
+![Create a Workflow Template](../assets/images/workflows/create-wf-template.gif)
 
-1. Click the **Manage Workflow** icon and select **Edit Steps**.
-2. Review the **Entity Type** (**Contact, Household, Professional**).
-:::note NOTE
-This field is read-only and is defined during template creation.
+### How to Generate a Workflow Template with AI
+
+*This advanced method allows you to generate complete workflow structures using AI.*
+
+1. Open [ChatGPT](https://chatgpt.com/share/6748d10d-90d0-8007-9fd7-3b61c3ba7dac). This gives ChatGPT the correct template that we use so it will understand how to properly format the JSON (code output for software). 
+2. Use the prompt: "I want to create a workflow template for SuperAdvisor in JSON. Please use this format, group related tasks into steps, and output the JSON. Here’s what I want the workflow to do: [describe your process]."
+:::note EXAMPLE
+I want a workflow for onboarding a new client: step 1 is to review their profile, step 2 is to send them a documentation request...
 :::
-3. Click on an existing step to modify its **Name**, **Description**, or **Depends On** logic.
-4. Click the **Add Step** button to insert new stages into the process.
-5. Within each step, you can add new tasks, edit existing task details, or delete them.
-6. Use the drag handles to reorder steps or tasks, or the **Trash** icon to delete unnecessary items.
-7. Click **Save Changes**.
+3. ChatGPT will generate the JSON text for you. Copy the full JSON output (from the first  to the last ).
+:::note NOTE
+If you want to change something, just tell ChatGPT: “Add another step for confirming with the client” or “Change due dates to 7 days instead of 3”. It will regenerate the JSON with your edits.
+:::
+4. Save the JSON File.
+* **Windows (Notepad)**
+    - Copy the full JSON text from ChatGPT.
+    - Open **Notepad** (Start > type “Notepad”).
+    - Paste the JSON into Notepad.
+    - Go to **File > Save As…**
+        - **File name:** `workflow.json`
+        - **Save as type:** **All Files (*.*)**
+        - **Encoding:** **UTF-8**
+    - Click **Save**.
+    :::tip TIP
+    If Windows adds “.txt” by mistake (e.g., `workflow.json.txt`), right-click the file > **Rename** > remove `.txt`.
+    :::
+* **Mac (TextEdit)**
+    - Copy the full JSON text from ChatGPT.
+    - Open **TextEdit**.
+    - Go to **TextEdit > Settings/Preferences** and set:
+        - New Document: Plain Text
+        - Turn off “Smart Quotes” and “Smart Dashes.”
+    - Paste the JSON into the document.
+    - Go to **File > Save As…**
+        - **Save As:** `workflow.json`
+        - Choose **UTF-8** encoding.
+        - If it defaults to `.txt`, type `.json` manually.
+    - Click **Save**.
+    :::tip TIP
+    If Finder hides extensions and you see `workflow.json.txt`, enable **Show all filename extensions** in Finder settings, then rename.
+    :::
 
-![Workflow Details](../assets/images/workflows/wf-details.gif)
+### Importing and Exporting Workflow Templates
+
+* **Importing:** Use this feature to upload pre-built workflow templates (e.g., industry-standard processes shared by colleagues or SuperAdvisor). 
+    1. Navigate to the **Templates** page and look for the **Import** option to upload a JSON or compatible file.
+    2. Review the imported stages and assign tasks to the correct team members before saving.
+    :::note TROUBLESHOOTING
+    - **Invalid JSON:** Ensure you copied the entire block, including all brackets { }.
+    - **File Extension:** Verify the file ends in .json and not .json.txt.
+    :::
+
+* **Exporting:** To share your custom workflows or back them up, select a template from your list and choose the Export option. This generates a file that can be imported into another SuperAdvisor instance.
+
+![Export and Import a Workflow Template](../assets/images/workflows/import-wf-template.gif)
+
+### How to Edit a Workflow Template
+
+1. Navigate to the **Workflow Templates** page.
+2. Select the template you wish to modify.
+3. Follow the same steps when you [customize a workflow.](../components/workflows#how-to-manage-workflow-details)

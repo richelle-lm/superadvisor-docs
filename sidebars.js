@@ -29,7 +29,7 @@ const sidebars = {
         'components/contacts/contact-profile',
       ],
     },
-     {
+    {
       type: 'category',
       label: 'Households',
       link: {type: 'doc', id: 'components/households/index'},
@@ -37,14 +37,31 @@ const sidebars = {
         'components/households/household-list',
         'components/households/household-actions',
         'components/households/entity-management',
-      ],
+    ],
     },
       'components/opportunities',
       'components/tasks',
       'components/workflows',
-       'components/meetings',
-   
-  
+    {
+      type: 'category',
+      label: 'Meetings',
+      link: {type: 'doc', id: 'components/meetings/index'},
+      items: [
+        'components/meetings/meetings-list',
+        'components/meetings/schedule-meetings',
+        'components/meetings/executing-meetings',
+        'components/meetings/manage-meetings',
+    ],
+    },
+      'components/custom-views',
+    {
+      type: 'category',
+      label: 'My Practice',
+      link: {type: 'doc', id: 'components/my-practice/index'},
+      items: [
+        'components/my-practice/custom-fields',
+    ],
+    },
   
    
   ]

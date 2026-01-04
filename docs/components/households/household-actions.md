@@ -4,8 +4,6 @@ Tools to manage household records, including creation and merging.
 
 ## How to Search and Filter Households
 
-**Steps**
-
 1. Navigate to the Households page.
 2. Click the Search bar.
 3. Type a Family Name or Household Name.
@@ -14,8 +12,6 @@ Tools to manage household records, including creation and merging.
 ## How to Create a Household
 
 You do not need to create a household manually. The system automatically generates a "Household wrapper" whenever you add a contact.
-
-**Steps**
 
 1. Follow the steps in the [**Add a New Contact**](../../components/contacts/contact-actions#how-to-add-a-new-contact) section.
 2. Once the contact is saved, navigate to the **Households** page.
@@ -47,8 +43,6 @@ Automated processes like "Annual Reviews" can be applied to the entire household
 ## How to Merge Duplicate Households
 
 Use this feature to combine two household records into one, retaining specific family members and data.
-
-**Steps**
 
 1. Navigate to the **Households** list.
 2. Select the checkboxes next to the duplicate households.

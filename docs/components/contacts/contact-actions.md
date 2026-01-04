@@ -33,8 +33,6 @@ Use this feature to create a new "Golden Record."
 
     * Ensure you have the contact's basic identity information (Legal Name) and at least one communication method.
 
-**Steps**
-
 1. Navigate to the **Contacts** dashboard.
 2. Click the **Add Contact** button.
 3. **Section 1: Contact Details**

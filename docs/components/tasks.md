@@ -42,7 +42,9 @@ You can refine the task list using the following criteria:
 * **Templates:** Filter tasks based on the workflow template used.
 * **Due Date:** Deadlines for completion.
 
-Note: If your filters do not match any records, the system will display a "No tasks found. No tasks match your search criteria" message.
+:::note NOTE
+If your filters do not match any records, the system will display a "No tasks found. No tasks match your search criteria" message.
+:::
 
 ### Task List Columns
 * **Task List:** The main table displays key details to help you scan your list quickly.
@@ -64,8 +66,6 @@ Use this section to organize and execute daily activities, ensuring deadlines ar
 
 Use this feature to generate a new action item and link it to a specific record for context.
 
-**Steps**
-
 1. Navigate to the **Tasks** sidebar and click the **Add Task** button.
 2. Fill out the **Create a Task** pop-up:
     * **Task Title:** Enter a clear name for the activity.
@@ -80,8 +80,6 @@ Use this feature to generate a new action item and link it to a specific record 
 ### How to Manage Your Tasks
 
 Use this feature to track your progress and archive finished work.
-
-**Steps**
 
 1. Navigate to the **Tasks** page and click the **My Tasks** tab.
 2. Select the task you want to update. 
@@ -115,8 +113,6 @@ From this page, you can select the Edit icon to modify a blueprint or the Trash 
 
 Use this feature to build a blueprint for your most common team actions.
 
-**Steps**
-
 1. Navigate to **Tasks** and click the **View Templates** link.
 2. Click the **New Task Template** button.
 3. Enter the **Template Name** and **Template Description**.
@@ -141,7 +137,7 @@ Use this feature to build a blueprint for your most common team actions.
 
 ### How to Configure Task Types for Workflows
 
-Whether you are [building a new **Workflow Template**](../workflows#how-to-manage-workflow-details) or updating an existing process, selecting the correct **Task Type** is essential. This setting defines how the step functions and unlocks the specific tools needed to complete that action.
+Whether you are [building a new **Workflow Template**](../components/workflows#how-to-manage-workflow-details) or updating an existing process, selecting the correct **Task Type** is essential. This setting defines how the step functions and unlocks the specific tools needed to complete that action.
 
 **Basic Task**
 
@@ -229,8 +225,6 @@ When you click on a specific process from the list, the system opens a detailed 
 ### How to Create and Monitor Recurring Processes
 
 Use this to automate repeating items like "Monthly Billing Review" or "Annual Compliance Check."
-
-**Steps**
 
 1. Navigate to the **Recurring Processes** page.
 2. Click on a task to open the **Details** page.

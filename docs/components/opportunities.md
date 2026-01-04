@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Opportunities
 
 ## Overview
@@ -17,7 +13,7 @@ The main dashboard provides a high-level command center for tracking revenue and
     * **Active Opportunities:** Deals currently in progress.
     * **Closed Opportunities:** Deals that have been won or lost.
 * **Search & Filters:**
-    * **All Stages:** Filter deals by specific phases ().
+    * **All Stages:** Filter deals by specific phases (*Discovery, Lead, Onboarding, Proposal, Closed Won, Closed Lost*).
     * **Opportunity Type:** Filter by the kind of deal.
 
 * **Pipeline Metrics:** These metrics provide a snapshot of your pipeline's health. The specific values displayed will change based on your Toggle selections (AUM/Revenue and Gross/Adjusted).
@@ -70,11 +66,11 @@ For each stage, you can see the Number of Deals, which is the count of active op
 ![Opportunity Pipeline](../assets/images/opportunities/opp-pipeline.gif)
 
 * **Opportunity List:** The detailed list of opportunities includes:
-    * **Template:** The process blueprint being used (e.g., "Maven Wealth Sales Process").
+    * **Template:** The process blueprint being used.
     * **Actions:** Quick links to edit or update.
     * **Owner:** The advisor managing the deal.
-    * **Confidence:** The likelihood of closing (e.g., "80%").
-    * **Stage:** Current status ().
+    * **Confidence:** The likelihood of closing.
+    * **Stage:** Current status.
     * **AUM / Revenue:** The financial value associated with the deal.
 
 ![Opportunity List](../assets/images/opportunities/opp-list.png)
@@ -97,41 +93,34 @@ If an opportunity is already running, you will see an error: "An active opportun
     * **Opportunity Template:** Select the appropriate process from the dropdown (e.g., "Maven Wealth Sales Process").
 6. Once created, you will be redirected to the detailed opportunity page.
 
+![Create Opportunity](../assets/images/opportunities/create-opp.gif)
+
 ### How to Manage an Opportunity
 
 There are two ways to update active deals, depending on where you are currently working in the platform.
 
-* **Option 1: From the Opportunities Dashboard**
+#### Option 1: From the Opportunities Dashboard
 
 1. Navigate to **Opportunities** in the sidebar and ensure the **Active Opportunities** view is selected.
 2. Find the specific deal you wish to update in the list.
-3. Click on the **kebab menu** (vertical dots) to show the options: Confidence, Set Est. AUM, Set Est. Revenue.
+3. Click on the **kebab menu** (vertical dots) to show the options: **Confidence**, **Set Est. AUM**, **Set Est. Revenue**.
 4. Click **Confidence** option with a new probability percentage based on your latest interactions.
 5. Click **Set Est. AUM** or **Set Est. Revenue** to refine the deal's financial value.
 6. Click the **Notes** icon to log quick updates, such as "Client requested a revised proposal."
 
-* **Option 2: From the Contact or Household Record**
+:::note NOTE
+You may also click on the opportunity to redirect to the **Opportunity Details** page.
+:::
+
+![Manage an Opportunity from the Opportunities Dashboard](../assets/images/opportunities/opp-dashboard.gif)
+
+#### Option 2: From the Contact or Household Record**
 
 1. Navigate to the specific **Contact** or **Household** page.
 2. Open the **Opportunities** link within their record.
-3. Select the active opportunity to open its detailed view. Here you can edit the Name, Template, and financial metrics (Est. Revenue, Est. AUM, Confidence).
-4. View the pipeline to see exactly where the deal stands (Lead, Discovery, Proposal, Onboarding, Closed).
+3. Select the active opportunity to open its detailed view. Here you can edit the Template, and financial metrics (*Estimated Revenue, Estimated AUM, Confidence Level*).
+4. View the pipeline to see exactly where the deal stands (*Lead, Discovery, Proposal, Onboarding, Closed*).
 5. Manage any specific tasks tied to this deal.
-6. Use the action buttons to move the deal forward: select **Continue to next stage** to advance, or resolve the deal by choosing **Close as Won** or **Close as Lost**.
+6. Use the action buttons to move the deal forward: select **Continue to next stage** to advance, **Revert to previous stage** to go back, or resolve the deal by choosing **Close as Won** or **Close as Lost**.
 
-![Create Opportunity](../assets/images/opportunities/create-opp.gif)
-
-### How to Create an Opportunity Template
-You can create standardized templates to define your stages.
-
-1. Navigate to **Opportunities** > **Manage Templates**. 
-2. Click **Create Template** to start fresh, or select an existing one to make edits.
-3. Enter a **Template Name** and add a **Description** to help the team understand when to use this specific process.
-4. The pipeline consists of four distinct stages: Lead, Discovery, Proposal, and Onboarding. You can customize this flow by enabling or disabling specific steps to match your business needs. When you disable a stage, the system automatically adjusts the numbering sequence, counting only the active stages in their original order to ensure a continuous progression.
-5. You may also select a specific Workflow Template from the dropdown menu to trigger automatically for each stage. Check the **Auto-progress** to next stage box if you want the deal to advance automatically when the work is done. 
-6. Click **Save Changes** to finalize the template.
-
-![Opportunity Template](../assets/images/opportunities/create-opp-template.gif)
-
-
-
+![Manage an Opportunity from the Contact or Household Record](../assets/images/opportunities/opp-household.gif)

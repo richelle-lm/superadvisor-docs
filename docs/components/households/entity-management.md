@@ -47,8 +47,6 @@ The household profile is organized into four key tabs:
 
 Use this to link individuals to the household.
 
-**Steps**
-
 1. Navigate to the **Household Profile** page.
 2. Click **Add Person**. 
 3. Enter the **Contact Details** (Name, Email, etc.).
