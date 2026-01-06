@@ -21,6 +21,15 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
+      label: 'Get Started',
+      link: {type: 'doc', id: 'components/about/index'},
+      items: [
+        'components/about/platform-overview',
+        'components/about/getting-started',
+    ],
+    },
+    {
+      type: 'category',
       label: 'Contacts',
       link: {type: 'doc', id: 'components/contacts/index'},
       items: [
@@ -53,6 +62,8 @@ const sidebars = {
         'components/meetings/manage-meetings',
     ],
     },
+      'components/emails',
+      'components/forms',
       'components/custom-views',
     {
       type: 'category',
@@ -62,6 +73,8 @@ const sidebars = {
         'components/my-practice/custom-fields',
     ],
     },
+    
+
   
    
   ]
