@@ -1,4 +1,4 @@
-# Dynamic Contact List
+# The Dashboard
 
 ## Overview
 The **Contacts** page features a dynamic list view that can be customized to show exactly the data you need.
