@@ -46,6 +46,7 @@ const sidebars = {
         'components/households/household-list',
         'components/households/household-actions',
         'components/households/entity-management',
+        'components/households/financials',
     ],
     },
       'components/opportunities',
@@ -65,6 +66,17 @@ const sidebars = {
       'components/emails',
       'components/forms',
       'components/custom-views',
+    {
+      type: 'category',
+      label: 'Financial Records',
+      link: {type: 'doc', id: 'components/financial-records/index'},
+      items: [
+        'components/financial-records/assets',
+        'components/financial-records/liabilities',
+        'components/financial-records/investments',
+        'components/financial-records/pensions',
+    ],
+    },
     {
       type: 'category',
       label: 'My Practice',

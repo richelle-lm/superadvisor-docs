@@ -8,10 +8,10 @@ This module is deeply integrated with other key functions to streamline operatio
 
 This section covers:
 
-* [**Dynamic Household Lists:**](household-list.md)  View and filter your book of business.
+* [**Dynamic Household Lists:**](household-list)  View and filter your book of business.
 
-* [**Household Management:**](household-actions.md) Add, merge, and manage family records.
+* [**Household Management:**](household-actions) Add, merge, and manage family records.
 
-* [**Household Profile Page:**](entity-management.md) The central hub for family and entity data.
+* [**Household Profile Page:**](entity-management) The central hub for family and entity data.
 
 

@@ -8,9 +8,9 @@ Use this module to manage relationships, connect Households, and launch automate
 
 This section covers three key areas:
 
-  * [**Dynamic Contact Lists:**](contact-list.md) Learn how to customize your dashboard views.
+  * [**Dynamic Contact Lists:**](contact-list) Learn how to customize your dashboard views.
 
-  * [**Contact Management:**](contact-actions.md) Master the essential tools for searching and adding contacts.
+  * [**Contact Management:**](contact-actions) Master the essential tools for searching and adding contacts.
 
-  * [**Individual Contact Profile:**](contact-profile.md) Manage specific details for a single record.
+  * [**Individual Contact Profile:**](contact-profile) Manage specific details for a single record.
 

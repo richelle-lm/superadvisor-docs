@@ -4,6 +4,6 @@ Welcome to SuperAdvisor, your central operating system for wealth management. Wh
 
 To help you get up to speed, we have organized our introductory resources into two key guides:
 
-[**Platform Overview:**](platform-overview.md) Read this to understand the core capabilities of the system, including the "Golden Record" concept, Household management, and our key modules (Opportunities, Workflows, and Financial Records).
+[**Platform Overview:**](platform-overview) Read this to understand the core capabilities of the system, including the "Golden Record" concept, Household management, and our key modules (Opportunities, Workflows, and Financial Records).
 
-[**Getting Started Guide:**](getting-started.md) Use this checklist to set up your account. We will walk you through logging in, configuring your user profile, connecting your email/calendar, and adding your first contact.
+[**Getting Started Guide:**](getting-started) Use this checklist to set up your account. We will walk you through logging in, configuring your user profile, connecting your email/calendar, and adding your first contact.

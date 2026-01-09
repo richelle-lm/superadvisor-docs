@@ -50,7 +50,7 @@ Use this feature to create a new "Golden Record."
     * Enter the **Address Information** and select **Jurisdictions**.
 8. Click **Save**.
 
-![Add a Contact](../../assets/images/contacts/add-contaact.gif)
+![Add a Contact](../../assets/images/contacts/add-contact.gif)
 
 :::note NOTE
 You will be returned to the list view; search for the name you recently added to open their profile.
