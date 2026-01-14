@@ -26,6 +26,7 @@ const sidebars = {
       items: [
         'components/about/platform-overview',
         'components/about/getting-started',
+        'components/about/navigation',
     ],
     },
     {
@@ -77,6 +78,7 @@ const sidebars = {
         'components/financial-records/pensions',
     ],
     },
+      'components/client-service',
     {
       type: 'category',
       label: 'My Practice',
