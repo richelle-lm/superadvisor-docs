@@ -8,9 +8,10 @@ These workflows are deeply integrated into the platform's ecosystem to drive eff
 
 This guide covers:
 
-* [**Workflows Dashboard:**](./workflows#workflows-dashboard) Monitoring progress and identifying bottlenecks.
-* [**How to Launch a Workflow:**](./workflows#how-to-launch-a-workflow) Triggering processes from profiles or the dashboard.
-* [**Managing Workflow Details:**](./workflows#how-to-manage-workflow-details) Modifying steps, tasks, and data tracking.
+* [**Workflows Dashboard:**](#workflows-dashboard) Monitoring progress and identifying bottlenecks.
+* [**How to Launch a Workflow:**](#how-to-launch-a-workflow) Triggering processes from profiles or the dashboard.
+* [**Managing Workflow Details:**](#how-to-manage-workflow-details) Modifying steps, tasks, and data tracking.
+* [**Managing Workflow Templates:**](#how-to-manage-workflow-templates) Building and saving process architectures.
 
 ## Workflows Dashboard
 The **Workflows** dashboard provides a structured view of every automated process currently running in your system. It allows you to monitor progress at a high level, ensuring nothing falls through the cracks and helping you spot potential bottlenecks early.

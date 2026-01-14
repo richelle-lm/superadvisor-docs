@@ -18,6 +18,8 @@ If a client wants to refinance their home, having the current principal, interes
 
 The **Loans** sub-page offers a consolidated view of client cash holdings and liquid assets.
 
+![Loans Dashboard](../../assets/images/financials/loans-dashboard.png)
+
 **View Options:**
 * **View All Records:** A complete list of all loan accounts.
 * **Custom View:** create and save specific filtered lists.
@@ -85,6 +87,8 @@ Using this tool ensures you can spot cash flow issues early and implement repair
 
 The **Credit Cards** sub-page offers a consolidated view of revolving credit liabilities.
 
+![Credit Cards Dashboard](../../assets/images/financials/credit-cards-dashboard.png)
+
 **View Options:**
 
 * **All Records:** A complete list of all credit card accounts.
@@ -138,6 +142,8 @@ This is useful for tracking instruments like a "$50k Home Equity Line" used for 
 ### Dashboard View
 
 The **Lines of Credit** sub-page offers a consolidated view of flexible borrowing instruments.
+
+![Lines of Credit Dashboard](../../assets/images/financials/investment-accounts-dashboard.png)
 
 **View Options:**
 

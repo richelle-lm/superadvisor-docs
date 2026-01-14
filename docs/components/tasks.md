@@ -8,13 +8,13 @@ Tasks are tightly integrated with other modules: Workflows automatically generat
 
 This section covers:
 
-* [**Dashboard Views:**](./tasks#dashboard) How to navigate personal and team workloads.
+* [**Dashboard Views:**](#dashboard) How to navigate personal and team workloads.
 
-* [**Task Management:**](./tasks#task-management) How to create, filter, and update daily activities.
+* [**Task Management:**](#task-management) How to create, filter, and update daily activities.
 
-* [**Task Templates:**](t./asks#task-templates) Tools for standardizing and automating task generation.
+* [**Task Templates:**](#task-templates) Tools for standardizing and automating task generation.
 
-* [**Recurring Processes:**](./tasks#recurring-processes) How to automate repeating tasks on a set schedule.
+* [**Recurring Processes:**](#recurring-processes) How to automate repeating tasks on a set schedule.
 
 ## Dashboard
 
