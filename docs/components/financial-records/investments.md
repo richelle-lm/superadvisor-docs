@@ -18,6 +18,8 @@ For instance, when a client is retiring and needs to draw down funds, this recor
 
 The **Investment Accounts** sub-page offers a consolidated view of client cash holdings and liquid assets.
 
+![Investment Accounts Dashboard](../../assets/images/financials/investment-accounts-dashboard.png)
+
 **View Options:**
 * **All Records:** A complete list of all investment accounts.
 * **Custom View:** Create and save specific filtered lists.
@@ -71,6 +73,8 @@ For an executive client with 10,000 ISOs vesting over 4 years, mapping out the V
 
 The **Company Equity** sub-page offers a specialized view for managing complex compensation packages.
 
+![Company Equity Dashboard](../../assets/images/financials/company-equity-dashboard.png)
+
 **View Options:**
 
 * **All Records:** A complete list of all company equity records.
@@ -116,7 +120,10 @@ The **Company Equity** sub-page offers a specialized view for managing complex c
 This sub-module tracks alternative investments like Private Equity, Hedge Funds, or Venture Capital. These are high-risk, illiquid assets with complex structures where tracking "Committed Capital" versus "Called Capital" is vital for liquidity planning. If a client invests in a startup, tracking the Investment Stage and Exit Date is crucial for planning around potential liquidity events like an IPO or acquisition. Use this to manage records like a "Series A Investment in TechStart Inc."
 
 ### Dashboard View
+
 The **Private Investments** sub-page offers a view of non-public market holdings.
+
+![Private Investments Dashboard](../../assets/images/financials/private-investments-dashboard.png)
 
 **View Options:**
 
