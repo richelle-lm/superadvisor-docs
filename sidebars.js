@@ -64,6 +64,7 @@ const sidebars = {
         'components/meetings/manage-meetings',
     ],
     },
+      'components/notes',
       'components/emails',
       'components/forms',
       'components/custom-views',
@@ -79,18 +80,20 @@ const sidebars = {
     ],
     },
       'components/client-service',
+      'components/institutions',
     {
       type: 'category',
       label: 'My Practice',
       link: {type: 'doc', id: 'components/my-practice/index'},
       items: [
+        'components/my-practice/products',
+        'components/my-practice/manage-team',
+        'components/my-practice/service-models',
         'components/my-practice/custom-fields',
+        
     ],
     },
-    
-
   
-   
   ]
 };
 

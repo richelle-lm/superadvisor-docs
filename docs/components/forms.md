@@ -20,7 +20,7 @@ The main **Forms** dashboard provides a clear overview of all data collection ac
 
 ### Forms List Columns 
 * **Forms List:** The table displays key details for tracking progress:
-    * **Template Name:** The specific questionnaire used (e.g., "Risk Profile 2024").
+    * **Template Name:** The specific questionnaire used (*e.g., "Risk Profile 2024"*).
     * **Target:** The recipient (*Client or Household*) the form is assigned to.
     * **Status:** Current state (*Draft, Submitted*).
     * **Submitted at:** The timestamp of completion.
@@ -58,7 +58,7 @@ Use this feature to modify existing questionnaires or update the specific data c
 4. Specify a deadline in the **When is this due?** field to ensure the recipient knows the timeline.
 5. Choose Completion Method:
     * **Client completes:** The system emails the form link to the client for them to fill out remotely.
-    * **Team member completes:** The form opens immediately for you or a colleague to fill out (e.g., during a live meeting).
+    * **Team member completes:** The form opens immediately for you or a colleague to fill out (*e.g., during a live meeting*).
 6. Click **Send Form**.
 
 ![How to Send a Form](../assets/images/forms/send-form.gif)
