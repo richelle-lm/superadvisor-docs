@@ -13,7 +13,7 @@ The **Custom Fields** management page is divided into two primary views to help 
 * **Organization Fields:** View and manage custom fields that are available to the entire firm. These are typically standard fields used by all advisors.
 * **Team Fields:** Create and manage fields specific to your immediate team or unit, allowing for granular tracking without cluttering the global system.
 
-![Custom Fields Dashboard](../../assets/images/custom-fields/custom-fields-list.png)
+![Custom Fields Dashboard](../../assets/images/my-practice/custom-fields-list.png)
 
 **List Columns:**
 The dashboard displays a list of your custom fields with the following details:
@@ -26,10 +26,9 @@ The dashboard displays a list of your custom fields with the following details:
 1. Navigate to **My Practice** in the main side menu and select **Custom Fields**.
 2. Click the **Add Custom Field** button to open the creation pop-up.
 3. **Details:**
-    * **Record Type:** Select where this field will appear. Options include: 
-    * Contact, Household, Insurance Policy, Bank Account, Investment Account, Loan, Credit Card, Line of Credit, Real Estate Property, Real Asset, Private Investment, Company Equity, Defined Benefit Pension, Cash Flow
+    * **Record Type:** Select where this field will appear. Options include: *Contact, Household, Insurance Policy, Bank Account, Investment Account, Loan, Credit Card, Line of Credit, Real Estate Property, Real Asset, Private Investment, Company Equity, Defined Benefit Pension, Cash Flow*
     * **Name:** Enter a clear, descriptive label for the field.
-    * **Field Type:** Choose the data format: Checkbox, Currency Value, Date, External URL, Frequency, Multi-Select, Number, Relation (Single/Multiple), Single Select, Text, Text Area
+    * **Field Type:** Choose the data format: *Checkbox, Currency Value, Date, External URL, Frequency, Multi-Select, Number, Relation (Single/Multiple), Single Select, Text, Text Area*
     * **Icon:** Select a visual icon to represent the field.
 4. Click **Add Custom Field** to save and deploy the new field.
 
@@ -39,4 +38,4 @@ To quickly find specific fields in a long list, use the dropdown filters at the 
 1. **Record Type:** Filter to show only fields related to a specific entity (e.g., show only "Household" fields).
 2. **Field Type:** Filter by the format of the data (e.g., show only "Currency" fields).
 
-![Apply Filter to Custom Fields](../../assets/images/custom-fields/filter-custom-fields.gif)
+![Apply Filter to Custom Fields](../../assets/images/my-practice/filter-custom-fields.gif)
