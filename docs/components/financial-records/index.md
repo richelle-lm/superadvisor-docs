@@ -8,7 +8,7 @@ In holistic wealth management, data integrity is paramount. By linking every ass
 
 The **Financial Records** module is organized into specific sub-pages to categorize different types of financial instruments:
 
-* [**Banking & Investment Assets:**](banking-investment) Manage liquid assets including **Bank Accounts** and **Investment Accounts**.
-* [**Credit & Liabilities:**](credit-liabilities) Track debts including **Loans**, **Credit Cards**, and **Lines of Credit**.
-* [**Property & Alternative Assets:**](property-assets) Manage illiquid holdings including **Real Estate**, **Real Assets**, **Private Investments**, and **Company Equity**.
-* [**Insurance & Income Planning:**](insurance-income) Manage risk and cash flow via **Insurance Policies**, **Defined Benefit Pensions**, and **Cash Flows**.
+* [**Assets:**](assets) Manage liquid assets including **Bank Accounts** and **Investment Accounts**.
+* [**Liabilities:**](liabilities) Track debts including **Loans**, **Credit Cards**, and **Lines of Credit**.
+* [**Investments:**](investments) Manage illiquid holdings including **Real Estate**, **Real Assets**, **Private Investments**, and **Company Equity**.
+* [**Insurance, Pensions, & Cash Flows:**](pensions) Manage risk and cash flow via **Insurance Policies**, **Defined Benefit Pensions**, and **Cash Flows**.
