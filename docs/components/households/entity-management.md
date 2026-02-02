@@ -42,6 +42,8 @@ The household profile is organized into four key tabs:
 
 ## How to Add Members
 
+### How to Add a Person
+
 Use this to link individuals to the household.
 
 1. Navigate to the **Household Profile** page.
