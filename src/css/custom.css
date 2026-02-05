@@ -66,6 +66,7 @@
   --ifm-heading-font-family: 'Test Calibre', system-ui, -apple-system, sans-serif;
   --ifm-font-family-monospace: 'Geist Mono', SFMono-Regular, Menlo, Consolas, monospace;
   --ifm-font-weight-semibold: 600;
+  --ifm-heading-font-weight: 600;
 
   /* Spacing & borders */
   --ifm-global-radius: 8px;
