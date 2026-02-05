@@ -74,6 +74,18 @@
   width: auto;
 }
 
+/* Geist Mono for UI chrome: breadcrumbs, captions, pagination, sidebar, footer */
+.breadcrumbs,
+.pagination-nav,
+.footer,
+.table-of-contents,
+.theme-doc-sidebar-menu,
+.theme-doc-version-badge,
+.theme-last-updated {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.85rem;
+}
+
 /* Sidebar active item gold accent */
 .menu__link--active:not(.menu__link--sublist) {
   border-left-color: #cbb17e;
