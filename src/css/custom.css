@@ -4,7 +4,49 @@
  * Gold primary (#cbb17e) with grey scale from shared-ui theme
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600;700&display=swap');
+/* Test Calibre */
+@font-face {
+  font-family: 'Test Calibre';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/TestCalibre-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Test Calibre';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/TestCalibre-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Test Calibre';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/TestCalibre-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Test Calibre';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/TestCalibre-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Test Calibre';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/TestCalibre-Bold.otf') format('opentype');
+}
+
+/* Geist Mono */
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600;700&display=swap');
 
 :root {
   /* Gold-based primary - darker shades for accessible text contrast on white */
@@ -19,9 +61,9 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(203, 177, 126, 0.15);
 
-  /* Typography - Geist / Geist Mono */
-  --ifm-font-family-base: 'Geist', system-ui, -apple-system, sans-serif;
-  --ifm-heading-font-family: 'Geist', system-ui, -apple-system, sans-serif;
+  /* Typography - Test Calibre for body/headings, Geist Mono for code/chrome */
+  --ifm-font-family-base: 'Test Calibre', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Test Calibre', system-ui, -apple-system, sans-serif;
   --ifm-font-family-monospace: 'Geist Mono', SFMono-Regular, Menlo, Consolas, monospace;
   --ifm-font-weight-semibold: 600;
 
