@@ -39,7 +39,6 @@ const sidebars = {
         description:
           "Manage your relationships effectively with a comprehensive view of contacts and households. Learn how to customize client data with unique fields, build dynamic lists for servicing, and maintain compliance records.",
         keywords: ['guides'],
-        image: '/img/docusaurus.png',
       },
       items: [
         {
@@ -87,7 +86,6 @@ const sidebars = {
         description:
           "Supercharge your daily efficiency using the AI Assistant (SuperMode) and integrated task management. Discover how to automate routine actions, manage your calendar with booking links, and keep detailed notes.",
         keywords: ['tools'],
-        image: '/img/docusaurus.png',
       },
       items: [
         'components/tasks',
@@ -126,7 +124,6 @@ const sidebars = {
         description:
           "Standardize your service delivery and eliminate manual errors. Learn to build automated workflows for complex processes like onboarding and use custom forms to gather structured client data.",
         keywords: ['automation'],
-        image: '/img/docusaurus.png',
       },
       items: [
         'components/workflows',
@@ -143,7 +140,6 @@ const sidebars = {
         description:
           "Configure the backend of your firm. Manage team permissions, set up billing products, white-label the platform with your branding, and define organization-wide settings.",
         keywords: ['practice'],
-        image: '/img/docusaurus.png',
       },
       items: [
          'components/my-practice/products',
