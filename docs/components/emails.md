@@ -52,7 +52,7 @@ Use this feature to standardize your professional branding on all outgoing commu
 5. **Set Default:** Toggle this option to automatically append this specific signature to all new emails you compose.
 6. Click **Save**.
 
-:::note DESIGN TIP
+:::tip DESIGN TIP
 Keep your signature concise and professional. Ensure you use consistent fonts and check how the design looks on mobile devices before finalizing.
 :::
 
