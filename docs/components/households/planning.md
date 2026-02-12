@@ -94,7 +94,7 @@ The **Will & Estate** page is organized into specific sections for legal instrum
     * **Effective Date:** Enter the date the will was signed and witnessed.
 3. Click **Add Will** to save the record.
 
-:::note TIP
+:::tip TIP
 After adding the record, you can use the Edit function to access the **Mirror To** feature, which quickly creates a reciprocal will for a spouse or partner.
 :::
 
@@ -118,7 +118,7 @@ After adding the record, you can use the Edit function to access the **Mirror To
     * **End Date:** Enter the date the authority expires, if applicable.
 3. Click **Add Power of Attorney** to add the record.
 
-:::note TIP
+:::tip TIP
 After saving, you can use the **Mirror To** feature when editing the record to quickly create a corresponding document for a spouse.
 :::
 
@@ -138,7 +138,7 @@ After saving, you can use the **Mirror To** feature when editing the record to q
     * **End Date:** Enter the date the plan expires.
 3. Click on the **Add Advance Care Plan**.
 
-:::note TIP
+:::tip TIP
 You can use the **Mirror To** feature when editing.
 :::
 

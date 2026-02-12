@@ -28,6 +28,9 @@ const sidebars = {
         'components/about/getting-started',
         'components/about/home',
         'components/about/navigation',
+        'components/about/user-profile',
+        'components/about/settings',
+        'components/about/notifications',
       ],
     },
     {
@@ -60,20 +63,22 @@ const sidebars = {
             'components/households/household-actions',
             'components/households/entity-management',
             'components/households/activities',
+            {
+              type: 'category',
+              label: 'Financial Data',
+              items: [
+                'components/households/financials',
+                'components/institutions',
+
+              ],
+            },
             'components/households/planning',
+            'components/households/documents',
           ],
         },
         'components/custom-views',
-        {
-          type: 'category',
-          label: 'Financial Data',
-          items: [
-            'components/households/financials',
-            'components/institutions',
+        
 
-          ],
-        },
-        'components/client-service'
       ],
     },
       'components/opportunities',
@@ -145,10 +150,11 @@ const sidebars = {
          'components/my-practice/products',
          'components/my-practice/manage-team',
          'components/my-practice/service-models',
+          'components/my-practice/client-service',
          'components/my-practice/custom-fields',
       ]
     },
-
+      'components/super-mode',
   ]
 };
 

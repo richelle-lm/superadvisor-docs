@@ -10,7 +10,7 @@ This module acts as the compliance "Command Center," enabling you to initiate an
 
 The main dashboard offers a comprehensive view of all compliance activities, ensuring no client review is overlooked.
 
-![KYC Updates Dashboard](../assets/images/client-service/kyc-update-dashboard.png)
+![KYC Updates Dashboard](../../assets/images/client-service/kyc-update-dashboard.png)
 
 **KYC Updates Columns**
 
@@ -30,7 +30,7 @@ The main dashboard offers a comprehensive view of all compliance activities, ens
 
 This page provides a categorized overview of the client's financial and personal profile for a thorough review.
 
-![KYC Review Page](../assets/images/client-service/kyc-review-page.png)
+![KYC Review Page](../../assets/images/client-service/kyc-review-page.png)
 
 ### How to Access the KYC Review page
 
@@ -38,7 +38,7 @@ This page provides a categorized overview of the client's financial and personal
 2. Click the **KYC Update** item from the dashboard page.
 3. Alternatively, go to the individual household structure and locate the **Client Service**, then **KYC Updates**.
 
-![Access KYC Review Page](../assets/images/client-service/access-kyc-review.gif)
+![Access KYC Review Page](../../assets/images/client-service/access-kyc-review.gif)
 
 ### Review Categories
 
@@ -57,7 +57,7 @@ The page is organized into sections with relevant sub-modules:
 1. Hover over any category card to see a summary list of items within that section (e.g., "3 Investment Accounts"), helping identify areas needing attention.
 2. Click any category to open the corresponding page for direct data editing.
 
-![Updating KYC Page](../assets/images/client-service/updating-kyc-page.gif)
+![Updating KYC Page](../../assets/images/client-service/updating-kyc-page.gif)
 
 ## The KYC Workflow
 
@@ -76,7 +76,7 @@ The KYC process follows a structured lifecycle to ensure data integrity:
 5. A new record with "In Progress" status is created.
 6. Click on the item to redirecting you to the Household's **KYC Review** page for data entry.
 
-![Creating KYC Update](../assets/images/client-service/creating-kyc-update.gif)
+![Creating KYC Update](../../assets/images/client-service/creating-kyc-update.gif)
 
 ### Completing a Review
 1. Click a **KYC Update** item  with "In Progress" status from the dashboard.
@@ -90,7 +90,7 @@ The KYC process follows a structured lifecycle to ensure data integrity:
 9. Click the **Acknowledge KYC Review** button.
 10. Status changes to **Acknowledged**, with the current date stamped as the "Date of Completion."
 
-![Completing a Review](../assets/images/client-service/completing-review.gif)
+![Completing a Review](../../assets/images/client-service/completing-review.gif)
 
 :::note NOTE
 Only one active compliance workflow per household is allowed to prevent conflicting data versions. 

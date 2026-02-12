@@ -78,4 +78,4 @@ Manage your team's financial integrations and subscription status.
 
 * **Billing Mode:** View your current billing setup (e.g., Stripe Integration).
 * **Team Account Status:** Check if your onboarding is complete.
-* **Setup:** If onboarding is incomplete, click the Onboarding Link button to complete the Stripe integration process.
+* **Setup:** If onboarding is incomplete, click the **Generate Onboarding Link** button to complete the Stripe integration process.

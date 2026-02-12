@@ -60,7 +60,7 @@ To ensure a meeting is correctly scheduled:
     * **Securities**
 6. Enter the **Note Title**.
 7. Type your details in the **Note Content** area.
-:::note TIP
+:::tip TIP
 You can @mention team members or attach files directly within the text.
 :::
 8. Click **Save** to add the note to the meeting record.
