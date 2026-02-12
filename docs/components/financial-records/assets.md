@@ -134,7 +134,7 @@ The **Real Estate Properties** sub-page offers a consolidated view of property a
 
 **Real Estate Properties Standard List Columns:**
 
-* **NNickname:** The description or name of the property.
+* **Nickname:** The description or name of the property.
 * **Cost Basis:** The original value for tax purposes.
 * **Household:** The family associated with the property.
 * **Market Value:** The current estimated value.

@@ -15,7 +15,7 @@ Navigate to the **Emails** module and select **View Email Accounts**. Follow the
 ### 4. Add Your First Contacts 
 Head to the **Contacts** module. You can add a new contact manually to familiarize yourself with the data fields, or look for import options to bulk upload your existing client list.
 
-:::note TIP
+:::tip TIP
 When you add a Contact, the system effectively auto-creates a Household record to link them to. Check the **Households** module to see this connection in action.
 :::
 

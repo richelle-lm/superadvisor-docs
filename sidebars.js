@@ -26,47 +26,89 @@ const sidebars = {
       items: [
         'components/about/platform-overview',
         'components/about/getting-started',
+        'components/about/home',
         'components/about/navigation',
-    ],
-    },
-    {
-      type: 'category',
-      label: 'Contacts',
-      link: {type: 'doc', id: 'components/contacts/index'},
-      items: [
-        'components/contacts/contact-list',
-        'components/contacts/contact-actions',
-        'components/contacts/contact-profile',
+        'components/about/user-profile',
+        'components/about/settings',
+        'components/about/notifications',
       ],
     },
     {
       type: 'category',
-      label: 'Households',
-      link: {type: 'doc', id: 'components/households/index'},
+      label: 'Client Management',
+      link: {
+        type: 'generated-index',
+        title: 'Client Management',
+        description:
+          "Manage your relationships effectively with a comprehensive view of contacts and households. Learn how to customize client data with unique fields, build dynamic lists for servicing, and maintain compliance records.",
+        keywords: ['guides'],
+      },
       items: [
-        'components/households/household-list',
-        'components/households/household-actions',
-        'components/households/entity-management',
-        'components/households/financials',
-    ],
+        {
+          type: 'category',
+          label: 'Contacts',
+          link: {type: 'doc', id: 'components/contacts/index'},
+          items: [
+            'components/contacts/contact-list',
+            'components/contacts/contact-actions',
+            'components/contacts/contact-profile',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Households',
+          link: {type: 'doc', id: 'components/households/index'},
+          items: [
+            'components/households/household-list',
+            'components/households/household-actions',
+            'components/households/entity-management',
+            'components/households/activities',
+            {
+              type: 'category',
+              label: 'Financial Data',
+              items: [
+                'components/households/financials',
+                'components/institutions',
+
+              ],
+            },
+            'components/households/planning',
+            'components/households/documents',
+          ],
+        },
+        'components/custom-views',
+        
+
+      ],
     },
       'components/opportunities',
-      'components/tasks',
-      'components/workflows',
     {
       type: 'category',
-      label: 'Meetings',
-      link: {type: 'doc', id: 'components/meetings/index'},
+      label: 'Productivity Tools',
+      link: {
+        type: 'generated-index',
+        title: 'Productivity Tools',
+        description:
+          "Supercharge your daily efficiency using the AI Assistant (SuperMode) and integrated task management. Discover how to automate routine actions, manage your calendar with booking links, and keep detailed notes.",
+        keywords: ['tools'],
+      },
       items: [
-        'components/meetings/meetings-list',
-        'components/meetings/schedule-meetings',
-        'components/meetings/executing-meetings',
-        'components/meetings/manage-meetings',
-    ],
+        'components/tasks',
+        'components/emails',
+        {
+          type: 'category',
+          label: 'Meetings',
+          link: {type: 'doc', id: 'components/meetings/index'},
+          items: [
+            'components/meetings/meetings-list',
+            'components/meetings/schedule-meetings',
+            'components/meetings/executing-meetings',
+            'components/meetings/manage-meetings',
+          ],
+        },
+         'components/notes',
+      ]
     },
-      'components/emails',
-      'components/forms',
-      'components/custom-views',
     {
       type: 'category',
       label: 'Financial Records',
@@ -76,21 +118,43 @@ const sidebars = {
         'components/financial-records/liabilities',
         'components/financial-records/investments',
         'components/financial-records/pensions',
-    ],
+      ]
     },
-      'components/client-service',
+   {
+      type: 'category',
+      label: 'Operations & Process Automation',
+      link: {
+        type: 'generated-index',
+        title: 'Operations & Process Automation',
+        description:
+          "Standardize your service delivery and eliminate manual errors. Learn to build automated workflows for complex processes like onboarding and use custom forms to gather structured client data.",
+        keywords: ['automation'],
+      },
+      items: [
+        'components/workflows',
+        'components/forms',
+        'components/my-scenarios',
+      ]
+    },
     {
       type: 'category',
       label: 'My Practice',
-      link: {type: 'doc', id: 'components/my-practice/index'},
+      link: {
+        type: 'generated-index',
+        title: 'My Practice',
+        description:
+          "Configure the backend of your firm. Manage team permissions, set up billing products, white-label the platform with your branding, and define organization-wide settings.",
+        keywords: ['practice'],
+      },
       items: [
-        'components/my-practice/custom-fields',
-    ],
+         'components/my-practice/products',
+         'components/my-practice/manage-team',
+         'components/my-practice/service-models',
+          'components/my-practice/client-service',
+         'components/my-practice/custom-fields',
+      ]
     },
-    
-
-  
-   
+      'components/super-mode',
   ]
 };
 
