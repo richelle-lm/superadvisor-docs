@@ -11,8 +11,6 @@ This module is divided into two areas:
 
 ## Carriers
 
-### Overview
-
 **Carriers** are the financial institutions that issue the actual contracts (e.g., Manulife, RBC, Fidelity). Every product in the system must be linked to a Carrier to ensure accurate reporting in the Products & Packages module.
 
 ![Carriers Dashboard](../assets/images/institutions/carrier-dashboard.png)
@@ -35,7 +33,7 @@ This module is divided into two areas:
 
 ### How to Merge Carriers
 
-Use this feature to consolidate duplicate records (e.g., "Manulife" and "Manulife Financial") or handle company acquisitions.
+Use this feature to consolidate duplicate records (*e.g., "Manulife" and "Manulife Financial"*) or handle company acquisitions.
 
 1. Navigate to **Institutions** page, then **Carriers**.
 2. Locate the **Source Carrier** (the duplicate you wish to remove) in the list.
@@ -52,8 +50,6 @@ Notice: All associated records will be transferred to the target carrier.
 :::
 
 ## MGAs (Managing General Agents)
-
-### Overview
 
 MGAs are the brokerage firms, agencies, or "uplines" through which you submit business. If you contract through a larger agency rather than directly with a carrier, you must record them here to track commission splits correctly.
 

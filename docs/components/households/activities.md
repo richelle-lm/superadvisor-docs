@@ -35,58 +35,57 @@ You can refine the list to find specific types of work using the tab filters at 
     * **Items View:** Monitor active inventory (e.g., Task Name, Due Date, Status).
 
 * **Meetings:** Manages schedules and interaction history.
-    * Feed View: Track when meetings were booked or rescheduled.
-    * Items View: View upcoming events and AI Assistant summaries.
+    * **Feed View:** Track when meetings were booked or rescheduled.
+    * **Items View:** View upcoming events and AI Assistant summaries.
 
 * **Notes:** Captures unstructured data and internal knowledge.
-    * Feed View: See the timeline of internal collaboration and comments.
-    * Items View: Browse manual notes and AI Assistant summaries.
+    * **Feed View:** See the timeline of internal collaboration and comments.
+    * **Items View:** Browse manual notes and AI Assistant summaries.
 
 * **Forms:** Monitors compliance and data collection.
-    * Feed View: Audit transmission history (e.g., Client submitted Risk Profile).
-    * Items View: Check the status of specific data requests (Sent, In Progress, Submitted).
+    * **Feed View:** Audit transmission history (e.g., Client submitted Risk Profile).
+    * **Items View:** Check the status of specific data requests (Sent, In Progress, Submitted).
 
-* Emails: Provides a history of digital correspondence synced from Outlook/Gmail.
-    * Feed View: See the chronological flow of messages.
-    * Items View: Search logs by Subject Line, Sender, or Receiver.
+* **Emails:** Provides a history of digital correspondence synced from Outlook/Gmail.
+    * **Feed View:** See the chronological flow of messages.
+    * **Items View:** Search logs by Subject Line, Sender, or Receiver.
 
-* Workflows: Oversees complex, multi-stage projects (e.g., Onboarding).
-    * Feed View: Track overall progress and stage advancement.
-    * Items View: Monitor active projects, Current Stage, and % Complete.
+* **Workflows:** Oversees complex, multi-stage projects (e.g., Onboarding).
+    * **Feed View:** Track overall progress and stage advancement.
+    * **Items View:** Monitor active projects, Current Stage, and % Complete.
 
-* Life Events: Records significant personal milestones.
-    * Feed View: See when new life changes were recorded.
-    * Items View: Review the timeline of major milestones like Marriage or Retirement.
+* **Life Events:** Records significant personal milestones.
+    * **Feed View:** See when new life changes were recorded.
+    * **Items View:** Review the timeline of major milestones like Marriage or Retirement.
 
 ## How to Create an Activity
 
-You can initiate new actions directly from this dashboard without navigating away using the Quick Actions menu.
+You can initiate new actions directly from this dashboard without navigating away using the **Quick Actions** menu.
 
 ### Quick Actions
 
-1. Navigate to the Households page and select the specific household.
-2. Click the Activities tab.
-3. Click the Create Activity button in the top right corner.
+1. Navigate to the **Households** page and select the specific household.
+2. Click the **Activities** tab.
+3. Click the **Create Activity** button in the top right corner.
 4. Select an option from the **Quick Actions** dropdown menu.
     * **Task:** Create a new to-do item and assign it to a team member. See [**How to Create a Task page**](../tasks#how-to-create-a-task) for more information.
     * **Send Form:** Dispatch a specific form or data gathering request to the client. See [**How To: Custom Forms**](../forms#how-to-send-a-form)
     * **Workflow:** Launch a standardized multi-step process for this household. See: How To: Workflows
-    * Request Meeting: Email a booking link to the client so they can choose a time. See: How To: Creating Meeting Templates & Booking Links
-    * Schedule Meeting: Manually book a specific time on the calendar (Integrated with Zoom). See: Zoom Scheduling and Managing
-    * Log Manual Meeting: Record details of an interaction that happened offline. See: How To: Creating Meeting Templates & Booking Links
-    * Note: Write a standalone internal note or memo. See: How To: AI Assistant
-    * Life Event: Record a new milestone to update the client's profile.
-    * See: Managing Life Events
-    * Log a Contact: Add a new individual (e.g., spouse, child) to the household. See: Contact Management
-    * Send Email: Compose and send a message directly via your connected email account. See: How To: AI Assistant
+    * **Request Meeting:** Email a booking link to the client so they can choose a time. See: [**How To: Creating Meeting Templates & Booking Links**](../meetings/manage-meetings#how-to-add-a-meeting-template)
+    * **Schedule Meeting:** Manually book a specific time on the calendar (Integrated with Zoom). See: [**Zoom Scheduling and Managing**](../meetings/schedule-meetings)
+    * **Log Manual Meeting:** Record details of an interaction that happened offline. See: [**How To: Creating Meeting Templates & Booking Links**](../meetings/manage-meetings#how-to-add-a-meeting-template)
+    * **Note:** Write a standalone internal note or memo. See: [**How To: Create a Note**](../notes#how-to-create-a-note)
+    * **Life Event:** Record a new milestone to update the client's profile.
+    * **Log a Contact:** Add a new individual (e.g., spouse, child) to the household. See: [**How to Add a Contact**](../contacts/contact-actions#how-to-add-a-new-contact)
+    * **Send Email:** Compose and send a message directly via your connected email account. See: [**How To: Compose and Send an Email**](../emails#how-to-compose-and-send-an-email)
 
 ## Managing Activity Details
 
 Once an activity is created, you can drill down into the record to view more information, make edits, or take further action.
 
-1. Locate the Item: Use the Filters or Search Bar to find the specific activity in the list.
-2. Click the Name: Clicking the clickable title (e.g., the Email Subject or Task Name) will open the detailed view in a pop-up or side panel.
-3. **Take Action:** From the detail view, you can typically:
+1. Use the **Filters** or **Search** Bar to find the specific activity in the list.
+2. Click the title (e.g., the Email Subject or Task Name) to open the detailed view.
+3. From the detail view, you can typically:
     * Edit the details.
     * Change Status (e.g., mark a Task as Complete).
     * Add Comments for your team.

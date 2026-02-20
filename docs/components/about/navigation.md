@@ -16,21 +16,27 @@ The **Sidebar Menu** is your primary navigation rail, located on the left-hand s
 
 ![Sidebar Menu](../../assets/images/general/sidebar-menu.png)
 
-* **Dashboard & Activity:** Click **Home** to access the **Executive Summary Metric**s and your **Daily Activity Stream**, which aggregates tasks, meetings, and communications.
-* **SuperMode:** Click **SuperMode** to enter the high-velocity multitasking interface where you can utilize the AI Assistant and manage multiple tabs simultaneously.
-* **Client Management:** Click [**Contacts**](../contacts/#) and [**Households**](../households/#) to manage your "Golden Record" of relationships, accessing detailed profiles, family hierarchies, and entity structures.
-* **Sales & Pipeline:** Click [**Opportunities**](../opportunities) to view your sales funnel, tracking deal stages from "Lead" to "Onboarding" alongside revenue forecasts.
-* **Work Management:** Click [**Workflows**](../workflows), [**Tasks**](../tasks), and [**Meetings**](../meetings/#) to manage operational processes, tracking standardized checklists, individual to-dos, and your calendar events.
-* **Client Service:** Click **Client Service** to access the **KYC Updates** sub-page, where you can track and manage regulatory "Know Your Client" reviews across all households.
-* **Records & Communications:** Click **Notes** and [**Emails**](../emails) to review comprehensive communication history, including internal memos, client emails, and team assignments.
+* **Dashboard & Activity:** Click [**Home**](../about/home) to access the **Executive Summary Metric**s and your **Daily Activity Stream**, which aggregates tasks, meetings, and communications.
+
+* **Clients:** Click **Clients** (which houses [**Contacts**](../contacts/#) and [**Households**](../households/#) to manage your "Golden Record" of relationships, accessing detailed profiles, family hierarchies, and entity structures.
+
+* **Tasks & Workflows:** Click **Tasks & Workflows** (which houses [**Tasks**](../tasks) and [**Workflows**](../workflows)) to manage operational processes through standardized checklists and track your individual to-dos.
+
+* **Notes & Forms:** Click **Notes & Forms** (which houses [**Notes**](../notes) and [**Forms**](../forms)) to review comprehensive communication history, internal memos, and manage important client documentation or templates.
+
+* **Opportunities:** Click [**Opportunities**](../opportunities) to view your sales funnel, tracking deal stages from "Lead" to "Onboarding" alongside revenue forecasts.
+
+* **Calendar:** Click [**Calendar**](../meetings) to manage your schedule, track upcoming meetings, and organize your daily events.
+
+* **Inbox:** Click [**Inbox**](../emails) to directly review and manage your emails and external client communications.
+
 * **Financial Records:** Click [**Financial Records**](../financial-records/#) to access a business-wide, spreadsheet-style view of all client assets for aggregate analysis beyond individual profiles.
-* **Custom Views:** Click [**Custom Views**](../custom-views) to personalize your interface, creating tailored, saved lists of Contacts and Households that surface specific information exactly when you need it.
-* **Institutions:** Click **Institutions** to manage your firm's external relationships with carriers, MGAs, insurance companies, investment firms, and banks.
-* **My Practice:** Click [**My Practice**](../my-practice/#) to configure your firm's administrative hub, including Products, Service Models, Custom Fields, and Team permissions.
+
+* **My Practice:** Click [**My Practice**](../my-practice/#) to configure your firm's administrative hub, including [**Products**](../my-practice/products), Service Models, Custom Fields, and Team permissions.
+
+* **SuperMode:** Click [**SuperMode**](../super-mode) to enter the high-velocity multitasking interface where you can utilize the AI Assistant and manage multiple tabs simultaneously.
 
 ## Global Search
-
-**Overview**
 
 For immediate access to specific data points without clicking through multiple menus, SuperAdvisor creates a searchable index of your entire practice. This feature allows you to find contacts, households, and notes instantly across the business.
 

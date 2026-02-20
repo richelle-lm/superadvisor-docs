@@ -4,7 +4,7 @@
 
 The **Custom Views** module acts as your personalization engine for managing lists of **Contacts** and **Households**. It allows you to move beyond the default "All Records" display by creating tailored, saved views that surface exactly the information you need, when you need it. You can also customize your view directly from the Household or Contact records.
 
-Instead of repeatedly applying the same filters every time you log in, Custom Views let you build specific dashboards—like "High Net Worth Clients" or "Leads Needing Follow-up"—that persist. This feature empowers you to segment your book of business efficiently and focus on the relationships that matter most at any given moment.
+Instead of repeatedly applying the same filters every time you log in, **Custom Views** let you build specific dashboards—like "High Net Worth Clients" or "Leads Needing Follow-up"—that persist. This feature empowers you to segment your book of business efficiently and focus on the relationships that matter most at any given moment.
 
 ![Custom View Dashboard](../assets/images/custom-views/custom-views.png)
 
@@ -14,7 +14,7 @@ The **Custom Views** page is organized into two primary tabs: **Contacts** and *
 
 **Widgets:**
 Each saved view is represented by a card (widget) displaying key metadata:
-* **Name:** The custom title of the view (e.g., "VIP Clients").
+* **Name:** The custom title of the view (*e.g., "VIP Clients"*).
 * **Description:** Brief notes on what this view filters for.
 * **Last Updated:** The timestamp of the most recent modification.
 * **Columns:** A preview of the data fields included in this view.

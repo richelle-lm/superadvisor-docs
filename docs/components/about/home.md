@@ -10,7 +10,7 @@ Unlike static reports, this dashboard is designed for immediate action. Whether 
 
 For firms with multiple advisors or administrative support staff, the **Home Page** features a powerful global filter located at the top right of the dashboard.
 
-By selecting a specific name from the Primary Advisor dropdown, the entire dashboard repurposes itself to show data exclusive to that individual.
+By selecting a specific name from the **Primary Advisor** dropdown, the entire dashboard repurposes itself to show data exclusive to that individual.
 
 This feature is designed to help teams collaborate more effectively without getting overwhelmed by data. Advisors can use this filter to cut through firm-wide noise and focus strictly on their own tasks, meetings, and pipelines. Meanwhile, Admins and Support Staff can use it to "impersonate" an advisor's view. This allows support teams to step into an advisor's shoes to manage their schedule or organize their tasks, ensuring seamless support without needing to log in and out of different accounts.
 
@@ -101,4 +101,4 @@ The **AI Assistant** is embedded directly into the **Home Page** to provide a "N
 * **Multi-Tasking:** A single command can create a task, log a note, and draft an email simultaneously.
 * **Smart Scheduling:** The AI handles timezone math and calendar scanning.
 
-For advanced commands and setup instructions, please refer to the dedicated **AI Assistant Page**.
+For advanced commands and setup instructions, please refer to [**AI Assistant**](../super-mode#ai-assistant).

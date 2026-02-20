@@ -31,17 +31,17 @@ Use this feature to create a new "Golden Record."
 
 **Prerequisites**
 
-    * Ensure you have the contact's basic identity information (Legal Name) and at least one communication method.
+* Ensure you have the contact's basic identity information (Legal Name) and at least one communication method.
 
 1. Navigate to the **Contacts** dashboard.
 2. Click the **Add Contact** button.
 3. **Contact Details:**
-    * Select the **Type** (e.g., *Lead, Client*).
-    * Enter the **Identity** details: First Name, Last Name.
+    * Select the **Type** (*e.g., Lead, Client*).
+    * Enter the **Identity** details: *First Name, Last Name*.
     * Select the **Gender** and input **Tax IDs**.
 4. **Opportunity:**
     * Select the **Discovery Method** and **Source**.
-    * Choose an **Opportunity Template** (e.g., *Onboarding*).
+    * Choose an **Opportunity Template** (*e.g., Onboarding*).
 5. **Contact Information:**
     * Enter the **Primary Email** and **Phone Number**.
 6. **Advisor Assignment:**
@@ -58,4 +58,4 @@ You will be returned to the list view; search for the name you recently added to
 
 ## Launching Workflows from Contacts
 
-Workflows can be triggered directly from the Contacts dashboard or an individual profile to automate follow-up tasks. For step-by-step instructions, see [**How to Launch a Workflow in the Workflows**](../workflows#how-to-launch-a-workflow) module.
+**Workflows** can be triggered directly from the **Contacts** dashboard or an individual profile to automate follow-up tasks. For step-by-step instructions, see [**How to Launch a Workflow in the Workflows**](../workflows#how-to-launch-a-workflow) module.

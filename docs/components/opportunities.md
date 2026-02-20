@@ -16,7 +16,7 @@ The main dashboard provides a high-level command center for tracking revenue and
     * **All Stages:** Filter deals by specific phases (*Discovery, Lead, Onboarding, Proposal, Closed Won, Closed Lost*).
     * **Opportunity Type:** Filter by the kind of deal.
 
-* **Pipeline Metrics:** These metrics provide a snapshot of your pipeline's health. The specific values displayed will change based on your Toggle selections (AUM/Revenue and Gross/Adjusted).
+* **Pipeline Metrics:** These metrics provide a snapshot of your pipeline's health. The specific values displayed will change based on your **Toggle** selections (*AUM/Revenue and Gross/Adjusted*).
     * **Expected AUM:** The probability-weighted value of all assets in your pipeline.
     * **Pipeline AUM:** The total raw value of all assets in your pipeline (unweighted).
     * **Expected Revenue:** The probability-weighted adjusted value of fees you expect to earn.
@@ -29,10 +29,10 @@ The main dashboard provides a high-level command center for tracking revenue and
 * **View Toggles:** The toggles allow you to shift the perspective of your data for deeper analysis:
     * **Gross / Adjusted:** 
         * **Gross (Total Value):** Shows the "best-case scenario" sum of all potential deals, regardless of likelihood.
-        * **Adjusted (Probability Weighted):** Shows a realistic forecast by multiplying the Gross Value by the Confidence % of each deal (e.g., a $1M deal at 50% confidence counts as $500k).
+        * **Adjusted (Probability Weighted):** Shows a realistic forecast by multiplying the **Gross Value by the Confidence** % of each deal (*e.g., a $1M deal at 50% confidence counts as $500k*).
     * **AUM / Revenue:**
-        * **AUM (Assets Under Management):** Displays the value of the client assets being brought in (e.g., "Size of the book").
-        * **Revenue:** Displays the actual fees or income expected from those assets (e.g., "Income generated").
+        * **AUM (Assets Under Management):** Displays the value of the client assets being brought in (*e.g., "Size of the book"*).
+        * **Revenue:** Displays the actual fees or income expected from those assets (*e.g., "Income generated"*).
 
 ### How to Understand Pipeline Metrics with Toggles
 
@@ -47,15 +47,15 @@ The main dashboard provides a high-level command center for tracking revenue and
 ### Active Pipeline Visualizer
 
 This is s graphical breakdown of your team's opportunities.
-The chart breaks down the pipeline into stages: Leads, Discovery, Proposal, and Onboarding.
-For each stage, you can see the Number of Deals, which is the count of active opportunities in that stage, and the total Amount ($) currently sitting in that phase.
+The chart breaks down the pipeline into stages: *Leads, Discovery, Proposal, and Onboarding*.
+For each stage, you can see the **Number of Deals**, which is the count of active opportunities in that stage, and the total Amount ($) currently sitting in that phase.
 
 ![Opportunity Views](../assets/images/opportunities/opp-pipeline.png)
 
 ### How to Analyze the Pipeline
 
 1. Locate the **Active Pipeline** chart on the dashboard. This visualizes your opportunities.
-2. Use the toggle buttons (Gross/Adjusted) above the chart to switch between:
+2. Use the toggle buttons (*Gross/Adjusted*) above the chart to switch between:
     * **Gross:** The total value of all deals in the pipeline.
     * **Adjusted:** The probability-weighted value (Gross Value * Confidence %), providing a more realistic forecast.
 3. Click the other toggle buttons (AUM/Revenue) to switch between:
@@ -89,8 +89,8 @@ If an opportunity is already running, you will see an error: "An active opportun
 :::
 4. Click the **Create New Opportunity** link.
 5. Configure the following:
-    * **Opportunity Name:** Enter a descriptive title (e.g., "Walton Household - New Investment").
-    * **Opportunity Template:** Select the appropriate process from the dropdown (e.g., "Maven Wealth Sales Process").
+    * **Opportunity Name:** Enter a descriptive title (*e.g., "Walton Household - New Investment"*).
+    * **Opportunity Template:** Select the appropriate process from the dropdown (*e.g., "Maven Wealth Sales Process"*).
 6. Once created, you will be redirected to the detailed opportunity page.
 
 ![Create Opportunity](../assets/images/opportunities/create-opp.gif)

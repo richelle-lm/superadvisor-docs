@@ -2,9 +2,9 @@
 
 ## Overview
 
-The **Notes** module is the primary tool for qualitative record-keeping within SuperAdvisor. It allows advisors and support staff to document interactions, observations, and meeting minutes in a structured, searchable format.
+The **Notes** module is the primary tool for qualitative record-keeping within **SuperAdvisor**. It allows advisors and support staff to document interactions, observations, and meeting minutes in a structured, searchable format.
 
-Unlike static text fields, **Notes** are dynamic. They support **Entity Linking**, **@Mentions** for team collaboration, and Templates for standardized reporting. Additionally, the platform's AI Assistant can draft notes automatically based on voice commands.
+Unlike static text fields, **Notes** are dynamic. They support **Entity Linking**, **@Mentions** for team collaboration, and **Templates** for standardized reporting.
 
 ## The Notes Dashboard
 

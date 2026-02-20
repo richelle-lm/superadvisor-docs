@@ -44,7 +44,7 @@ Use this feature to modify existing questionnaires or update the specific data c
 ### How to Preview a Form
 
 1. Navigate to the **Forms** page and select the **Manage Templates** link.
-2. Locate the specific template you wish to review and click the Edit button to enter the builder interface.
+2. Locate the specific template you wish to review and click the **Edit** button to enter the builder interface.
 3. Click the **Preview** button to generate a mock view of the document.
 4. The system will open a new window displaying the form exactly as the recipient will see it, allowing you to verify that all questions and fields are formatted correctly.
 

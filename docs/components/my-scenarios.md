@@ -21,10 +21,10 @@ The **Dashboard** is your primary view, providing a high-level list of all confi
 
 When viewing the main list, you will see the following standard columns:
 
-* **Scenario Name:** The specific action the system is performing (e.g., Enrich Profile from LinkedIn Link).
+* **Scenario Name:** The specific action the system is performing (*e.g., Enrich Profile from LinkedIn Link*).
 * **Owner:** The user account (email) authenticated to run the automation. This is critical for maintaining valid integration tokens.
-* **Schedule:** Indicates the trigger frequency (e.g., Immediately, On Demand).
-* **Status:** The current state of the automation (e.g., Active, Inactive).
+* **Schedule:** Indicates the trigger frequency (*e.g., Immediately, On Demand*).
+* **Status:** The current state of the automation (*e.g., Active, Inactive*).
 
 ### Understanding Schedule Types
 
@@ -51,8 +51,8 @@ To view specific configuration details or troubleshoot a specific automation, yo
 
 Once inside the individual page, you will see a detailed breakdown of the automation's configuration:
 * **Description:** Internal notes about the automation. If empty, you may see There is no description for this scenario.
-* **Status:** Displays the toggle state, confirming if the scenario is Active (running) or Inactive (paused).
-* **Scheduling Method:** Verifies the trigger type configured on the backend (e.g., Immediately).
+* **Status:** Displays the toggle state, confirming if the scenario is **Active** (running) or **Inactive** (paused).
+* **Scheduling Method:** Verifies the trigger type configured on the backend (*e.g., Immediately*).
 * **Last Execution:** Shows the timestamp of the last successful run. This is your primary indicator that the system is working.
-* **Modules Used:** Lists the specific applications connected in this automation (e.g., Google Calendar, SuperAdvisor).
+* **Modules Used:** Lists the specific applications connected in this automation (*e.g., Google Calendar*).
 * **Executions:** A historical log located at the bottom of the page, useful for troubleshooting errors or auditing past actions.
