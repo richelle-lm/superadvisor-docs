@@ -34,8 +34,8 @@ You can refine the task list using the following criteria:
 
 * **Assignee:** The team member responsible.
 * **Task Types:** Task template used.
-* **Status:** The state of the task (e.g., Todo, In Progress).
-* **Priority:** Urgency level (e.g., High, Low).
+* **Status:** The state of the task (*e.g., Todo, In Progress*).
+* **Priority:** Urgency level (*e.g., High, Low*).
 * **Templates:** Filter tasks based on the workflow template used.
 * **Due Date:** Deadlines for completion.
 
@@ -68,8 +68,8 @@ Use this feature to generate a new action item and link it to a specific record 
     * **Task Title:** Enter a clear name for the activity.
     * **Select from Template:** Choose a pre-defined structure.
     * **Assigned to / Due by:** Select the team member and set the deadline.
-    * **Status:** Set the current state (e.g., Todo).
-    * **Linked Records:** Search and select the entity (e.g., Contact, Household, Corporation).
+    * **Status:** Set the current state (*e.g., Todo*).
+    * **Linked Records:** Search and select the entity (*e.g., Contact, Household, Corporation*).
     * **Repetition:** Set a recurrence schedule or confirm "This task does not repeat".
     * **Description:** Add detailed context or instructions.
 3. Click **Save**.
@@ -98,13 +98,13 @@ This page serves as the management hub for all your task blueprints. The table d
 
 * **Name:** The display name of the template.
 * **Description:** A summary of the template's purpose.
-* **Target Entity:** The record type it applies to (e.g., Contact, Household).
+* **Target Entity:** The record type it applies to (*e.g., Contact, Household*).
 * **Assignee Type:** The role or group assigned by default.
 * **Last Updated:** The date the template was last modified.
 
 ![Task Templates Page](../assets/images/tasks/task-templates-page.png)
 
-From this page, you can select the Edit icon to modify a blueprint or the Trash icon to delete an unnecessary template.
+From this page, you can select the **Edit** icon to modify a blueprint or the **Trash** icon to delete an unnecessary template.
 
 ### How to Create a Task Template
 
@@ -117,7 +117,7 @@ Use this feature to build a blueprint for your most common team actions.
 5. Complete the **Task Configuration**:
     * **Title / Description:** Define the default task name and instructions.
     * **Due date (days after creation):** Enter the number of days until the task is due.
-    * **Assignee Type:** Choose from Professional, Team, or Group.
+    * **Assignee Type:** Choose from *Professional*, *Team*, or *Group*.
     * **Assignee:** Select the specific user or role based on the type.
 6. Click **Save**.
 
@@ -143,7 +143,7 @@ Whether you are [building a new **Workflow Template**](../components/workflows#h
 1. Enter a **Title** and **Description** to provide clear instructions for the team member.
 2. Set the **Due Date (days)** to establish a deadline.
 3. Select the **Due After** trigger to decide if the deadline counts from the **Step Start** or the **Workflow Start**.
-4. Define the **Assignee Type** (e.g., Team, Group, or Professional) and **Specify Assignee **to designate the responsible party.
+4. Define the **Assignee Type** (*e.g., Team, Group, or Professional*) and **Specify Assignee** to designate the responsible party.
 
 ![Basic Task in Workflow](../assets/images/tasks/wf-basic-task.gif)
 
@@ -152,7 +152,7 @@ Whether you are [building a new **Workflow Template**](../components/workflows#h
 *Use this to automate client or internal communication.*
 
 1. Enter a **Title** for the email step.
-2. Select a pre-written message from your Email Template library.
+2. Select a pre-written message from your **Email Template** library.
 3. Choose the **Email Sender** by selecting a **Sender Type** and specifying the individual or group.
 4. Configure the **Recipient** by setting the **Assignee Type** to determine who receives the message.
 
@@ -182,7 +182,7 @@ Use this for digital paperwork and questionnaires.
 
 ## Recurring Processes
 
-Recurring Processes allow you to automate the generation of tasks based on a specific schedule (e.g., Monthly Billing Review, Quarterly Compliance Check). This ensures that routine maintenance work is never missed.
+**Recurring Processes** allow you to automate the generation of tasks based on a specific schedule (*e.g., Monthly Billing Review, Quarterly Compliance Check*). This ensures that routine maintenance work is never missed.
 
 ### The Recurring Processes Page
 
@@ -193,7 +193,7 @@ This page acts as a central hub for managing your team's repeating workloads. Th
 * **Name:** The name of the process.
 * **Schedule:** The frequency of task creation.
 * **Status:** Indicates if the process is currently active.
-* **Created / Updated:** Timestamps for the process setup.
+* **Created/Updated:** Timestamps for the process setup.
 
 ### The Recurring Process Details Page
 
@@ -206,7 +206,7 @@ When you click on a specific process from the list, the system opens a detailed 
     * **Status:** The current operational state (Active/Inactive).
     * **Schedule:** The defined repeat frequency.
     * **Coming up next:** The exact date the next task instance will be created.
-    * **Process Timestamps:** Shows the Created and Last Updated dates for the process configuration.
+    * **Process Timestamps:** Shows the **Created** and **Last Updated** dates for the process configuration.
 
 ![Recurring Process - Overview Tab](../assets/images/tasks//task-overview.png)
 
@@ -215,7 +215,7 @@ When you click on a specific process from the list, the system opens a detailed 
     *Use this tab to audit past performance.*
 
     * **Created:** The date a specific task instance was generated.
-    * **Status:** The current state of that specific task (e.g., Done, In Progress).
+    * **Status:** The current state of that specific task (*e.g., Done, In Progress*).
 
 ![Recurring Process - History Tab](../assets/images/tasks/task-history.png)
 
@@ -225,15 +225,15 @@ Use this to automate repeating items like "Monthly Billing Review" or "Annual Co
 
 1. Navigate to the **Recurring Processes** page.
 2. Click on a task to open the **Details** page.
-    * **Overview Tab:** Monitor the Status, Schedule, and the Coming up next (date of next task generation).
+    * **Overview Tab:** Monitor the **Status**, **Schedule**, and the **Coming up next** (date of next task generation).
     * **History Tab:** View the status of every task instance previously created by this process.
 3. Click **Edit Process** to modify it.
 4. Enter or update the **Process Name**.
-5. **Activate the Process:** Toggle the switch to Process is active and will generate tasks. (Turning this off pauses the automation).
+5. **Activate the Process:** Toggle the switch to *Process* is active and will generate tasks. (Turning this off pauses the automation).
 6. **Set the Schedule:**
-    * **Repeat Frequency:** Define how often the task repeats (e.g., Daily, Weekly, Monthly).
-    * **Schedule From:** Choose whether the schedule calculates based on the Last Created task or the Last Updated date.
-7. **Select Template:** Choose the **Task Template** you created in the previous step. This determines the Title, Description, Due Date, and Assignee for every instance generated.
+    * **Repeat Frequency:** Define how often the task repeats (*e.g., Daily, Weekly, Monthly*).
+    * **Schedule From:** Choose whether the schedule calculates based on the *Last Created* task or the *Last Updated* date.
+7. **Select Template:** Choose the **Task Template** you created in the previous step. This determines the *Title*, *Description*, *Due Date*, and *Assignee* for every instance generated.
 8. Click **Save**.
 
 ![Recurring Process](../assets/images/tasks/recurring-task.gif)

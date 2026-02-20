@@ -4,10 +4,10 @@ Tools to manage household records, including creation and merging.
 
 ## How to Search and Filter Households
 
-1. Navigate to the Households page.
-2. Click the Search bar.
-3. Type a Family Name or Household Name.
-4. (Optional) Click Filter to refine by Primary Advisor or Status.
+1. Navigate to the **Households** page.
+2. Click the **Search** bar.
+3. Type a *Family Name* or *Household Name*.
+4. (Optional) Click **Filter** to refine by *Primary Advisor* or *Status*.
 
 ## How to Create a Household
 

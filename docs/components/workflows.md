@@ -128,31 +128,31 @@ If you want to change something, just tell ChatGPT: “Add another step for conf
 :::
 4. Save the JSON File.
 * **Windows (Notepad)**
-    - Copy the full JSON text from ChatGPT.
+    - Copy the full **JSON** text from **ChatGPT**.
     - Open **Notepad** (Start > type “Notepad”).
-    - Paste the JSON into Notepad.
+    - Paste the **JSON** into *Notepad*.
     - Go to **File > Save As…**
         - **File name:** `workflow.json`
         - **Save as type:** **All Files (*.*)**
         - **Encoding:** **UTF-8**
     - Click **Save**.
     :::tip TIP
-    If Windows adds “.txt” by mistake (e.g., `workflow.json.txt`), right-click the file > **Rename** > remove `.txt`.
+    If **Windows** adds “.txt” by mistake (e.g., `workflow.json.txt`), right-click the file > **Rename** > remove `.txt`.
     :::
 * **Mac (TextEdit)**
-    - Copy the full JSON text from ChatGPT.
+    - Copy the full **JSON** text from **ChatGPT**.
     - Open **TextEdit**.
     - Go to **TextEdit > Settings/Preferences** and set:
-        - New Document: Plain Text
+        - **New Document:** Plain Text
         - Turn off “Smart Quotes” and “Smart Dashes.”
-    - Paste the JSON into the document.
+    - Paste the **JSON** into the document.
     - Go to **File > Save As…**
         - **Save As:** `workflow.json`
         - Choose **UTF-8** encoding.
         - If it defaults to `.txt`, type `.json` manually.
     - Click **Save**.
     :::tip TIP
-    If Finder hides extensions and you see `workflow.json.txt`, enable **Show all filename extensions** in Finder settings, then rename.
+    If **Finder** hides extensions and you see `workflow.json.txt`, enable **Show all filename extensions** in Finder settings, then rename.
     :::
 
 ### Importing and Exporting Workflow Templates

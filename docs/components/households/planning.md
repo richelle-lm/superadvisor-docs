@@ -2,18 +2,16 @@
 
 ## Overview
 
-The **Planning** module serves as the strategic roadmap for the client relationship. While the Financials module tracks the current state of wealth (assets and liabilities), the Planning module focuses on the future—defining objectives, analyzing coverage, and structuring the legal and financial frameworks necessary to achieve long-term success.
+The **Planning** module serves as the strategic roadmap for the client relationship. While the **Financials** module tracks the current state of wealth (assets and liabilities), the Planning module focuses on the future—defining objectives, analyzing coverage, and structuring the legal and financial frameworks necessary to achieve long-term success.
 
 It is divided into four distinct sub-modules to address different pillars of the client's financial life:
 
 * **Goals:** Define and track specific lifestyle and financial objectives.
-* Financial Plan: Centralize strategic calculations, projections, and plan documents.
-* Will & Estate: Manage the estate planning infrastructure, including legal documents and asset distribution strategies.
-* Insurance: Analyze risk management, coverage needs, and active policies.
+* **Financial Plan:** Centralize strategic calculations, projections, and plan documents.
+* **Will & Estate:** Manage the estate planning infrastructure, including legal documents and asset distribution strategies.
+* **Insurance:** Analyze risk management, coverage needs, and active policies.
 
 ## Goals
-
-### Overview
 
 The **Goals** section allows advisors to document, track, and manage specific milestones a client wishes to achieve. This section moves beyond simple numbers to capture the "why" behind the wealth. By defining tangible objectives—such as "Retirement at 65" or "Fund Grandchildren's Education"—you can prioritize resources (Needs vs. Wants) and monitor funding progress relative to target dates.
 
@@ -42,8 +40,6 @@ The **Goals** sub-page offers a consolidated view of the client's financial obje
 
 ## Financial Plan
 
-### Overview
-
 The **Financial Plan** section acts as the central hub for the broader strategy documents and projections that tie the client's assets to their goals. This is where high-level analysis—such as retirement projections, probability of success metrics, and cash flow models—is centralized. It also serves as the repository for formal plan deliverables and strategic notes (e.g., "Roth Conversion Strategy") ensuring all team members are aligned on the current approach.
 
 ### Navigating the Dashboard
@@ -54,8 +50,6 @@ The **Financial Plan** page offers a high-level summary of the client's strategi
 * **Strategy Notes:** Review documentation of core strategies currently in play.
 
 ## Will & Estate
-
-### Overview
 
 The **Will & Estate** section functions as a comprehensive repository for a client’s estate planning infrastructure. It centralizes the management of critical legal documents—such as Wills, Powers of Attorney, or Medical Directives — while simultaneously tracking the financial parameters of the estate plan itself (Current vs. Desired Value).
 
@@ -184,8 +178,6 @@ The dashboard will display a **Progress** percentage, visually indicating how cl
 ![Add Estate Plan](../../assets/images/financials/planning-estate-plan.gif)
 
 ## Insurance
-
-### Overview
 
 The **Insurance** section focuses on risk management, ensuring that the client's wealth and goals are protected against unforeseen events. It provides a comprehensive view of insurance needs versus active policies, grouped by the insured entity (people, corporations, trusts, foundations).
 

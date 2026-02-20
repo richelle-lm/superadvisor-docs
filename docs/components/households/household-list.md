@@ -7,17 +7,17 @@ The **Households Dashboard** provides a centralized list of all family units, of
 ![Household page](../../assets/images/household/household.png)
 
 :::note NOTE
-You can customize this dashboard by filtering data, toggling columns, and saving your configurations. For detailed instructions on creating and managing these views, please refer to the Custom Views module.
+You can customize this dashboard by filtering data, toggling columns, and saving your configurations. For detailed instructions on creating and managing these views, please refer to the [**Custom Views**](../custom-views) module.
 :::
 
 ## View Options
 
   * **All Records:** Displays every household currently in the system.
-  * **Custom Views:** Allows you to create saved filters (e.g., "A-Tier Households") for quick access. See the "Custom Views" topic for setup instructions.
+  * **Custom Views:** Allows you to create saved filters (e.g., "A-Tier Households") for quick access. For detailed instructions on creating and managing these views, please refer to the [**Custom Views**](../custom-views) module.
 
 ## Search & Column Settings
   * **Search Option:** Locate specific households by family name or household name.
-  * **Filter & Columns:** Like the Contacts page, you can filter the list and customize which data columns are visible.
+  * **Filter & Columns:** Like the [**Contacts**](../contacts) page, you can filter the list and customize which data columns are visible.
 
 :::note NOTE
 If your selected filters do not match any records, the system will display a "No records yet.

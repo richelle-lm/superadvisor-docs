@@ -78,7 +78,7 @@ The Manage Meetings area allows you to configure your scheduling infrastructure.
 
 ![Create Booking Page](../../assets/images/meetings/create-booking-page.gif)
 
-### How to Manage Booking Pages**
+### How to Manage Booking Pages
 
 * **Edit:** Locate the page in the list and click the Edit icon to modify settings like the assigned host or linked schedule.
 * **Duplicate:** Use the Duplicate option to clone a booking page. This is useful when setting up similar pages for different team members.
