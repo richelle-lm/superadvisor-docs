@@ -141,7 +141,7 @@ const sidebars = {
       items: [
           'components/my-practice/products',
           'components/my-practice/manage-team',
-          'components/my-practice/service-models',
+          //'components/my-practice/service-models',
           'components/my-practice/client-service',
           'components/my-practice/custom-fields',
           'components/institutions',
