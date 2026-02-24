@@ -95,8 +95,6 @@ Use this feature to customize an active process or update its structure.
     * Use drag-and-drop handles to reorder steps or tasks, and use the trash icon to delete unnecessary items.
 6. **Custom Fields:** You can add or modify Custom Fields associated with this specific workflow instance to track unique data points.
 
-![Edit Workflow Details](../assets/images/workflows/edit-wf-details.gif)
-
 ## How to Manage Workflow Templates
 This section outlines the complete lifecycle of managing workflow blueprints, from creation to refinement. You can build templates manually for precise control, use AI to generate complex structures instantly, or modify existing workflows to adapt to new business needs.
 
@@ -110,8 +108,6 @@ This section outlines the complete lifecycle of managing workflow blueprints, fr
 4. Click **Add Step** to add the first stage of the process.
 5. Within each step, add specific action items.
 6. Click **Create Template** to save.
-
-![Create a Workflow Template](../assets/images/workflows/create-wf-template.gif)
 
 ### How to Generate a Workflow Template with AI
 
@@ -166,8 +162,6 @@ If you want to change something, just tell ChatGPT: “Add another step for conf
     :::
 
 * **Exporting:** To share your custom workflows or back them up, select a template from your list and choose the Export option. This generates a file that can be imported into another **Super Advisor** instance.
-
-![Export and Import a Workflow Template](../assets/images/workflows/import-wf-template.gif)
 
 ### How to Edit a Workflow Template
 

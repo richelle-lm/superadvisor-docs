@@ -24,15 +24,11 @@ The Planning module is divided into four distinct sub-modules:
 
 The **Goals** section allows advisors to document, track, and manage specific milestones a client wishes to achieve. This section moves beyond simple numbers to capture the "why" behind the wealth. By defining tangible objectives—such as "Retirement at 65" or "Fund Grandchildren's Education"—you can prioritize resources (Needs vs. Wants) and monitor funding progress relative to target dates.
 
+![Goals Dashboard](../../assets/images/financials/planning-goals.png)
+
 ### Navigating the Dashboard
 
 The **Goals** sub-page offers a consolidated view of the client's financial objectives and their current funding status.
-
-**View Options:**
-
-* **All Goals:** A complete list of active and completed goals.
-* **Progress Tracking:** Visual indicators showing the funding status relative to the required capital.
-* **Categories:** Goals are organized by type (e.g., Invest, Saving, Debt, Expense) to ensure they map correctly to the financial plan.
 
 ### How to Add a Goal
 
@@ -41,7 +37,7 @@ The **Goals** sub-page offers a consolidated view of the client's financial obje
 3. In the **Add Goal** pop-up, enter the following details:
     * **Select Category:** Choose the specific goal type from the list below to ensure proper classification:
     * **Invest:** General Investing, Retirement.
-    * **Saving:** Safety Net (Cash Reserves).
+    * **Saving:** Cash Reserves(Safety Net).
     * **Debt:** Debt Repayment.
     * **Expense:** Education, First Home Purchase, Investment Property Purchase, Large Purchase, Vacation Home Purchase, Charity, Dependent, Emergency, Health Care, HOA Fees, Improvement, Insurance, Maintenance, Medical Expenses, Needs, Rent, Tax, Travel, Vacation, Wants, Wedding, Other Expense.
     * **Enter Details:** Fill in the specific parameters for the goal (e.g., Target Date, Target Amount).
@@ -50,6 +46,8 @@ The **Goals** sub-page offers a consolidated view of the client's financial obje
 ## Financial Plan
 
 The **Financial Plan** section acts as the central hub for the broader strategy documents and projections that tie the client's assets to their goals. This is where high-level analysis—such as retirement projections, probability of success metrics, and cash flow models—is centralized. It also serves as the repository for formal plan deliverables and strategic notes (e.g., "Roth Conversion Strategy") ensuring all team members are aligned on the current approach.
+
+![Financial Plan Dashboard](../../assets/images/financials/planning-financial-plan.png)
 
 ### Navigating the Dashboard
 
@@ -190,7 +188,7 @@ The dashboard will display a **Progress** percentage, visually indicating how cl
 
 The **Insurance** section focuses on risk management, ensuring that the client's wealth and goals are protected against unforeseen events. It provides a comprehensive view of insurance needs versus active policies, grouped by the insured entity (people, corporations, trusts, foundations).
 
-![Planning Insurance Page](../../assets/images/financials/planning-insurance-page.png)
+![Planning Insurance Page](../../assets/images/financials/planning-insurance.png)
 
 ### Navigating the Dashboard
 
@@ -214,7 +212,7 @@ The **Insurance** page offers a consolidated view of protection status.
     * **Required Coverage Amount:** Enter the calculated dollar amount needed to fully protect the entity against the specified risk (e.g., the amount required to pay off liabilities and replace income).
 4. Click **Add**.
 
-![Add an Insurance Need](../../assets/images/financials/planning-insurance-need.gif)
+![Add an Insurance Need](../../assets/images/financials/planning-add-insurance-need.gif)
 
 ### How to Add an Insurance Policy
 
@@ -249,7 +247,7 @@ The **Insurance** page offers a consolidated view of protection status.
         * **Status:** Choose from *Active, Cancelled, Expired, Lapsed, Pending, Surrendered*.
 4. Click **Add Insurance Policy**.
 
-![Add Insurance Policy](../../assets/images/financials/planning-insurance-policy.gif)
+![Add Insurance Policy](../../assets/images/financials/planning-add-insurance-policy.gif)
 
 ### Insurance Policy Types
 

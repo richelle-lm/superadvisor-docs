@@ -75,16 +75,18 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Get Started',
-                to: '/',
-              },
-            ],
+            // this is where you add links in Footer
+            // title: 'Docs',
+            // items: [
+            //   {
+            //     label: 'Get Started',
+            //     to: '/',
+            //   },
+            // ],
           },
         ],
-        copyright: `Copyright \u00A9 ${new Date().getFullYear()} Super Advisor. Built with Docusaurus.`,
+        //this is where you add copyright
+        //copyright: `Copyright \u00A9 ${new Date().getFullYear()} Super Advisor. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

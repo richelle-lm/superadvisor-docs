@@ -10,7 +10,7 @@ Forms can be sent directly to clients for self-completion or used internally by 
 
 The main **Forms** dashboard provides a clear overview of all data collection activities.
 
-![Forms Dashboard](../assets/images/forms/forms-dashboard.png)
+![Forms Dashboard](../assets/images/forms/forms.png)
 
 ### View Options
 
@@ -39,16 +39,12 @@ Use this feature to modify existing questionnaires or update the specific data c
     * **Save to custom fields:** Data automatically updates the client's profile record.
 6. Save your template.
 
-![Edit Form Template](../assets/images/forms/edit-form-template.gif)
-
 ### How to Preview a Form
 
 1. Navigate to the **Forms** page and select the **Manage Templates** link.
 2. Locate the specific template you wish to review and click the **Edit** button to enter the builder interface.
 3. Click the **Preview** button to generate a mock view of the document.
 4. The system will open a new window displaying the form exactly as the recipient will see it, allowing you to verify that all questions and fields are formatted correctly.
-
-![Preview Form](../assets/images/forms/preview-form.gif)
 
 ### How to Send a Form
 
@@ -60,5 +56,3 @@ Use this feature to modify existing questionnaires or update the specific data c
     * **Client completes:** The system emails the form link to the client for them to fill out remotely.
     * **Team member completes:** The form opens immediately for you or a colleague to fill out (*e.g., during a live meeting*).
 6. Click **Send Form**.
-
-![How to Send a Form](../assets/images/forms/send-form.gif)

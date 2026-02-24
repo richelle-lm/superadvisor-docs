@@ -18,7 +18,7 @@ For instance, when a client is retiring and needs to draw down funds, this recor
 
 The **Investment Accounts** sub-page offers a consolidated view of client cash holdings and liquid assets.
 
-![Investment Accounts Dashboard](../../assets/images/financials/investment-accounts-dashboard.png)
+![Investment Accounts Dashboard](../../assets/images/financials/investment-accounts.png)
 
 **View Options:**
 * **All Records:** A complete list of all investment accounts.
@@ -73,7 +73,7 @@ For an executive client with 10,000 ISOs vesting over 4 years, mapping out the V
 
 The **Company Equity** sub-page offers a specialized view for managing complex compensation packages.
 
-![Company Equity Dashboard](../../assets/images/financials/company-equity-dashboard.png)
+![Company Equity Dashboard](../../assets/images/financials/company-equity.png)
 
 **View Options:**
 
@@ -123,7 +123,7 @@ This sub-module tracks alternative investments like Private Equity, Hedge Funds,
 
 The **Private Investments** sub-page offers a view of non-public market holdings.
 
-![Private Investments Dashboard](../../assets/images/financials/private-investments-dashboard.png)
+![Private Investments Dashboard](../../assets/images/financials/private-investments.png)
 
 **View Options:**
 

@@ -35,8 +35,6 @@ The Email Signatures page serves as a library for all your saved signature templ
     * **Usage:** Metrics on how often it is used.
 4. **Actions:** Hover over a specific signature row to **View**, **Edit**, **Duplicate**, or **Delete** the record.
 
-![View Email Signatures](../assets/images/email/view-email-signature.gif)
-
 ### How to Create or Edit an Email Signature
 
 Use this feature to standardize your professional branding on all outgoing communications.
@@ -55,8 +53,6 @@ Use this feature to standardize your professional branding on all outgoing commu
 :::tip DESIGN TIP
 Keep your signature concise and professional. Ensure you use consistent fonts and check how the design looks on mobile devices before finalizing.
 :::
-
-![Create Email Signature](../assets/images/email/create-email-signature.gif)
 
 ### How to Compose and Send an Email
 
@@ -81,8 +77,6 @@ Keep your signature concise and professional. Ensure you use consistent fonts an
     * Reference Entities (Contact/Household)
     * Last Updated date
 
-![View Email Templates](../assets/images/email/view-email-templates.gif)
-
 ### How to Create a New Email Template
 
 1. Navigate to the Email Templates page (see above).
@@ -95,8 +89,6 @@ Keep your signature concise and professional. Ensure you use consistent fonts an
 4. Enter the **Subject** line.
 5. Compose the **Body of the email**, inserting merge fields as needed.
 6. Click **Save**.
-
-![Create Email Template](../assets/images/email/create-email-template.gif)
 
 ## E-mail & Calendar Accounts
 
@@ -111,5 +103,3 @@ Before sending emails or scheduling meetings, you must connect your external acc
     * Connect to Zoom
 3. Follow the prompts to authorize the connection.
 4. Once connected, you can configure imports or setup imports. Follow the onscreen instructions to exclude any emails or filter subject lines from the inbox's imports.
-
-![Email Account Settings](../assets/images/email/email-account-settings.gif)

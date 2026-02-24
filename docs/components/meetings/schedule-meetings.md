@@ -27,11 +27,6 @@ You will be returned to the **Meeting list** view; search for the meeting name y
 
 ![Request a Meeting](../../assets/images/meetings/request-meeting.gif)
 
-#### Clarification 
-(need to explain this part under Request Meeting functionality)
-
-![Clarification](../../assets/images/meetings/clarification-household-meeting.png)
-
 ## How to Book a Meeting
 
 Unlike the "Request" flow which creates scheduling options, this process books a specific time slot immediately.
@@ -61,17 +56,4 @@ Use this feature to record a meeting that is not connected to a calendar.
 3. Click **Create Meeting** to log the meeting.
 
 ![Create a Manual Meeting](../../assets/images/meetings/manual-meeting.gif)
-
-## How to Confirm a Requested Meeting
-
-Once a meeting has been requested, follow these steps to confirm the time:
-
-1. Navigate to the **Meetings** list.
-2. Click on the **Requested** view option to filter for pending requests.
-3. Click the Title of the meeting you just created.
-4. In the meeting widget that appears, locate and click the **Schedule** link.
-5. You will be redirected to the scheduler interface. Select the desired **Date** and **Time**.
-6. Confirm the selection. The booking is now confirmed.
-
-![Schedule a Meeting](../../assets/images/meetings/schedule-meeting.gif)
 

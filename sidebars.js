@@ -31,6 +31,7 @@ const sidebars = {
         'components/about/user-profile',
         'components/about/settings',
         'components/about/notifications',
+        'components/custom-views',
       ],
     },
     {
@@ -68,9 +69,6 @@ const sidebars = {
             'components/households/documents',
           ],
         },
-        'components/custom-views',
-        
-
       ],
     },
       'components/opportunities',
@@ -141,7 +139,7 @@ const sidebars = {
       items: [
           'components/my-practice/products',
           'components/my-practice/manage-team',
-          //'components/my-practice/service-models',
+          'components/my-practice/service-models',
           'components/my-practice/client-service',
           'components/my-practice/custom-fields',
           'components/institutions',

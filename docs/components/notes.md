@@ -12,12 +12,6 @@ The **Notes** page offers a centralized way to manage interactions across your e
 
 ![Notes Dashboard](../assets/images/notes/notes-dashboard.png)
 
-### View Options
-
-* **All:** Displays every note created across the firm.
-* **My Notes:** Filters the list to show only notes created by you.
-* **Team:** Shows notes created by other team members, useful for oversight and collaboration.
-
 ### Search
 
 * **Search by Title:** Use the search bar at the top of the dashboard to quickly locate notes by their subject or keyword.
@@ -44,8 +38,6 @@ You can create a note directly from the dashboard or from specific records.
     * **Note Content:** Type your detailed observations or meeting minutes.
 3. Click to confirm. The note is immediately indexed and linked to the selected records.
 
-![Create a Note](../assets/images/notes/add-a-note.gif)
-
 ## How to View and Collaborate on Notes
 
 1. Click on any note title to open the detailed view for review and team collaboration.
@@ -56,8 +48,6 @@ You can create a note directly from the dashboard or from specific records.
     * **Leave a Comment:** Add follow-up thoughts or questions without altering the original text.
     * **Mentions:** Type @ followed by a team member's name in a comment to notify them directly.
     * **Add Image:** Upload screenshots, whiteboard photos, or documents directly into the comment thread for visual context.
-
-![View Notes](../assets/images/notes/view-notes.gif)
 
 ## How to Create a Note via AI Assistant
 
@@ -87,8 +77,6 @@ The **Super Advisor Assistant** can generate notes for you using natural languag
     * **Attachments:** Manage any files linked to the template.
     * **Title** and **Body:** Update the default text content and structure.
 
-![Manage Note Template](../assets/images/notes/manage-note-template.gif)
-
 ### How to Create a New Note Template
 
 You can build custom templates to standardize your notes.
@@ -101,5 +89,3 @@ You can build custom templates to standardize your notes.
     * **Attachments:** Upload any standard documents or reference files.
     * **Title and Body:** Draft the default structure and content of the note.
 3. Click **Save** to add the template to your library.
-
-![Create a New Note](../assets/images/notes/create-note-template.gif)
