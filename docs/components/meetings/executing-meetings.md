@@ -17,7 +17,7 @@ When you click into a specific meeting record, you unlock a suite of tools to he
 * **Tasks**
 * **Meeting Transcript**
 
-![Meeting Details Page](../../assets/images/meetings/meeting-details.gif)
+![Meeting Details Page](../../assets/images/meetings/meeting-details.png)
 
 ### How to Verify a Booking
 
@@ -31,8 +31,6 @@ To ensure a meeting is correctly scheduled:
     * **Date & Time:** Confirm they match your selection.
     * **Link:** If it is a virtual meeting (e.g., Google Meet), ensure the meeting link is visible.
 
-![Confirm Meeting Schedule](../../assets/images/meetings/confirm-schedule.gif)
-
 ### How to Edit a Meeting
 
 1. Locate the scheduled meeting you want to modify in the **Meeting List**.
@@ -43,8 +41,6 @@ To ensure a meeting is correctly scheduled:
     * **Meeting Type:** Change the medium (e.g., switch from Phone to In Person).
     * **Message:** Edit the note sent to invitees.
 4. Click **Save & Exit** to confirm your changes.
-
-![Edit a Meeting](../../assets/images/meetings/edit-meeting.gif)
 
 ### How to Add a Note
 
@@ -65,16 +61,12 @@ You can @mention team members or attach files directly within the text.
 :::
 8. Click **Save** to add the note to the meeting record.
 
-![Add a Note](../../assets/images/meetings/meeting-note.gif)
-
 ### Marking Meeting Status 
 The main action button updates dynamically depending on the current time relative to the scheduled meeting:
 
 * **Before/During Meeting:** The button displays "Mark as Prepared". Clicking it toggles the status to "Mark as Unprepared" (and vice versa) so you can signal readiness to your team.
 
 * **Past Scheduled Time:** If the meeting time has passed, the button automatically updates to "Mark as Complete". Clicking this moves the meeting to the Completed view.
-
-![Mark Meeting Status](../../assets/images/meetings/meeting-details-mark-status.gif)
 
 ### How to Prepare for a Meeting
 
@@ -83,5 +75,4 @@ The main action button updates dynamically depending on the current time relativ
 3. Complete any **Pre-meeting Tasks**.
 4. Click on the **Mark as Prepared** button to signal readiness.
 
-![Prepare a Meeting](../../assets/images/meetings/prepare-meeting.gif)
 

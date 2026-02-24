@@ -18,7 +18,7 @@ For example, if a client just had a child, you can review their Term Life polici
 
 The **Insurance Policies** sub-page offers a consolidated view of client risk coverage.
 
-![Insurance Policies Dashboard](../../assets/images/financials/insurance-policies-dashboard.png)
+![Insurance Policies Dashboard](../../assets/images/financials/insurance-policies.png)
 
 **View Options:**
 
@@ -89,7 +89,7 @@ When a teacher is retiring, you can compare the Monthly Payout annuity option ag
 
 The **Defined Benefit Pensions** sub-page offers a consolidated view of pension assets and future income.
 
-![Defined Benefit PEnsions Dashboard](../../assets/images/financials/pensions-dashboard.png)
+![Defined Benefit Pensions Dashboard](../../assets/images/financials/pensions.png)
 
 **View Options:**
 
@@ -149,7 +149,7 @@ Use this to track line items like "Monthly Salary," "Rental Income," or "Mortgag
 
 The **Cash Flows** sub-page offers a clear view of all money entering and leaving the household.
 
-![Cash Flows Dashboard](../../assets/images/financials/cash-flows-dashboard.png)
+![Cash Flows Dashboard](../../assets/images/financials/cash-flows.png)
 
 **View Options:**
 

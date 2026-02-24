@@ -18,7 +18,7 @@ For example, if a client wants to buy a vacation home in six months, you need to
 
 The **Bank Accounts** sub-page offers a consolidated view of client cash holdings and liquid assets.
 
-![Bank Accounts Dashboard](../../assets/images/financials/bank-accounts-dashboard.png)
+![Bank Accounts Dashboard](../../assets/images/financials/bank-accounts.png)
 
 **View Options:**
 
@@ -68,7 +68,7 @@ For instance, if a client owns a vintage car collection, you need to track these
 ### Dashboard View
 The **Real Assets** sub-page offers a consolidated view of physical goods.
 
-![Real Assets Dashboard](../../assets/images/financials/real-assets-dashboard.png)
+![Real Assets Dashboard](../../assets/images/financials/real-assets.png)
 
 **View Options:**
 
@@ -119,7 +119,7 @@ Common examples include tracking a "Downtown Condo" investment property distinct
 
 The **Real Estate Properties** sub-page offers a consolidated view of property assets.
 
-![Real Estate Dashboard](../../assets/images/financials/real-estate-dashboard.png)
+![Real Estate Dashboard](../../assets/images/financials/real-estate-properties.png)
 
 **View Options:**
 

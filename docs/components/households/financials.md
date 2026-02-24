@@ -14,77 +14,46 @@ To view and manage financial data for a specific client:
 2. Locate the **Financials** tab.
 3. Select the appropriate sub-page based on your task (*e.g., Net Worth, Assets, Liabilities, etc*).
 
-![Accessing the Financials Page](../../assets/images/financials/financials-page.png)
+The Financials module is divided into the following sections accessible via the dropdown menu:
 
-## The "All Financials" Dashboard
+### Net Worth
 
-This dashboard serves as the master registry for every financial record associated with the household. It aggregates data into dedicated tables for each specific financial category.
+* **Net Worth:** Provides a high-level summary of the client's financial standing. It displays the overall Net Worth calculation alongside total Assets and total Liabilities. It also features visual widgets for Net Worth Flow, Asset Mix, and Liability Mix to help analyze ongoing trends and portfolio allocations.
 
-Users can simply select the **Financial** category they wish to view, and the dashboard will display the respective table customized for that data type. For detailed information on the specific fields and functions for each category, please refer to the individual articles linked below:
+![Net Worth](../../assets/images/financials/financial-networth.png)
 
-* [**Bank Accounts**](../financial-records/assets#bank-accounts)
-* [**Investment Accounts**](../financial-records/investments#investment-accounts)
-* [**Credit Cards**](../financial-records/liabilities#credit-cards)
-* [**Loans**](../financial-records/liabilities#loans)
-* [**Lines of Credit**](../financial-records/liabilities#lines-of-credit)
-* [**Company Equity**](../financial-records/investments#company-equity)
-* [**Defined Benefit Pensions**](../financial-records/pensions#defined-benefit-pensions)
-* [**Private Investments**](../financial-records/investments#private-investments)
-* [**Real Assets**](../financial-records/assets#real-assets)
-* [**Real Estate Properties**](../financial-records/assets#real-estate-properties)
-* [**Insurance Policies**](../financial-records/pensions#insurance-policies)
-* [**Income Cash Flows**](../financial-records/pensions#cash-flows)
-* [**Expense Cash Flows**](../financial-records/pensions#cash-flows)
+* **Assets:** Displays the Total Assets value and provides a detailed breakdown of all individual holdings. Holdings are categorized into: Banking, Investments, Real Estate, Other Assets, Company Equity, Private Investments, Insurance, and Pensions (DB). You can view specific records, ownership details, and individual monetary values within each category.
 
-**Customizing Views:**
-Users can also customize their views by changing columns, sorts, and filters to better organize their data. For more details on these capabilities, please refer to the article on [Custom Views](../custom-views).
+![Assets](../../assets/images/financials/financial-assets.png)
 
-**To manage records here:**
+* **Liabilities:** Displays the Total Liabilities value and breaks down the client's debt obligations. Debts are categorized into: Credit Cards, Loans, Mortgages, and Lines of Credit. You can view specific debt records and their current balances, or prompt to add your first record if none exist.
 
-* **Detailed Entry:** Click the primary **Add** button to open the full entry form. 
-:::note NOTE
-The button label changes dynamically based on the selected view (e.g., it will appear as **Add Bank Account** or **Add Investment Account**). When you click this button, you must complete the form specific to that category; for step-by-step instructions on filling out these forms, please refer to the separate **Financial Category** articles linked in the list above.
-:::
+![Liabilities](../../assets/images/financials/financial-liabilities.png)
 
-* **Quick Add:** Click the **Add Row** button at the bottom of the list to create a new line item with default values, enabling rapid inline editing.
+### Cash Flows
 
-## The "Accounts" Dashboard
+* **Cash Flow:** Provides a holistic overview of the household's budget. It displays the net cash flow calculation (Income vs. Expenses), summaries of your cash flow (e.g., Shortfalls or specific premium costs), and a filtered view of Amounts (All, In, Out). It also features a "Transactions" ledger with time-based filters (1M, 3M, 6M, YTD, 12M, 2025, All) and visual charts for the "Distribution of Income by Source" and "Distribution of Expenses by Source."
 
-The **Accounts** sub-page shifts focus from data entry to high-level visualization, displaying the household's real-time Net Worth calculation. The dashboard is distinctly divided into two primary parts: **Assets** and **Liabilities**.
+![Cash Flow](../../assets/images/financials/financial-cashflow.png)
 
-Each part features its own dedicated widgets, allowing for independent analysis of wealth and debt.
+* **Income:** Displays Total Income and a detailed breakdown by source. Categories include Employment, Asset, Investment, Pension, Government, Corporation, and Other. From this dashboard, you can quick-review active records and directly log new sources using the specific addition actions (e.g., "Add Employment Income", "Add Asset Income").
 
-**To visualize data:**
+![Income](../../assets/images/financials/financial-income.png)
 
-* **Check Net Worth:** 
-    * View the banner at the top for the real-time calculation of **Total Assets** - **Total Liabilities**.
-* **Analyze Allocations:** 
-    * Both the **Assets** and **Liabilities** widgets include interactive toggles and allocations visualizations. 
-    * You can switch the view between **Categories** (e.g., Real Assets vs. Bank Accounts) and **Accounts** (specific holding names). 
-    * Hover over the pie chart slices to see specific percentage weightings for each allocation.
+* **Expenses:** Displays Total Expenses and a detailed breakdown of spending. Categories include Insurance, Asset, Debt Payments, and Other. From this dashboard, you can quick-review recorded spending and log new outflows using the specific addition actions (e.g., "Add Insurance Expense").
 
-**Adding & Linking Accounts:**
-You can populate this dashboard by manually adding holdings or connecting external institutions directly from this page.
+![Expenses](../../assets/images/financials/financial-expenses.png)
 
-* **Add Account:** 
-    * Click the **Add Account** button. 
-    * You will be prompted to select a specific Category (*e.g., Real Assets, Bank Account*) to ensure you are filling out the correct form.
+### Investments
 
-* **Link Account:** 
-    * Select this option to connect external institutions. 
-    * You can **Link to Bank** or **Link to Investment** accounts to establish a secure connection for automated balance updates.
+* **Investments:** Displays the portfolio's active funds. It shows available Cash balances alongside the Total Value of the investments. It includes a comprehensive holdings table that breaks down individual assets by Holding name, percentage allocation (%), Quantity, Price, Book Value, Market Value, and total Gain/Loss.
 
-![Accounts Dashboard](../../assets/images/financials/accounts.png)
+![Investments](../../assets/images/financials/financial-investment.png)
 
-## The "Cash Flows" Dashboard
+### Risk Profile
 
-This module provides a detailed analysis of the client's budget health by tracking the timing and magnitude of funds entering and leaving the household. It visualizes income versus expenses over monthly or annual timeframes, helping advisors identify surplus liquidity for saving or pinpoint spending habits that may hinder long-term goals.
+* **Risk Profile:** Allows you to view and manage risk tolerance and capacity assessments for the household. It tracks associated life goals and expenses (e.g., College Fund, City Homes) alongside active Risk Tolerance Assessments. The Risk Profile Overview details psychological and financial metrics (Composure, Experience, Knowledge, Perception, Preference, Tolerance, and Questionnaire Status), providing comparative scores for individual members (e.g., Test Client, Spouse Test) as well as an Overall household rating.
 
-**To track budget health:**
+![Risk Profile](../../assets/images/financials/financial-riskprofile.png)
 
-* **Analyze Trends:** Review **Summary Widgets** for **Total Income**, **Total Expenses**, and **Net Cash Flow**. Use the timeframe toggle to switch between **Monthly** and **Annual**.
-* **Add Inflows/Outflows:**
-    * Click **Add Income** to record sources like Salary or Dividends. For more information on how to add these records, please refer to [Cash Flows](../financial-records/pensions#cash-flows).
-    * Click A**dd Expense or Debt** to record general spending or liability repayments.
 
-![Cash Flows Dashboard](../../assets/images/financials/cash-flows.png)

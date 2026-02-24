@@ -6,7 +6,7 @@ The Manage Meetings area allows you to configure your scheduling infrastructure.
 
 **Templates** provide a reusable framework for specific meeting types. By standardizing agendas, messages, and task lists, you ensure consistency across all client interactions.
 
-![Meeting Templates Page](../../assets/images/meetings/meeting-templates-page.png)
+![Meeting Templates Page](../../assets/images/meetings/meeting-templates.png)
 
 ### How to Add a Meeting Template
 
@@ -28,13 +28,11 @@ The Manage Meetings area allows you to configure your scheduling infrastructure.
     * Fill out the **Task Title** and **Task Description**.
 8. Click **Create Template**.
 
-![Add a Meeting Template](../../assets/images/meetings/add-meeting-template.gif)
-
 ## Availability Schedules
 
 **Availability Schedules** allow you to define specific time windows for different types of meetings (e.g., "Client Review Hours" vs. "Quick Syncs"). This automates your working hours, time zones, and buffer times so you don't have to manually check your calendar.
 
-![Availability Schedules Page](../../assets/images/meetings/availability-schedules-page.png)
+![Availability Schedules Page](../../assets/images/meetings/availability-schedule.png)
 
 ### How to Create Availability Schedule
 
@@ -52,7 +50,6 @@ The Manage Meetings area allows you to configure your scheduling infrastructure.
     * **Schedule:** Use the matrix to define your specific available days and hours.
 5. Click **Save**.
 
-![Create Availability Schedule](../../assets/images/meetings/add-availability-schedule.gif)
 
 **How to Edit, Duplicate and Delete Availability Schedule**
 * **Edit:** Locate the schedule in the list and click the **Edit** icon to modify any of the settings.
@@ -63,7 +60,7 @@ The Manage Meetings area allows you to configure your scheduling infrastructure.
 
 **Booking Pages** allow you to generate unique, shareable URLs that clients can use to self-schedule meetings.
 
-![Booking Pages](../../assets/images/meetings/bookings-page.png)
+![Booking Pages](../../assets/images/meetings/booking-pages.png)
 
 ### How to Add a Booking Page
 
@@ -75,8 +72,6 @@ The Manage Meetings area allows you to configure your scheduling infrastructure.
     * **Tasks:** Configure **Pre-meeting** and **Post-meeting **tasks to automate your workflow.
     * **Scheduling Info:** Set specific rules including **Buffers**, **Minimum Notice**, **Cancellation Notice**, and the **Availability Schedule**.
 5. Click **Save**.
-
-![Create Booking Page](../../assets/images/meetings/create-booking-page.gif)
 
 ### How to Manage Booking Pages
 
