@@ -4,7 +4,16 @@
 
 The **Planning** module serves as the strategic roadmap for the client relationship. While the **Financials** module tracks the current state of wealth (assets and liabilities), the Planning module focuses on the future—defining objectives, analyzing coverage, and structuring the legal and financial frameworks necessary to achieve long-term success.
 
-It is divided into four distinct sub-modules to address different pillars of the client's financial life:
+## Accessing the Planning Section
+To view and manage planning data for a specific client:
+
+Navigate to the specific Household record.
+
+Locate the Planning tab (located next to the Financials section).
+
+When you click on the dropdown, you will be able to see and select the appropriate sub-page based on your task: Goals, Financial Plan, Will & Estate, and Insurance.
+
+The Planning module is divided into four distinct sub-modules:
 
 * **Goals:** Define and track specific lifestyle and financial objectives.
 * **Financial Plan:** Centralize strategic calculations, projections, and plan documents.

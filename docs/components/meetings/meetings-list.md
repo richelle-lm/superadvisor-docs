@@ -2,7 +2,7 @@
 
 The **Meetings** page offers a clean, efficient way to manage your schedule. You can quickly filter by the state of the meeting.
 
-![Meetings page](../../assets/images/meetings/meetings.png)
+![Meetings page](../../assets/images/meetings/meetings-dashboard.png)
 
 ## View Options
     * **Scheduled:** Confirmed upcoming meetings.

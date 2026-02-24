@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Service Models** module is the primary tool for quantitative relationship management within SuperAdvisor. It allows advisors and support staff to track service frequency, manage deliverables (e.g., "Quarterly Reviews"), and ensure compliance with client engagement standards in a structured, searchable format.
+The **Service Models** module is the primary tool for quantitative relationship management within **Super Advisor**. It allows advisors and support staff to track service frequency, manage deliverables (e.g., "Quarterly Reviews"), and ensure compliance with client engagement standards in a structured, searchable format.
 
 Unlike static calendar events, **Service Models** are dynamic. They support **Entity Linking**,**Automated Alerts** for upcoming deadlines, and **Templates** for standardized service tiers (e.g., Gold, Silver, Bronze).
 

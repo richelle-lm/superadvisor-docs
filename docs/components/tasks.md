@@ -17,7 +17,7 @@ This section covers:
 
 The **Tasks Dashboard** acts as your central command center, providing a real-time, filterable overview of all pending and completed actions across your entire organization.
 
-![Tasks Dashboard](../assets/images/tasks/tasks-list.png)
+![Tasks Dashboard](../assets/images/tasks/tasks-dashboard.png)
 
 ### View Options
 
@@ -66,13 +66,16 @@ Use this feature to generate a new action item and link it to a specific record 
 1. Navigate to the **Tasks** sidebar and click the **Add Task** button.
 2. Fill out the **Create a Task** pop-up:
     * **Task Title:** Enter a clear name for the activity.
-    * **Select from Template:** Choose a pre-defined structure.
-    * **Assigned to / Due by:** Select the team member and set the deadline.
+    * **Use Template:** Choose a pre-defined structure.
+    * **Assigned to:** Select an entity (*e.g., Contact, Household, Team*).
+    * **Due by:** Set the deadline.
     * **Status:** Set the current state (*e.g., Todo*).
-    * **Linked Records:** Search and select the entity (*e.g., Contact, Household, Corporation*).
-    * **Repetition:** Set a recurrence schedule or confirm "This task does not repeat".
+    * **Linked:** Search and select the entity (*e.g., Contact, Household, Corporation*).
+    * **Repeat:** Set a recurrence schedule or confirm "This task does not repeat".
     * **Description:** Add detailed context or instructions.
 3. Click **Save**.
+
+![Create a Task](../assets/images/tasks/create-task.gif)
 
 ### How to Manage Your Tasks
 
@@ -86,7 +89,7 @@ Use this feature to track your progress and archive finished work.
 
 The task will automatically move to the **Done** tab for historical tracking.
 
-![Manage My Task in Workflow](../assets/images/tasks/manage-my-task.gif)
+![Manage My Task in Workflow](../assets/images/tasks/manage-task.gif)
 
 ## Task Templates
 
@@ -102,7 +105,7 @@ This page serves as the management hub for all your task blueprints. The table d
 * **Assignee Type:** The role or group assigned by default.
 * **Last Updated:** The date the template was last modified.
 
-![Task Templates Page](../assets/images/tasks/task-templates-page.png)
+![Task Templates Page](../assets/images/tasks/task-template.png)
 
 From this page, you can select the **Edit** icon to modify a blueprint or the **Trash** icon to delete an unnecessary template.
 
@@ -132,54 +135,6 @@ Use this feature to build a blueprint for your most common team actions.
 
 ![Edit a Task Template](../assets/images/tasks/edit-task-template.gif)
 
-### How to Configure Task Types for Workflows
-
-Whether you are [building a new **Workflow Template**](../components/workflows#how-to-manage-workflow-details) or updating an existing process, selecting the correct **Task Type** is essential. This setting defines how the step functions and unlocks the specific tools needed to complete that action.
-
-**Basic Task**
-
-*Use this for standard to-do items and simple action steps.*
-
-1. Enter a **Title** and **Description** to provide clear instructions for the team member.
-2. Set the **Due Date (days)** to establish a deadline.
-3. Select the **Due After** trigger to decide if the deadline counts from the **Step Start** or the **Workflow Start**.
-4. Define the **Assignee Type** (*e.g., Team, Group, or Professional*) and **Specify Assignee** to designate the responsible party.
-
-![Basic Task in Workflow](../assets/images/tasks/wf-basic-task.gif)
-
-**Send Email**
-
-*Use this to automate client or internal communication.*
-
-1. Enter a **Title** for the email step.
-2. Select a pre-written message from your **Email Template** library.
-3. Choose the **Email Sender** by selecting a **Sender Type** and specifying the individual or group.
-4. Configure the **Recipient** by setting the **Assignee Type** to determine who receives the message.
-
-![Email Task in Workflow](../assets/images/tasks/wf-email-task.gif)
-
-**Meeting Task**
-
-*Use this to schedule and manage client interactions.*
-
-1. Enter a **Task Title** (e.g., "Schedule Annual Review").
-2. Select the **Meeting Host** and add any **Additional Participants** required for the meeting.
-3. Choose a **Meeting Template** to set the agenda and a **Schedule Template** to define the availability window.
-4. Set the **Task Completion** trigger by choosing either **When Meeting is Scheduled** or **When Meeting Is Completed**.
-5. Define the **Assignee Type** to determine who is responsible for managing the booking.
-
-![Meeting Task in Workflow](../assets/images/tasks/wf-meeting-task.gif)
-
-**Form Task**
-
-Use this for digital paperwork and questionnaires.
-
-1. Enter a **Title** for the task (e.g., "Complete Risk Questionnaire").
-2. Choose the specific **Form Template** you want to be completed or sent.
-3. Select the **Assignee Type** and **Specify Assignee** to determine which team member or role is responsible for the form's completion or review.
-
-![Form Task in Workflow](../assets/images/tasks/wf-form-task.gif)
-
 ## Recurring Processes
 
 **Recurring Processes** allow you to automate the generation of tasks based on a specific schedule (*e.g., Monthly Billing Review, Quarterly Compliance Check*). This ensures that routine maintenance work is never missed.
@@ -208,7 +163,7 @@ When you click on a specific process from the list, the system opens a detailed 
     * **Coming up next:** The exact date the next task instance will be created.
     * **Process Timestamps:** Shows the **Created** and **Last Updated** dates for the process configuration.
 
-![Recurring Process - Overview Tab](../assets/images/tasks//task-overview.png)
+![Recurring Process - Overview Tab](../assets/images/tasks/recurring-task-overview.png)
 
 * **History Tab**
 

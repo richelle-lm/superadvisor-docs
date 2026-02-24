@@ -4,6 +4,12 @@
 
 The **Institutions** module acts as the central library for external entities with whom your firm conducts business. Accurate setup of this section is a prerequisite for using Products & Packages and Revenue Collection effectively.
 
+## Using Institutions
+
+The **Carriers** and **MGAs** you configure in this module populate the selection menus throughout SuperAdvisor. For example, when you create a new insurance policy for a client, the institutions you just added will be available as choices in the Carrier and MGA dropdown fields.
+
+To see exactly where these selections appear when building a client's profile, please refer to our tutorial on [**How to Add an Insurance Policy**](../components/households/planning#how-to-add-an-insurance-policy).
+
 This module is divided into two areas:
 
 * [**Carriers:**](institutions#carriers) Insurance companies, investment firms, banks, and lenders.
@@ -26,7 +32,10 @@ This module is divided into two areas:
 2. Click the **Add Carrier** button.
 3. In the **Add Carrier** pop-up, fill out the Carrier details:
     * **Carrier Name:** Enter the Institution Name.
-    * **Product Categories:** Select the applicable categories (*e.g., Insurance, Investments*). Note: You can select multiple categories.
+    * **Product Categories:** Select the applicable categories (*e.g., Insurance, Investments*).
+:::note NOTE
+You can select multiple categories.
+::: 
 3. Click **Add Carrier**.
 
 ![Add a Carrier](../assets/images/institutions/add-carrier.gif)
@@ -62,3 +71,6 @@ MGAs are the brokerage firms, agencies, or "uplines" through which you submit bu
 3. Fill in the required fields:
     * **MGA Name:** Enter the Legal Name of the MGA.
 4. Click **Add MGA** button.
+
+![Add an MGA](../assets/images/institutions/add-mga.gif)
+

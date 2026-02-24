@@ -24,31 +24,40 @@ You do not need to create a household manually. The system automatically generat
 
 There are two ways to view the Household Details:
 
-**Option 1: Using the Manage Household**
+**Option 1: Using the Household**
 
-Navigate to the **Households** page via the main sidebar. Locate the specific household in the list and click the **Manage Household** button on the top-right of the screen,
+Navigate to the **Households** page via the main sidebar. Locate the specific household in the list.
 
-![Household Profile page](../../assets/images/household/manage-household.gif)
+![Household Profile page via Households List](../../assets/images/household/household-profile-via-household.gif)
 
 **Option 2: Using the Contact Profile**
 
-Navigate to the **Households** page via the main sidebar. Locate the specific household in the list, and go to the **Profile** section and select **Household**.
+Navigate to the **Contacts** page via the main sidebar. Locate the specific contact in the list, and go to the **Profile** section and select **Household**.
 
-![Household Profile page](../../assets/images/household/household-profile.gif)
+![Household Profile page via Contacts List](../../assets/images/household/household-profile-via-contact.gif)
 
 ### Launching Workflows from Households
 
-Automated processes like "Annual Reviews" can be applied to the entire household unit. For step-by-step instructions, see How to Launch a Workflow in the Workflows module.
+Automated processes like "Annual Reviews" can be applied to the entire household unit. For step-by-step instructions, see [**How to Launch a Workflow**](../workflows#how-to-launch-a-workflow) in the [**Workflows**](../workflows) module.
+
+![Launch Workflow](../../assets/images/household/launch-workflow.png)
 
 ## How to Merge Duplicate Households
 
 Use this feature to combine two household records into one, retaining specific family members and data.
 
 1. Navigate to the **Households** list.
-2. Select the checkboxes next to the duplicate households.
-3. Click the **Merge** button.
-4. Select the **Destination Household** (the record you want to keep).
+2. Select the checkboxes beside the household.
+3. Below the page, click **More** then **Merge**.
+4. In the **Merge Client Household** pop-up, select the **Destination Household** (the record you want to keep).
 5. Select the **Family Members** you wish to retain in the merged record.
-6. Click **Confirm Merge.**
+6. Click **Preview Merge**.
+6. Click **Confirm** to proceed.
+
+![Merge Household](../../assets/images/household/merge-household.gif)
+
+:::note NOTE
+At least one Head of Family must be selected from the into household.
+:::
 
 

@@ -63,15 +63,7 @@ const sidebars = {
             'components/households/household-actions',
             'components/households/entity-management',
             'components/households/activities',
-            {
-              type: 'category',
-              label: 'Financial Data',
-              items: [
-                'components/households/financials',
-                'components/institutions',
-
-              ],
-            },
+            'components/households/financials',
             'components/households/planning',
             'components/households/documents',
           ],
@@ -147,11 +139,12 @@ const sidebars = {
         keywords: ['practice'],
       },
       items: [
-         'components/my-practice/products',
-         'components/my-practice/manage-team',
-         'components/my-practice/service-models',
+          'components/my-practice/products',
+          'components/my-practice/manage-team',
+          'components/my-practice/service-models',
           'components/my-practice/client-service',
-         'components/my-practice/custom-fields',
+          'components/my-practice/custom-fields',
+          'components/institutions',
       ]
     },
       'components/super-mode',
