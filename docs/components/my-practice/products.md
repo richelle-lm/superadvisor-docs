@@ -24,22 +24,26 @@ The **Products & Services** dashboard is your central catalog. Before you can cr
     * **Upfront Payment:** If this item requires immediate settlement, check the **Collect This Payment** upfront box.
 5. Click **Create** to save the item to your **Products and Services** list.
 
+![Add a Product or Service](../../assets/images/my-practice/add-product.gif)
+
 ## Packages
 Once your individual services are defined, you can use the **Packages** feature to group them. Packages allow you to create templates for bundles (e.g., a "Gold Tier" package that includes both Financial Planning and Tax Preparation) with set pricing and billing frequencies.
 
 ![Packages Dashboard](../../assets/images/my-practice/packages-dashboard.png)
 
 ### How to Create a Package Template
-1. Go to the **My Practice** page and select **Packages**. The dashboard shows package names, included offers, and creation dates.
-2. Click **Add Package** to open the **Create a Package Template** pop-up.
-3. In the **Name** field, enter a unique name for the template.
-4. In the **Add Bundles** section, configure the following for each bundle:
+
+1. Click **Add Package** to open the **Create Package Template** pop-up.
+2. In the **Name** field, enter a unique name for the template.
+3. In the **Add Bundles** section, configure the following for each bundle:
     * **Category:** Select whether this bundle is for **One-off services and products** or **Ongoing services and subscriptions**.
-    * **Select Products and Services to Include:** Choose items from the "Products & Services" list you created (*e.g., Tax Planning, Financial Planning Retainer*).
+    * **Select Products and Services to Include:** Choose items from the [Products & Services](#products--services) list you created (*e.g., Tax Planning, Financial Planning Retainer*).
     * **Billing Start:** Choose when billing begins: **Custom date**, **On completion**, or **On start**.
     * Set **Payment Options:**
         * **Payment Methods:** Select **Manual** or **Payment Provider**.
-5. Once finished, click **Add Package Template**.
+4. Once finished, click **Add Package Template**.
+
+![Create Package Template](../../assets/images/my-practice/create-package.gif)
 
 :::note NOTE
  You can add more bundles if you wish to combine different billing types (*e.g., an upfront fee bundle + a monthly subscription bundle*) into a single package. 

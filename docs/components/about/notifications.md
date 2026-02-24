@@ -1,14 +1,15 @@
 # Notifications 
 
-## Overview
-The **Notifications** in **Super Advisor** serves as the command post for advisor activity, ensuring that critical updates regarding tasks, meetings, and client interactions are never missed. The system offers a dual-layer approach to information management: an in-app sidebar for immediate, granular review of specific events, and a robust backend configuration menu for managing email frequency and subscription logic.
+## Understanding Notifications (Activity)
 
-Users can toggle between **Realtime** alerts for immediate awareness or **Digest** summaries to minimize distraction. Furthermore, the **Auto-Subscribe** logic allows advisors to automate which households trigger alerts based on their specific relationship (e.g., Primary Advisor status), ensuring that users only receive notifications relevant to their specific book of business.
+The **Notification Center** — often serving as your primary Activity feed—is the command post for advisor operations in Super Advisor. It automatically tracks and compiles critical updates regarding tasks, scheduled meetings, notes, and client interactions so that no important development slips through the cracks.
 
-### Accessing and Filtering In-App Notifications
-Access your activity feed directly through the global navigation bar to review updates.
+By centralizing these updates, the Activity feed ensures you maintain complete visibility over the households and contacts you manage, acting as a real-time pulse on your book of business.
 
-1. Click the **Notification Settings** (bell icon) in the navigation bar.
+### How to Access and Filter Notifications
+You can access your activity feed directly through the global navigation bar to review updates without interrupting your current workflow.
+
+1. Click the **Notifications** in the navigation bar.
 2. A side pop-up will appear displaying a list of **All Notifications** (distinguished by **Read** and **Unread** statuses).
 3. **Filter by Type:** Narrow down the list by selecting specific event categories:
     * Comment Created
@@ -18,8 +19,14 @@ Access your activity feed directly through the global navigation bar to review u
     * Task Assigned
     * User Mentioned
 4. **Filter by Date:** Isolate notifications within specific timeframes:
-    * **Years:** 2025, 2026
+    * **Years:** Last Year(2025), This Year(2026)
     * **Ranges:** 3M (Last 3 Months), 6M (Last 6 Months), or All.
+
+![Notifications Panel](../../assets/images/profile/notifications-panel.gif)
+
+## Notification Settings
+
+To control how and when you receive external alerts (like emails) and define your subscription logic, you will need to configure your backend preferences. You can access this menu by clicking your **User Profile** icon and selecting **Notification Settings**.
 
 ### Configuring Notification Preferences
 To control how and when you receive external alerts (emails), configure your global profile settings.
@@ -40,13 +47,13 @@ Customize specifically which events trigger an email notification.
 
 1. Navigate to the **Notification Types** section within **Notification Settings**.
 2. Toggle the following options on or off based on your preference:
-* **Task Assignments:** When a task is assigned specifically to you.
-* **Task Status Updates:** When a task you are subscribed to moves to "In Review" or "Done."
-* **Comments:** When someone comments on an item you are subscribed to.
-* **Document Uploads:** When documents are uploaded to households you manage.
-* **Notes:** When notes are created or edited on items you are subscribed to.
-* **Meetings:** When meetings are requested or scheduled.
-* **Mentions:** Note: This setting is "Always on." You will always receive an alert when mentioned in a comment or note.
+    * **Task Assignments:** When a task is assigned specifically to you.
+    * **Task Status Updates:** When a task you are subscribed to moves to "In Review" or "Done."
+    * **Comments:** When someone comments on an item you are subscribed to.
+    * **Document Uploads:** When documents are uploaded to households you manage.
+    * **Notes:** When notes are created or edited on items you are subscribed to.
+    * **Meetings:** When meetings are requested or scheduled.
+    * **Mentions:** Note: This setting is "Always on." You will always receive an alert when mentioned in a comment or note.
 
 ![Notification Types](../../assets/images/general/notification%20-%20types.png)
 
@@ -57,10 +64,10 @@ Control the logic for which contacts or households automatically subscribe you t
 
 1. Navigate to the **Auto-Subscribe Filter** section.
 2. Select one or multiple criteria for automatic subscription:
-* **All contacts:** Auto-subscribes you to activity for any contact/household in the entire organization.
-* **Contacts where I am Primary Advisor:** Auto-subscribes you only when you are listed as the Primary Advisor.
-* **Contacts for specific Primary Advisors:** Auto-subscribes you when the contact belongs to a specific advisor you select (useful for support staff).
-* **Contacts with no Primary Advisor:** Auto-subscribes you to unassigned contacts.
+    * **All contacts:** Auto-subscribes you to activity for any contact/household in the entire organization.
+    * **Contacts where I am Primary Advisor:** Auto-subscribes you only when you are listed as the Primary Advisor.
+    * **Contacts for specific Primary Advisors:** Auto-subscribes you when the contact belongs to a specific advisor you select (useful for support staff).
+    * **Contacts with no Primary Advisor:** Auto-subscribes you to unassigned contacts.
 
 :::note NOTE         
 These settings control automatic subscriptions. You can still manually subscribe or unsubscribe to any specific entity (Task, Note, etc.) at any time.

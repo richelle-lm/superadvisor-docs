@@ -7,6 +7,8 @@ The **Manage Team** page allows you to control the settings, branding, and perso
 
 Navigate to **My Practice** page, then **Manage Team**.
 
+![Manage Team](../../assets/images/my-practice/manage-team.png)
+
 ### General
 
 This tab covers the public identity of your team.
@@ -28,7 +30,7 @@ Create a consistent brand identity for use in client-facing communications and m
 
 ![Branding Tab](../../assets/images/my-practice/team-branding.png)
 
-* **Brand Colours:** Define your specific brand color palette.
+* **Brand Colors:** Define your specific brand color palette.
 * **Brand Logo:** Upload your logos in the required formats to ensure they display correctly across the platform:
     * **Square Format:** Image must be 512x512 px (JPEG or PNG).
     * **Long/Horizontal Format:** Image must be 512x128 px (JPEG or PNG).
@@ -49,7 +51,7 @@ View a list of current members (Name, Roles) and manage access.
 The teammate will receive an email granting them access to your team.
 :::
 
-![Invite a Member](../../assets/images/my-practice/team-add-member.gif)
+![Invite a Member](../../assets/images/my-practice/invite-member.gif)
 
 Here is a sample invitation:
 

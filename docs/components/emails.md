@@ -1,7 +1,7 @@
 # Emails
 ## Overview
 
-The **Emails** module serves as your integrated communication hub, allowing you to compose, send, and track messages directly from the platform. It functions similarly to other email applications but is designed to keep your client correspondence centralized and actionable within your SuperAdvisor workflow.
+The **Emails** module serves as your integrated communication hub, allowing you to compose, send, and track messages directly from the platform. It functions similarly to other email applications but is designed to keep your client correspondence centralized and actionable within your **Super Advisor** workflow.
 
 This module provides a unified view of your team's communication, enabling you to filter inboxes by specific team members, track the status of messages (Drafts, Scheduled, Sent), and maintain a clear history of client interactions without switching between different email providers.
 
@@ -100,7 +100,7 @@ Keep your signature concise and professional. Ensure you use consistent fonts an
 
 ## E-mail & Calendar Accounts
 
-Before sending emails or scheduling meetings, you must connect your external accounts to SuperAdvisor. This syncs your inbox and calendar for a seamless experience.
+Before sending emails or scheduling meetings, you must connect your external accounts to **Super Advisor**. This syncs your inbox and calendar for a seamless experience.
 
 ### Connecting Accounts
 

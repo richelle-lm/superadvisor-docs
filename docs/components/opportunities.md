@@ -16,15 +16,43 @@ The main dashboard provides a high-level command center for tracking revenue and
     * **All Stages:** Filter deals by specific phases (*Discovery, Lead, Onboarding, Proposal, Closed Won, Closed Lost*).
     * **Opportunity Type:** Filter by the kind of deal.
 
-* **Pipeline Metrics:** These metrics provide a snapshot of your pipeline's health. The specific values displayed will change based on your **Toggle** selections (*AUM/Revenue and Gross/Adjusted*).
-    * **Expected AUM:** The probability-weighted value of all assets in your pipeline.
-    * **Pipeline AUM:** The total raw value of all assets in your pipeline (unweighted).
-    * **Expected Revenue:** The probability-weighted adjusted value of fees you expect to earn.
-    * **Pipeline Revenue:** The total adjusted value of all potential fees.
-    * **Active Deals:** The total number of deals currently in the pipeline.
-    * **Avg. Confidence:** The average probability (confidence %) of closing across all active deals.
+## Pipeline Metrics & View Toggles
 
-![Pipeline Metrics](../assets/images/opportunities/opp-metrics.png)
+These metrics provide a snapshot of your pipeline's health. The specific values displayed dynamically change based on whether you are viewing Active or Closed opportunities, and your Toggle selections:
+
+1. **Gross / Adjusted Toggles:**
+    * **Gross (Total Value):** Shows the "best-case scenario" sum of all potential deals, regardless of likelihood.
+    * **Adjusted (Probability Weighted):** Shows a realistic forecast by multiplying the Gross Value by the Confidence % of each deal (e.g., a $1M deal at 50% confidence counts as $500k).
+
+2. **AUM / Revenue Toggles:**
+    * **AUM (Assets Under Management):** Displays the value of the client assets being brought in (e.g., "Size of the book").
+    * **Revenue:** Displays the actual fees or income expected from those assets (e.g., "Income generated").
+
+### Key Metrics Displayed (Active Opportunities):
+
+When viewing Active Opportunities, the metrics adapt to your AUM/Revenue toggle:
+
+![Active Opportunities](../assets/images/opportunities/open-opportunities.png)
+
+* **Expected AUM / Expected Revenue:** The probability-weighted value of all assets, or the adjusted value of fees you expect to earn.
+* **Pipeline AUM / Pipeline Revenue:** The total raw value of all assets, or the total adjusted value of all potential fees in your pipeline.
+* **Active Deals:** The total number of deals currently in the pipeline.
+* **Avg. Confidence:** The average probability (confidence %) of closing across all active deals.
+
+### Key Metrics Displayed (Closed Opportunities):
+
+When viewing **Closed Opportunities**, the metrics shift to analyze historical performance. Depending on your AUM/Revenue toggle, you will see:
+
+![Closed Opportunities](../assets/images/opportunities/closed-opportunities.png)
+
+* **Won AUM / Won Revenue:** The total value of assets or fees from successfully closed deals.
+* **Lost AUM / Lost Revenue:** The total value of assets or fees from deals that were not won.
+* **Win Rate:** The percentage of closed deals that were successfully won.
+* **Total Closed:** The total number of resolved deals (both won and lost).
+
+
+
+### How to Understand Pipeline Metrics with Toggles
 
 * **View Toggles:** The toggles allow you to shift the perspective of your data for deeper analysis:
     * **Gross / Adjusted:** 
@@ -34,15 +62,13 @@ The main dashboard provides a high-level command center for tracking revenue and
         * **AUM (Assets Under Management):** Displays the value of the client assets being brought in (*e.g., "Size of the book"*).
         * **Revenue:** Displays the actual fees or income expected from those assets (*e.g., "Income generated"*).
 
-### How to Understand Pipeline Metrics with Toggles
-
 1. Locate the **Pipeline Metrics** at the top of the **Opportunities** dashboard.
 2. Toggle to **AUM**. Observe the **Expected AUM** and **Pipeline AUM** to understand the total asset volume you are pitching.
 3. Toggle to **Revenue**. Watch the metrics change to **Expected Revenue** and **Pipeline Revenue** to see the actual fee income impact on your business.
 4. Toggle to **Adjusted**. This updates the **Expected** figures to reflect probability, giving you a conservative forecast.
 5. Toggle to **Gross**. This updates figures to show the maximum potential value if every single deal closes successfully.
 
-![Pipeline Metrics with Toggles](../assets/images/opportunities/opp-pipeline-metrics.gif)
+![Pipeline Metrics with Toggles](../assets/images/opportunities/pipeline-metrics.gif)
 
 ### Active Pipeline Visualizer
 
@@ -50,7 +76,7 @@ This is s graphical breakdown of your team's opportunities.
 The chart breaks down the pipeline into stages: *Leads, Discovery, Proposal, and Onboarding*.
 For each stage, you can see the **Number of Deals**, which is the count of active opportunities in that stage, and the total Amount ($) currently sitting in that phase.
 
-![Opportunity Views](../assets/images/opportunities/opp-pipeline.png)
+![Opportunity Views](../assets/images/opportunities/pipeline.png)
 
 ### How to Analyze the Pipeline
 
@@ -62,8 +88,6 @@ For each stage, you can see the **Number of Deals**, which is the count of activ
     * **AUM:** Assets Under Management (portfolio size).
     * **Revenue:** Expected fee income.
 4. Notice that the dollar amount updates dynamically based on your **Gross/Adjusted** and **AUM/Revenue** selections.
-
-![Opportunity Pipeline](../assets/images/opportunities/opp-pipeline.gif)
 
 * **Opportunity List:** The detailed list of opportunities includes:
     * **Template:** The process blueprint being used.
@@ -93,7 +117,7 @@ If an opportunity is already running, you will see an error: "An active opportun
     * **Opportunity Template:** Select the appropriate process from the dropdown (*e.g., "Maven Wealth Sales Process"*).
 6. Once created, you will be redirected to the detailed opportunity page.
 
-![Create Opportunity](../assets/images/opportunities/create-opp.gif)
+![Create Opportunity](../assets/images/opportunities/household-opportunity.gif)
 
 ### How to Manage an Opportunity
 
@@ -112,7 +136,7 @@ There are two ways to update active deals, depending on where you are currently 
 You may also click on the opportunity to redirect to the **Opportunity Details** page.
 :::
 
-![Manage an Opportunity from the Opportunities Dashboard](../assets/images/opportunities/opp-dashboard.gif)
+![Manage an Opportunity from the Opportunities Dashboard](../assets/images/opportunities/manage-opportunity-dashboard.gif)
 
 #### Option 2: From the Contact or Household Record**
 
@@ -123,4 +147,4 @@ You may also click on the opportunity to redirect to the **Opportunity Details**
 5. Manage any specific tasks tied to this deal.
 6. Use the action buttons to move the deal forward: select **Continue to next stage** to advance, **Revert to previous stage** to go back, or resolve the deal by choosing **Close as Won** or **Close as Lost**.
 
-![Manage an Opportunity from the Contact or Household Record](../assets/images/opportunities/opp-household.gif)
+![Manage an Opportunity from the Contact or Household Record](../assets/images/opportunities/manage-opportunity-household.gif)

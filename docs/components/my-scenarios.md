@@ -10,7 +10,7 @@ Unlike standard workflows which require manual human action, **Scenarios** are d
 
 The **Dashboard** is your primary view, providing a high-level list of all configured automations running in your instance.
 
-![Scenarios Page](../assets/images/my-practice/scenarios-page.png)
+![Scenarios Page](../assets/images/my-practice/scenarios-dashboard.png)
 
 ### How to Access the Dashboard
 

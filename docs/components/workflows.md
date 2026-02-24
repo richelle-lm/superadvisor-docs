@@ -16,7 +16,7 @@ This guide covers:
 ## Workflows Dashboard
 The **Workflows** dashboard provides a structured view of every automated process currently running in your system. It allows you to monitor progress at a high level, ensuring nothing falls through the cracks and helping you spot potential bottlenecks early.
 
-![Workflows Dashboard](../assets/images/workflows/worklows-list.png)
+![Workflows Dashboard](../assets/images/workflows/workflows-dashboard.png)
 
 ### Workflow Views
 * **My Workflows:** Displays only the processes assigned to you. Use this to track your active responsibilities. 
@@ -118,7 +118,7 @@ This section outlines the complete lifecycle of managing workflow blueprints, fr
 *This advanced method allows you to generate complete workflow structures using AI.*
 
 1. Open [ChatGPT](https://chatgpt.com/share/6748d10d-90d0-8007-9fd7-3b61c3ba7dac). This gives ChatGPT the correct template that we use so it will understand how to properly format the JSON (code output for software). 
-2. Use the prompt: "I want to create a workflow template for SuperAdvisor in JSON. Please use this format, group related tasks into steps, and output the JSON. Here’s what I want the workflow to do: [describe your process]."
+2. Use the prompt: "I want to create a workflow template for **Super Advisor** in JSON. Please use this format, group related tasks into steps, and output the JSON. Here’s what I want the workflow to do: [describe your process]."
 :::note EXAMPLE
 I want a workflow for onboarding a new client: step 1 is to review their profile, step 2 is to send them a documentation request...
 :::
@@ -157,7 +157,7 @@ If you want to change something, just tell ChatGPT: “Add another step for conf
 
 ### Importing and Exporting Workflow Templates
 
-* **Importing:** Use this feature to upload pre-built workflow templates (e.g., industry-standard processes shared by colleagues or SuperAdvisor). 
+* **Importing:** Use this feature to upload pre-built workflow templates (e.g., industry-standard processes shared by colleagues or **Super Advisor)**. 
     1. Navigate to the **Templates** page and look for the **Import** option to upload a JSON or compatible file.
     2. Review the imported stages and assign tasks to the correct team members before saving.
     :::note TROUBLESHOOTING
@@ -165,7 +165,7 @@ If you want to change something, just tell ChatGPT: “Add another step for conf
     - **File Extension:** Verify the file ends in .json and not .json.txt.
     :::
 
-* **Exporting:** To share your custom workflows or back them up, select a template from your list and choose the Export option. This generates a file that can be imported into another SuperAdvisor instance.
+* **Exporting:** To share your custom workflows or back them up, select a template from your list and choose the Export option. This generates a file that can be imported into another **Super Advisor** instance.
 
 ![Export and Import a Workflow Template](../assets/images/workflows/import-wf-template.gif)
 

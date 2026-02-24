@@ -25,8 +25,17 @@ Try adjusting your filters or add a new record to get started." message.
 :::
 
 ## Household List Columns
+The table displays key information categorized into two types: Standard and Custom.
+
+* **Standard Columns:**
   * **Name:** The display name of the household.
   * **Contact Type:** Classification of the relationship (*Prospect, Client, Lead, Onboarding, Other*).
-  * **Primary Advisor:** The team member responsible for managing this relationship.
+  * **Dependents:** The number of dependents associated with the household unit.
+  * **Heads of Household:** The primary individual(s) designated as the head of the family or unit.
   * **Last KYC Update (days):** The number of days since the last "Know Your Client" compliance review was completed.
+  * **Managed AUM:** Assets Under Management; the total financial value of the assets managed by your firm for this household.
+  * **Primary Advisor:** The team member responsible for managing this relationship.
+  * **Service Tier:** The designated level of service assigned to the household (e.g., Gold, Silver, Platinum), helping you prioritize touchpoints.
+
+* **Custom Columns:**
   * **Custom Fields:** Any firm-specific data points tracked at the household level.

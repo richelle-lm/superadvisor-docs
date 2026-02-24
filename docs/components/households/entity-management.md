@@ -1,64 +1,84 @@
 # Household Profile
 
-The **Household Profile** is the central hub for managing a family's aggregate information. It is organized into four key tabs:
+The **Household Profile** is the central hub for managing a family's aggregate information. Unlike the main list, which is used for quick scanning, this page is designed for managing specific information and mapping out the complete structure of a family unit or legal entity.
 
 ## Profile Layout
 
 The household profile is organized into four key tabs:
 
-* **Details:** Modify the **Household Name** or perform a **Delete Household** action. 
+* **Details:** Review and modify the core household name or delete the record.
 * **Custom Fields:** Manage additional information and specific data points relevant to the entire family unit.
 * **Family Members:** Use this section for relationship management to add and link individuals like the **Household Head**, **Significant Other**, and **Dependents**.
 * **Portal Access:** Manage access to the client portal and send email invitations directly to the heads of the family.
 
-### How to Update Household Details
-1. Open the specific **Household Profile**.
-2. Click the **Details** tab.
-3. Update the **Household Name** to change the display name for the family unit.
+### Details
 
-![Household Details page](../../assets/images/household/household-details.png)
+The **Details** tab serves as the primary area for core household management. Here, you can update the Household Name to change the display name for the family unit. This section also includes the administrative control to permanently Delete Household. 
 
-### How to Manage Household Custom Fields
-1. Open the **Household Profile**.
-2. Click the **Custom Fields** tab.
-3. Select from existing custom fields or add a new field.
+![Household Details](../../assets/images/household/household-details.png)
 
-![Household Custom Fields page](../../assets/images/household/household-custom-fields.png)
+:::warning WARNING
+This action cannot be undone and will remove all associated data for the household.
+:::
 
-### How to Manage Family Members
-1. Open the **Household Profile**.
-2. Click the **Family Members** tab.
-3. Add or link individuals to define the family structure, assigning **Member Types** such as **Significant Other**, or **Dependent**.
+### Custom Fields
 
-![Household Family Member page](../../assets/images/household/household-family-member.png)
+This section allows you to manage firm-specific data points that fall outside of the standard system fields but are relevant to the entire household (e.g., Anniversary Date, Accountant Name). For detailed instructions on creating and managing these custom data points, please refer to the [**Custom Fields**](../my-practice/custom-fields) module.
 
-### How to Invite a Household to the Portal
-1. Open the **Household Profile**.
-2. Click the **Portal Access** tab.
-3. Click **Send Invite** to grant the heads of the family access to the client portal.
-4. If a contact does not have an email address on file, you will be prompted to enter one before the invitation can be sent.
+![Custom Fields](../../assets/images/household/custom-fields.png)
 
-![Household Portal Access page](../../assets/images/household/household-portal-access.png)
+### Family Members
 
-## How to Add Members
+The Family Members tab is the structural core of the household. It maps out the relationships between different contacts and legal entities. Use this section to define the family structure by assigning roles such as Household Head, Significant Other, and Dependents. You can also manage associated corporate entities, foundations, and trusts directly from this tab.
+
+![Family Members](../../assets/images/household/family-members.png)
+
+### Portal Access
+
+This section controls the household's ability to log into the SuperAdvisor client portal. From here, you can view the access status and grant the heads of the family access by clicking Send Invite. If a contact does not have an email address on file, the system will prompt you to provide one before the invitation link is sent out.
+
+![Portal Access](../../assets/images/household/portal-access.png)
+
+## How to Add Family Members
+Use these steps to link new or existing individuals to the household and establish their specific roles within the family unit.
 
 ### How to Add a Person
 
-Use this to link individuals to the household.
+This added person can then be used to select an existing contact when adding a significant other or a dependent, so you don't have to create them manually.
 
-1. Navigate to the **Household Profile** page.
-2. Click **Add Person**. 
-3. Enter the **Contact Details** (*Name, Email, etc.*).
-4. Go to the **Family Members** section of the details page.
-5. **To Add a Significant Other:**
-    * Select the **Relationship Type** (*e.g., Married, Engaged*).
-    * Select an existing contact or enter new details.
-6. **To Add a Dependent:**
-    * Set the relationship to the **Head of Family** (*e.g., Parent*).
-    * If applicable, set the relationship to the **Significant Other**.
-7. Click **Save**.
+1. Click **Add Person**. 
+2. Enter the **Contact Details** (*Name, Email, etc.*).
+3. In the **Add Household Member** pop-up, fill up the following:
+    * **Contact Details:** Enter the personal information for this contact, including First Name (Required), Middle Name, Last Name (Required), Preferred Name, Short Name, Gender, Social Insurance Number, and Social Security Number.
+    * **Contact Information:** Add email and phone number details, including Email, Country Code, Phone Number, Phone Type, and Phone Label.
+    * **Advisor Assignment:** Assign a primary advisor to this contact.
+    * **Address Information:** Add optional address details for this contact.
+4. Click **Save**.
 
-![Adding a Member](../../assets/images/household/add-member.gif)
+![Add Person](../../assets/images/household/add-person.gif)
+
+### How to Add a Significant Other
+
+1. Go to the **Family Members** section of the household details page.
+2. Click **Significant Other**.
+3. Select the **Relationship Type** (Required - e.g., Married, Engaged).
+4. Select an existing contact (from the **Add Person** step) or choose to create a new person.
+5. If creating a new person, enter the following details: **First Name**, **Middle Name**, **Last Name**, **Gender**, **Email**, **Date of Birth**, **Social Insurance Number**, and **Social Security Number**.
+6. Click **Save**.
+
+![Add a Significant Other](../../assets/images/household/add-siginificant-other.gif)
+
+### How to Add a Dependent
+
+1. Go to the **Family Members** section of the household details page.
+2. Click **Dependent**.
+3. Set the **Relationship type 1** (Required) and specify if the Head of Family is this child's: Parent, Step Parent, or Guardian.
+4. If applicable, set the relationship to the Significant Other.
+5. Select an **Existing Person** (from the **Add Person** step) or choose to create a New Person.
+6. If creating a new person, enter the following details: **First Name**, **Middle Name**, **Last Name**, **Gender**, **Date of Birth**, **Social Insurance Number**, and **Social Security Number**.
+7. Click Save.
+
+![Add Dependent](../../assets/images/household/add-dependent.gif)
 
 ## How to Manage Corporate Entities and Trusts
 
@@ -93,3 +113,5 @@ Use this feature to add legal entities to the household for a complete financial
 3. Navigate to **Trust Details** to verify the **Trust Name**.
 
 ![Adding a Trust](../../assets/images/household/add-trust.gif)
+
+

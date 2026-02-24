@@ -4,7 +4,7 @@ slug: /
 
 # Super Advisor Docs
 
-Welcome to SuperAdvisor, your central operating system for wealth management. Whether you are a solo practitioner or part of a large advisory team, this platform is designed to consolidate your client relationships, financial data, and operational workflows into a single, unified interface.
+Welcome to **Super Advisor**, your central operating system for wealth management. Whether you are a solo practitioner or part of a large advisory team, this platform is designed to consolidate your client relationships, financial data, and operational workflows into a single, unified interface.
 
 To help you get up to speed, we have organized our introductory resources into two key guides:
 

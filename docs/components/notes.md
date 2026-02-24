@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Notes** module is the primary tool for qualitative record-keeping within **SuperAdvisor**. It allows advisors and support staff to document interactions, observations, and meeting minutes in a structured, searchable format.
+The **Notes** module is the primary tool for qualitative record-keeping within **Super Advisor**. It allows advisors and support staff to document interactions, observations, and meeting minutes in a structured, searchable format.
 
 Unlike static text fields, **Notes** are dynamic. They support **Entity Linking**, **@Mentions** for team collaboration, and **Templates** for standardized reporting.
 
@@ -61,7 +61,7 @@ You can create a note directly from the dashboard or from specific records.
 
 ## How to Create a Note via AI Assistant
 
-The **SuperAdvisor Assistant** can generate notes for you using natural language processing, bypassing the manual pop-up entirely.
+The **Super Advisor Assistant** can generate notes for you using natural language processing, bypassing the manual pop-up entirely.
 
 1. Click the **AI Assistant** icon from **Super Mode**.
 2. Input your command via **Voice** or **Text** (e.g., “Create a note for [Client Name]. We discussed their new puppy and they want to see updated projections.”).

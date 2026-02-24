@@ -6,15 +6,15 @@ The **Financials** section serves as the central repository for a client’s ent
 
 While deeply integrated with the [**Household**](../households) record to generate live Net Worth statements, Financials functions as a distinct module for detailed asset and liability management. By maintaining this comprehensive view, advisors can accurately identify coverage gaps, assess liquidity requirements, and deliver holistic financial advice based on a complete picture of a client's wealth.
 
-### Accessing Financials Section
+## Accessing Financials Section
 
 To view and manage financial data for a specific client:
 
 1. Navigate to the specific **Household** record.
-2. Locate the **Financials** link in the side navigation menu.
-3. Select the appropriate sub-page based on your task (*e.g., All Financials, Accounts, or Cash Flows*).
+2. Locate the **Financials** tab.
+3. Select the appropriate sub-page based on your task (*e.g., Net Worth, Assets, Liabilities, etc*).
 
-![Accessing the Financials Page](../../assets/images/financials/financials-page.gif)
+![Accessing the Financials Page](../../assets/images/financials/financials-page.png)
 
 ## The "All Financials" Dashboard
 

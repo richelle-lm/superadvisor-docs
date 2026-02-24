@@ -10,53 +10,35 @@ Designed for transparency and collaboration, this page answers the critical ques
 
 The **Activities** dashboard provides a structured view of every interaction associated with a household. It allows you to toggle between high-level audit trails and specific item lists, ensuring you can both monitor team compliance and find specific documents.
 
+![Activities Dashboard](../../assets/images/household/activities.png)
+
 ### View Modes
 
 The interface offers two distinct ways to visualize data. Toggling between these modes changes how the information is presented in the list.
 
-* **Feed (The Audit Trail):**
+* **Activity Feed:**
     * Displays a chronological history of actions taken.
     * Highlights the Actor (Team Member) and the Action (Created, Edited, Completed).
     * Best Used For: Managers auditing team activity, checking if a task was reassigned, or seeing who last touched a file.
 
-* **Items (The Inventory):**
+* **Items:**
     * Displays a clean list of the objects themselves (Tasks, Notes, Meetings).
     * Hides the edit history to show only the current items.
     * Best Used For: Advisors looking for a specific document, checking a meeting time, or reviewing a to-do list.
 
-## Category Filters
+### Category Filters
 
 You can refine the list to find specific types of work using the tab filters at the top of the dashboard:
 
 * **All:** A master list of every activity type combined. Use this for a quick "pulse check" on recent activity.
-
 * **Tasks:** Tracks operational to-dos and assigned action items.
-    * **Feed View:** Audit the lifecycle of a task (e.g., Rich assigned Task to Team).
-    * **Items View:** Monitor active inventory (e.g., Task Name, Due Date, Status).
-
 * **Meetings:** Manages schedules and interaction history.
-    * **Feed View:** Track when meetings were booked or rescheduled.
-    * **Items View:** View upcoming events and AI Assistant summaries.
-
 * **Notes:** Captures unstructured data and internal knowledge.
-    * **Feed View:** See the timeline of internal collaboration and comments.
-    * **Items View:** Browse manual notes and AI Assistant summaries.
-
+* **Comments:** Displays internal team discussions and specific remarks on client items.
 * **Forms:** Monitors compliance and data collection.
-    * **Feed View:** Audit transmission history (e.g., Client submitted Risk Profile).
-    * **Items View:** Check the status of specific data requests (Sent, In Progress, Submitted).
-
 * **Emails:** Provides a history of digital correspondence synced from Outlook/Gmail.
-    * **Feed View:** See the chronological flow of messages.
-    * **Items View:** Search logs by Subject Line, Sender, or Receiver.
-
 * **Workflows:** Oversees complex, multi-stage projects (e.g., Onboarding).
-    * **Feed View:** Track overall progress and stage advancement.
-    * **Items View:** Monitor active projects, Current Stage, and % Complete.
-
 * **Life Events:** Records significant personal milestones.
-    * **Feed View:** See when new life changes were recorded.
-    * **Items View:** Review the timeline of major milestones like Marriage or Retirement.
 
 ## How to Create an Activity
 
@@ -64,10 +46,11 @@ You can initiate new actions directly from this dashboard without navigating awa
 
 ### Quick Actions
 
-1. Navigate to the **Households** page and select the specific household.
-2. Click the **Activities** tab.
-3. Click the **Create Activity** button in the top right corner.
-4. Select an option from the **Quick Actions** dropdown menu.
+1. Click the **Create Activity** button.
+
+![Create Activity](../../assets/images/household/create-activity.png)
+
+2. Select an option from the **Quick Actions** dropdown menu.
     * **Task:** Create a new to-do item and assign it to a team member. See [**How to Create a Task page**](../tasks#how-to-create-a-task) for more information.
     * **Send Form:** Dispatch a specific form or data gathering request to the client. See [**How To: Custom Forms**](../forms#how-to-send-a-form)
     * **Workflow:** Launch a standardized multi-step process for this household. See: How To: Workflows
@@ -79,7 +62,7 @@ You can initiate new actions directly from this dashboard without navigating awa
     * **Log a Contact:** Add a new individual (e.g., spouse, child) to the household. See: [**How to Add a Contact**](../contacts/contact-actions#how-to-add-a-new-contact)
     * **Send Email:** Compose and send a message directly via your connected email account. See: [**How To: Compose and Send an Email**](../emails#how-to-compose-and-send-an-email)
 
-## Managing Activity Details
+### Managing Activity Details
 
 Once an activity is created, you can drill down into the record to view more information, make edits, or take further action.
 
@@ -89,3 +72,5 @@ Once an activity is created, you can drill down into the record to view more inf
     * Edit the details.
     * Change Status (e.g., mark a Task as Complete).
     * Add Comments for your team.
+
+![Manage Activity](../../assets/images/household/manage-activity.gif)

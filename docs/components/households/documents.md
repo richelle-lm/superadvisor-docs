@@ -33,7 +33,7 @@ The main dashboard serves as the command center for file management.
 
 When you select a file (by clicking the **View** button), you enter the **Document Details** page.
 
-![Document Details Page](../../assets/images/household/documents-details-page.png)
+![Document Details Page](../../assets/images/household/document-details-page.png)
 
 * **Preview:** The left pane displays the file content (if supported). For unsupported formats, you will see the message: "Preview not available for this file type".
 * **Details Panel:** The right pane displays editable metadata and action buttons for managing the specific file record.
@@ -64,6 +64,8 @@ If you attempt to upload an unsupported file, you will receive the following err
     * **Category:** Select from options like *Account Application, Account Transfer, Career, Collectibles, Corporate, etc*.
     * **Type:** Select from options like *Articles of Incorporation, Business Number Assignment Letter, Compliance Documents, Corporate Bylaws, etc*.
 4. Click the **Update Document** button to save changes.
+
+![Update Document](../../assets/images/household/update-document.gif)
 
 ### Document Actions
 Within the **Document Details** section, you can perform several key actions:
