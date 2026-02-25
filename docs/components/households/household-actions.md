@@ -30,9 +30,9 @@ Navigate to the **Households** page via the main sidebar. Locate the specific ho
 
 ![Household Profile page](../../assets/images/household/manage-household.gif)
 
-**Option 2: Using the Contact Profile**
+**Option 2: Using the Profile Tab**
 
-Navigate to the **Households** page via the main sidebar. Locate the specific household in the list, and go to the **Profile** section and select **Household**.
+Navigate to the **Households** page via the main sidebar. Locate the specific household in the list, and go to the **Profile** tab to view and manage the household record.
 
 ![Household Profile page](../../assets/images/household/household-profile.gif)
 
@@ -45,8 +45,8 @@ Automated processes like "Annual Reviews" can be applied to the entire household
 Use this feature to combine two household records into one, retaining specific family members and data.
 
 1. Navigate to the **Households** list.
-2. Select the checkboxes next to the duplicate households.
-3. Click the **Merge** button.
+2. Select the **checkboxes** next to the duplicate households.
+3. Click the **Merge** action that appears at the bottom of the table.
 4. Select the **Destination Household** (the record you want to keep).
 5. Select the **Family Members** you wish to retain in the merged record.
 6. Click **Confirm Merge.**

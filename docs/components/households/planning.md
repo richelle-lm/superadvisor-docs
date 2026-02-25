@@ -4,12 +4,12 @@
 
 The **Planning** module serves as the strategic roadmap for the client relationship. While the Financials module tracks the current state of wealth (assets and liabilities), the Planning module focuses on the future—defining objectives, analyzing coverage, and structuring the legal and financial frameworks necessary to achieve long-term success.
 
-It is divided into four distinct sub-modules to address different pillars of the client's financial life:
+It is divided into four distinct sub-modules, accessible via the **Planning** dropdown in the household's top navigation bar:
 
 * **Goals:** Define and track specific lifestyle and financial objectives.
-* Financial Plan: Centralize strategic calculations, projections, and plan documents.
-* Will & Estate: Manage the estate planning infrastructure, including legal documents and asset distribution strategies.
-* Insurance: Analyze risk management, coverage needs, and active policies.
+* **Financial Plan:** Centralize strategic calculations, projections, and plan documents.
+* **Will & Estate:** Manage the estate planning infrastructure, including legal documents and asset distribution strategies.
+* **Insurance:** Analyze risk management, coverage needs, and active policies.
 
 ## Goals
 
@@ -29,7 +29,7 @@ The **Goals** sub-page offers a consolidated view of the client's financial obje
 
 ### How to Add a Goal
 
-1. Navigate to **Planning**, then select **Goals**.
+1. Within the Household record, expand the **Planning** section in the top navigation and select **Goals**.
 2. Click the **Add Goal** button.
 3. In the **Add Goal** pop-up, enter the following details:
     * **Select Category:** Choose the specific goal type from the list below to ensure proper classification:
@@ -205,7 +205,7 @@ The **Insurance** page offers a consolidated view of protection status.
 
 ### How to Add an Insurance Need
 
-1. Navigate to **Planning**, then select **Insurance**.
+1. Within the Household record, expand the **Planning** section in the top navigation and select **Insurance**.
 2. Click the **Add Need** button.
 3. In the **Add Insurance Need** pop-up, enter the following details:
     * **Insured Entity:** Select the person or entity requiring coverage.
@@ -217,7 +217,7 @@ The **Insurance** page offers a consolidated view of protection status.
 
 ### How to Add an Insurance Policy
 
-1. Navigate to **Planning**, then select **Insurance**.
+1. Within the Household record, expand the **Planning** section in the top navigation and select **Insurance**.
 2. Click the **Add Policy** button.
 3. In the **Add Policy** pop-up, fill out the following details:
     * **Basic Information:** Enter the basic details about your insurance policy.

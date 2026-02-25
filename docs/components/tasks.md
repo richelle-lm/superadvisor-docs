@@ -104,7 +104,7 @@ This page serves as the management hub for all your task blueprints. The table d
 
 ![Task Templates Page](../assets/images/tasks/task-templates-page.png)
 
-From this page, you can select the Edit icon to modify a blueprint or the Trash icon to delete an unnecessary template.
+From this page, you can select a template row using the **checkbox**, then use the actions that appear at the bottom of the table to **Edit** or **Delete** the template.
 
 ### How to Create a Task Template
 

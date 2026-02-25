@@ -10,23 +10,22 @@ This guide covers the three pillars of platform navigation:
 
 ## Sidebar Menu
 
-**Overview** 
+**Overview**
 
 The **Sidebar Menu** is your primary navigation rail, located on the left-hand side of the screen. It organizes the platform’s modules into logical workflows, moving from client relationships to daily operations and practice settings.
 
 ![Sidebar Menu](../../assets/images/general/sidebar-menu.png)
 
-* **Dashboard & Activity:** Click **Home** to access the **Executive Summary Metric**s and your **Daily Activity Stream**, which aggregates tasks, meetings, and communications.
-* **SuperMode:** Click **SuperMode** to enter the high-velocity multitasking interface where you can utilize the AI Assistant and manage multiple tabs simultaneously.
+* **Dashboard & Activity:** Click **Home** to access the **Executive Summary Metrics** and your **Daily Activity Stream**, which aggregates tasks, meetings, and communications.
 * **Client Management:** Click [**Contacts**](../contacts/#) and [**Households**](../households/#) to manage your "Golden Record" of relationships, accessing detailed profiles, family hierarchies, and entity structures.
+* **Work Management:** Click [**Tasks**](../tasks), [**Workflows**](../workflows), and [**Meetings**](../meetings/#) to manage operational processes, tracking standardized checklists, individual to-dos, and your calendar events.
+* **Records & Communications:** Click [**Notes**](../notes) and [**Inbox**](../emails) to review comprehensive communication history, including internal memos, client emails, and team assignments.
+* **Forms:** Click [**Forms**](../forms) to manage digital paperwork, data collection, and client questionnaires.
 * **Sales & Pipeline:** Click [**Opportunities**](../opportunities) to view your sales funnel, tracking deal stages from "Lead" to "Onboarding" alongside revenue forecasts.
-* **Work Management:** Click [**Workflows**](../workflows), [**Tasks**](../tasks), and [**Meetings**](../meetings/#) to manage operational processes, tracking standardized checklists, individual to-dos, and your calendar events.
-* **Client Service:** Click **Client Service** to access the **KYC Updates** sub-page, where you can track and manage regulatory "Know Your Client" reviews across all households.
-* **Records & Communications:** Click **Notes** and [**Emails**](../emails) to review comprehensive communication history, including internal memos, client emails, and team assignments.
-* **Financial Records:** Click [**Financial Records**](../financial-records/#) to access a business-wide, spreadsheet-style view of all client assets for aggregate analysis beyond individual profiles.
-* **Custom Views:** Click [**Custom Views**](../custom-views) to personalize your interface, creating tailored, saved lists of Contacts and Households that surface specific information exactly when you need it.
-* **Institutions:** Click **Institutions** to manage your firm's external relationships with carriers, MGAs, insurance companies, investment firms, and banks.
-* **My Practice:** Click [**My Practice**](../my-practice/#) to configure your firm's administrative hub, including Products, Service Models, Custom Fields, and Team permissions.
+* **Client Service:** Expand this section to access [**Service Models**](../my-practice/service-models) and [**KYC Updates**](../client-service), where you can track and manage regulatory "Know Your Client" reviews across all households.
+* **Financial Records:** Expand this section to access individual record types including **Insurance Policies**, **Bank Accounts**, **Investment Accounts**, **Loans**, **Credit Cards**, **Lines of Credit**, **Real Estate Properties**, **Real Assets**, **Private Investments**, **Company Equity**, **Defined Benefit Pensions**, and **Cash Flows**. Each record type links directly to its dedicated management page for aggregate analysis beyond individual household profiles.
+* **My Practice:** Expand this section to configure your firm’s administrative hub, including **Scenarios**, **Carriers**, **MGAs**, **Products & Services**, **Packages**, **Payment Methods**, **Company Profile**, **Custom Fields**, **Data Sources**, and **Clients**.
+* **SuperMode:** Click **SuperMode** to enter the high-velocity multitasking interface where you can utilize the AI Assistant and manage multiple tabs simultaneously.
 
 ## Global Search
 

@@ -63,7 +63,6 @@ const sidebars = {
             'components/households/planning',
           ],
         },
-        'components/custom-views',
         {
           type: 'category',
           label: 'Financial Data',

@@ -1,12 +1,27 @@
 # Household Profile
 
-The **Household Profile** is the central hub for managing a family's aggregate information. It is organized into four key tabs:
+The **Household Profile** is the central hub for managing a family's aggregate information.
 
-## Profile Layout
+## Household Navigation
 
-The household profile is organized into four key tabs:
+When you open a household record, the interface provides a horizontal tab navigation across the top of the page. The main tabs are:
 
-* **Details:** Modify the **Household Name** or perform a **Delete Household** action. 
+* **Overview:** A dashboard with customizable widgets summarizing the household at a glance.
+* **Activities:** The centralized audit trail and record management page (see [Household Activities](activities)).
+* **Opportunity:** Manage sales opportunities linked to this household.
+* **Financials:** A collapsible section containing **Net Worth** (Assets, Liabilities), **Cash Flows** (Income, Expenses), **Investments**, **Risk Profile**, **Balance Sheet**, and **Cash Flows Advanced**.
+* **Planning:** A collapsible section containing **Goals**, **Financial Plan**, **Will & Estate**, and **Insurance**.
+* **Service:** Access **KYC Updates** for this household.
+* **Profile:** Manage the household record details, family members, and entity structure.
+* **Documents:** Manage documents associated with the household.
+* **Payments:** Track payment history and billing.
+* **Settings:** Configure household-level settings.
+
+## Profile Section
+
+Within the **Profile** tab, you can manage the household's core information across the following areas:
+
+* **Details:** Modify the **Household Name** or perform a **Delete Household** action.
 * **Custom Fields:** Manage additional information and specific data points relevant to the entire family unit.
 * **Family Members:** Use this section for relationship management to add and link individuals like the **Household Head**, **Significant Other**, and **Dependents**.
 * **Portal Access:** Manage access to the client portal and send email invitations directly to the heads of the family.
@@ -65,8 +80,7 @@ Use this to link individuals to the household.
 Use this feature to add legal entities to the household for a complete financial picture.
 
 1. Navigate to the **Profile** tab within the Household record.
-3. Select Household.
-3. Click the **Add Entity** button.
+2. Click the **Add Entity** button.
 4. Select the **Entity Type** you wish to create.
 
 ### How to Add a Corporation

@@ -5,17 +5,12 @@ The **Contacts** page features a dynamic list view that can be customized to sho
 
 ![Contacts page](../../assets/images/contacts/contacts-page.png)
 
-:::note NOTE
-You can customize this dashboard by filtering data, toggling columns, and saving your configurations. For detailed instructions on creating and managing these views, please refer to the **Custom Views** module.
-:::
-
 ## View Options
   * **All Records:** The default view showing every contact in the system.
-  * **Custom Views:** You can create and save filtered lists (e.g., "High Net Worth Leads"). See the separate "Custom Views" topic for advanced setup.
 
 ## Search & Column Settings
   * **Search Option:** A global search bar to quickly find individuals by name.
-  * **Column Settings:** Access this menu to toggle columns on/off and reorder them. Detailed instructions are in the "Custom Views" topic.
+  * **Column Settings:** Access this menu to toggle columns on/off and reorder them.
 
 :::note NOTE
 If your selected filters do not match any records, the system will display a "No records yet.
