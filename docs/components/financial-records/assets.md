@@ -23,7 +23,6 @@ The **Bank Accounts** sub-page offers a consolidated view of client cash holding
 **View Options:**
 
 * **All Records:** A complete list of all bank accounts.
-* **Custom View:** create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
@@ -73,7 +72,6 @@ The **Real Assets** sub-page offers a consolidated view of physical goods.
 **View Options:**
 
 * **All Records:** A complete list of all real assets.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
@@ -124,7 +122,6 @@ The **Real Estate Properties** sub-page offers a consolidated view of property a
 **View Options:**
 
 * **All Records:** A complete list of all real estate properties.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 

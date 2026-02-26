@@ -23,7 +23,6 @@ The **Insurance Policies** sub-page offers a consolidated view of client risk co
 **View Options:**
 
 * **All Records:** A complete list of all insurance policies.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
@@ -94,7 +93,6 @@ The **Defined Benefit Pensions** sub-page offers a consolidated view of pension 
 **View Options:**
 
 * **All Records:** A complete list of all defined benefit pensions.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
@@ -154,7 +152,6 @@ The **Cash Flows** sub-page offers a clear view of all money entering and leavin
 **View Options:**
 
 * **All Records:** A complete list of all cash flows.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 

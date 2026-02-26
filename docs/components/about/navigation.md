@@ -10,35 +10,22 @@ This guide covers the three pillars of platform navigation:
 
 ## Sidebar Menu
 
+**Overview**
+
 The **Sidebar Menu** is your primary navigation rail, located on the left-hand side of the screen. It organizes the platform’s modules into logical workflows, moving from client relationships to daily operations and practice settings.
 
 ![Sidebar Menu](../../assets/images/general/sidebar-menu.png)
 
-* [**Home:**](../about/home) The central dashboard featuring the Executive Summary Metric and Daily Activity Stream, which aggregates tasks, meetings, and communications.
-
-* [**Contacts:**](../contacts) A database for managing individual client relationships, accessing detailed personal profiles, and tracking custom fields.
-
-* [**Households:**](../households) The core hub for managing the "Golden Record" of relationships, viewing family hierarchies, entity structures, and aggregate wealth.
-
-* [**Tasks:**](../tasks) A personalized to-do list to manage and track daily operational action items.
-
-* [**Workflows:**](../workflows) An automation engine to manage standardized, multi-step processes like client onboarding and transitions.
-
-* [**Notes:**](../notes) A centralized repository for reviewing comprehensive communication histories, internal memos, and meeting summaries.
-
-* [**Forms:**](../forms) A dedicated space to manage important client documentation, templates, and data-gathering questionnaires.
-
-* [**Opportunities:**](../opportunities) A visual sales funnel for tracking deal stages from "Lead" to "Onboarding" alongside revenue forecasts.
-
-* [**Meetings:**](../meetings) The scheduling center for managing your calendar, tracking upcoming appointments, and organizing daily events.
-
-* [**Inbox:**](../emails) A direct interface to review and manage integrated emails and external client communications.
-
-* [**My Practice:**](../../category/my-practice) The firm's administrative hub for configuring Products, Service Models, Custom Fields, and Team permissions.
-
-* [**Financial Records:**](../financial-records) A business-wide, spreadsheet-style view of all client assets for aggregate analysis beyond individual profiles.
-
-* [**Super Mode:**](../super-mode) A high-velocity multitasking interface designed to utilize the AI Assistant and manage multiple tabs simultaneously.
+* **Dashboard & Activity:** Click **Home** to access the **Executive Summary Metrics** and your **Daily Activity Stream**, which aggregates tasks, meetings, and communications.
+* **Client Management:** Click [**Contacts**](../contacts/#) and [**Households**](../households/#) to manage your "Golden Record" of relationships, accessing detailed profiles, family hierarchies, and entity structures.
+* **Work Management:** Click [**Tasks**](../tasks), [**Workflows**](../workflows), and [**Meetings**](../meetings/#) to manage operational processes, tracking standardized checklists, individual to-dos, and your calendar events.
+* **Records & Communications:** Click [**Notes**](../notes) and [**Inbox**](../emails) to review comprehensive communication history, including internal memos, client emails, and team assignments.
+* **Forms:** Click [**Forms**](../forms) to manage digital paperwork, data collection, and client questionnaires.
+* **Sales & Pipeline:** Click [**Opportunities**](../opportunities) to view your sales funnel, tracking deal stages from "Lead" to "Onboarding" alongside revenue forecasts.
+* **Client Service:** Expand this section to access [**Service Models**](../my-practice/service-models) and [**KYC Updates**](../client-service), where you can track and manage regulatory "Know Your Client" reviews across all households.
+* **Financial Records:** Expand this section to access individual record types including **Insurance Policies**, **Bank Accounts**, **Investment Accounts**, **Loans**, **Credit Cards**, **Lines of Credit**, **Real Estate Properties**, **Real Assets**, **Private Investments**, **Company Equity**, **Defined Benefit Pensions**, and **Cash Flows**. Each record type links directly to its dedicated management page for aggregate analysis beyond individual household profiles.
+* **My Practice:** Expand this section to configure your firm’s administrative hub, including **Scenarios**, **Carriers**, **MGAs**, **Products & Services**, **Packages**, **Payment Methods**, **Company Profile**, **Custom Fields**, **Data Sources**, and **Clients**.
+* **SuperMode:** Click **SuperMode** to enter the high-velocity multitasking interface where you can utilize the AI Assistant and manage multiple tabs simultaneously.
 
 ## Global Search
 

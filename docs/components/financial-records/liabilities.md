@@ -21,8 +21,7 @@ The **Loans** sub-page offers a consolidated view of client cash holdings and li
 ![Loans Dashboard](../../assets/images/financials/loans.png)
 
 **View Options:**
-* **View All Records:** A complete list of all loan accounts.
-* **Custom View:** create and save specific filtered lists.
+* **All Records:** A complete list of all loan accounts.
 
 **Search & Settings:**
 * **Search:** Locate accounts by nickname.
@@ -92,7 +91,6 @@ The **Credit Cards** sub-page offers a consolidated view of revolving credit lia
 **View Options:**
 
 * **All Records:** A complete list of all credit card accounts.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Settings:**
 * **Search:** Locate accounts by nickname.
@@ -148,7 +146,6 @@ The **Lines of Credit** sub-page offers a consolidated view of flexible borrowin
 **View Options:**
 
 * **All Records:** A complete list of all line of credit accounts.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Settings:**
 * **Search:** Locate accounts by nickname.
