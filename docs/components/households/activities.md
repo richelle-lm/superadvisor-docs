@@ -6,39 +6,29 @@ The **Activities** page serves as the centralized audit trail and command center
 
 Designed for transparency and collaboration, this page answers the critical question: "What is the current status of this relationship?" By consolidating tasks, emails, meetings, and forms into one view, it ensures that any team member can instantly understand the client's history and current needs without needing to ask the primary advisor.
 
-## Activities Dashboard
+## Activities Layout
 
-The **Activities** dashboard provides a structured view of every interaction associated with a household. It allows you to toggle between high-level audit trails and specific item lists, ensuring you can both monitor team compliance and find specific documents.
+The **Activities** page uses a split-panel layout to give you simultaneous access to both records and their history:
 
-![Activities Dashboard](../../assets/images/household/activities.png)
+* **Records Panel (Left Side):** Displays the inventory of items — tasks, meetings, notes, forms, emails, workflows, and life events. This is where you browse, search, and manage individual records.
+* **Activity Feed (Right Side):** Displays a chronological audit trail of all actions taken on the household. This feed highlights the Actor (Team Member) and the Action (Created, Edited, Completed), providing a real-time history of team activity.
 
-### View Modes
-
-The interface offers two distinct ways to visualize data. Toggling between these modes changes how the information is presented in the list.
-
-* **Activity Feed:**
-    * Displays a chronological history of actions taken.
-    * Highlights the Actor (Team Member) and the Action (Created, Edited, Completed).
-    * Best Used For: Managers auditing team activity, checking if a task was reassigned, or seeing who last touched a file.
-
-* **Items:**
-    * Displays a clean list of the objects themselves (Tasks, Notes, Meetings).
-    * Hides the edit history to show only the current items.
-    * Best Used For: Advisors looking for a specific document, checking a meeting time, or reviewing a to-do list.
+:::note NOTE
+The **Search** bar at the top of the page searches only the **Records** panel on the left side. Use it to quickly find specific items by name or keyword.
+:::
 
 ### Category Filters
 
-You can refine the list to find specific types of work using the tab filters at the top of the dashboard:
+You can refine the records list using the tab filters at the top of the records panel:
 
-* **All:** A master list of every activity type combined. Use this for a quick "pulse check" on recent activity.
-* **Tasks:** Tracks operational to-dos and assigned action items.
-* **Meetings:** Manages schedules and interaction history.
-* **Notes:** Captures unstructured data and internal knowledge.
-* **Comments:** Displays internal team discussions and specific remarks on client items.
-* **Forms:** Monitors compliance and data collection.
-* **Emails:** Provides a history of digital correspondence synced from Outlook/Gmail.
-* **Workflows:** Oversees complex, multi-stage projects (e.g., Onboarding).
-* **Life Events:** Records significant personal milestones.
+* **All:** A master list of every record type combined. Use this for a quick "pulse check" on the household.
+* **Tasks:** Operational to-dos and assigned action items (Task Name, Due Date, Status).
+* **Meetings:** Scheduled interactions, upcoming events, and AI Assistant summaries.
+* **Notes:** Internal memos, collaboration notes, and AI Assistant summaries.
+* **Forms:** Data collection requests and their status (Sent, In Progress, Submitted).
+* **Emails:** Digital correspondence synced from Outlook/Gmail, searchable by Subject Line, Sender, or Receiver.
+* **Workflows:** Multi-stage automated processes (e.g., Onboarding), showing Current Stage and % Complete.
+* **Life Events:** Significant personal milestones like Marriage or Retirement.
 
 ## How to Create an Activity
 

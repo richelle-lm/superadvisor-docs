@@ -77,7 +77,7 @@ The KYC process follows a structured lifecycle to ensure data integrity:
 2. You will be redirected to the **KYC Review** page.
 3. Hover over sections like **Assets** or **Personal Information** to see item counts and click to make updates.
 4. Note material changes in the KYC Update form (e.g., "Client retired, income source changed to Pension").
-5. Click the **Review & Acknowledge** button on the review page.
+5. Click the **Review & Acknowledge** button in the top-right corner of the review page.
 6. Ensure the **Review Period** is correct and review the household information changes that occurred during this period.
 7. Check the **Recent Updates to Household Information**.
 8. Review the **Acknowledgement** items.

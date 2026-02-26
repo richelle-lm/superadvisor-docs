@@ -46,7 +46,7 @@ Use this feature to consolidate duplicate records (*e.g., "Manulife" and "Manuli
 
 1. Navigate to **Institutions** page, then **Carriers**.
 2. Locate the **Source Carrier** (the duplicate you wish to remove) in the list.
-3. In the actions column, select **Merge**.
+3. Select the row using the **checkbox**, then click the **Merge** action that appears at the bottom of the table.
 4. In the **Merge Carriers** pop-up, you will see the following:
     * **Source Carrier:** Verify this is the record you want to remove.
     * **Target Carrier:** Select the Correct Carrier from the dropdown list.

@@ -31,7 +31,6 @@ const sidebars = {
         'components/about/user-profile',
         'components/about/settings',
         'components/about/notifications',
-        'components/custom-views',
       ],
     },
     {
@@ -64,6 +63,13 @@ const sidebars = {
             'components/households/household-actions',
             'components/households/entity-management',
             'components/households/activities',
+            'components/households/planning',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Financial Data',
+          items: [
             'components/households/financials',
             'components/households/planning',
             'components/households/documents',

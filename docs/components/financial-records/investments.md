@@ -22,7 +22,6 @@ The **Investment Accounts** sub-page offers a consolidated view of client cash h
 
 **View Options:**
 * **All Records:** A complete list of all investment accounts.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
@@ -78,7 +77,6 @@ The **Company Equity** sub-page offers a specialized view for managing complex c
 **View Options:**
 
 * **All Records:** A complete list of all company equity records.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
@@ -128,7 +126,6 @@ The **Private Investments** sub-page offers a view of non-public market holdings
 **View Options:**
 
 * **All Records:** A complete list of all private investments.
-* **Custom View:** Create and save specific filtered lists.
 
 **Search & Filter Settings:**
 
