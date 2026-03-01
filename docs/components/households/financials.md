@@ -14,7 +14,9 @@ To view and manage financial data for a specific client:
 2. Locate the **Financials** dropdown in the top navigation bar.
 3. Select the appropriate sub-page from the dropdown menu.
 
-The Financials section is organized into the following sub-pages:
+![Accessing the Financials Page](../../assets/images/financials/financials-page.png)
+
+The **Financials** section is organized into the following sub-pages:
 
 | Group | Pages | Purpose |
 |-------|-------|---------|
@@ -23,20 +25,13 @@ The Financials section is organized into the following sub-pages:
 | **Investments** | Investments | Manage portfolio holdings and performance |
 | **Risk Profile** | Risk Profile | Assess risk tolerance and capacity |
 
-:::danger IMAGE NEEDS UPDATE
-This GIF is outdated and needs to be replaced. It shows the old navigation with "All Financials", "Accounts", and "Cash Flows" tabs, which have been replaced with the new dropdown structure described above.
-:::
-
-
 ---
 
 ## Net Worth
 
 The **Net Worth** page provides a high-level visualization of the household's financial health, displaying the real-time calculation of **Total Assets** minus **Total Liabilities**.
 
-:::info IMAGE PLACEHOLDER
-Add a screenshot showing the Net Worth page with the metric header, segment bar, Sankey diagram, and donut charts.
-:::
+![Accounts Dashboard](../../assets/images/financials/accounts.png)
 
 ### Key Elements
 
@@ -58,9 +53,7 @@ Add a screenshot showing the Net Worth page with the metric header, segment bar,
 
 The **Assets** page provides a detailed, categorized breakdown of every asset associated with the household. Each asset category is displayed in its own section with a dedicated data table.
 
-:::info IMAGE PLACEHOLDER
-Add a screenshot showing the Assets page with the metric header, segment bar, category tabs, and one or two expanded asset sections with tables.
-:::
+![Assets Page](../../assets/images/financials/assets.png)
 
 ### Key Elements
 
@@ -135,9 +128,6 @@ For detailed information on the specific fields and forms for each record type, 
 
 The **Cash Flow** page provides a side-by-side analysis of household income versus expenses, helping advisors identify surplus liquidity for saving or pinpoint spending habits that may hinder long-term goals.
 
-:::danger IMAGE NEEDS UPDATE
-This image is outdated and needs to be replaced with a current screenshot of the Cash Flow Summary page showing the side-by-side income and expenses cards with the timeframe toggle.
-:::
 ![Cash Flows Dashboard](../../assets/images/financials/cash-flows.png)
 
 ### Key Elements
@@ -161,9 +151,7 @@ For detailed management of individual income and expense records, use the dedica
 
 The **Income** page provides a detailed breakdown of all income sources flowing into the household, organized by source type.
 
-:::info IMAGE PLACEHOLDER
-Add a screenshot showing the Income page with the metric header, segment bar, income source tabs, and one or two expanded sections with tables.
-:::
+![Income Page](../../assets/images/financials/income.png)
 
 ### Key Elements
 
@@ -196,9 +184,7 @@ For detailed information on creating cash flow records, refer to [Cash Flows](..
 
 The **Expenses** page provides a detailed breakdown of all outflows from the household, including both recurring expenses and debt payments.
 
-:::info IMAGE PLACEHOLDER
-Add a screenshot showing the Expenses page with the metric header, segment bar, expense tabs, and sections with tables.
-:::
+![Expenses Page](../../assets/images/financials/expenses.png)
 
 ### Key Elements
 
@@ -228,9 +214,7 @@ For detailed information on creating cash flow records, refer to [Cash Flows](..
 
 The **Investments** page provides a detailed portfolio view for all investment accounts in the household, including holdings breakdowns, performance tracking, and asset class analysis.
 
-:::info IMAGE PLACEHOLDER
-Add a screenshot showing the Investments page with account tabs, donut chart, and the holdings table.
-:::
+![Investments Page](../../assets/images/financials/investments.png)
 
 ### Key Elements
 
@@ -259,13 +243,21 @@ Add a screenshot showing the Investments page with account tabs, donut chart, an
 
 The **Risk Profile** page provides a comprehensive assessment of each household member's risk tolerance and the household's overall risk capacity relative to their financial goals.
 
-:::info IMAGE PLACEHOLDER
-Add a screenshot showing the Risk Profile page with the radar chart and the risk scores table.
-:::
+![Risk Profile](../../assets/images/financials/risk-profile.png)
 
 ### Risk Tolerance
 
-The Risk Tolerance section evaluates each household head across six dimensions, displayed as a **radar chart** for visual comparison and a **scores table** for detailed values.
+The **Risk Tolerance Assessment** section evaluates each household head across six dimensions, displayed as a **radar chart** for visual comparison and a **scores table** for detailed values.
+
+### Risk Ability
+
+The Risk Ability section assesses each financial goal's risk characteristics across three dimensions:
+
+| Dimension | Description |
+|-----------|-------------|
+| **Capacity** | The financial resources available to absorb potential losses |
+| **Time Horizon** | How far away the goal is—Immediate, Short, Intermediate, or Long term |
+| **Liquidity** | The percentage of distributions needed from the portfolio |
 
 **Risk Tolerance Factors:**
 
@@ -279,16 +271,6 @@ The Risk Tolerance section evaluates each household head across six dimensions, 
 | **Preference** | Investment approach—conservative, balanced, or aggressive |
 
 Each factor is scored and assigned a risk level: **High**, **Moderate**, or **Low**. The radar chart overlays each household head's profile for easy comparison.
-
-### Risk Ability
-
-The Risk Ability section assesses each financial goal's risk characteristics across three dimensions:
-
-| Dimension | Description |
-|-----------|-------------|
-| **Capacity** | The financial resources available to absorb potential losses |
-| **Time Horizon** | How far away the goal is—Immediate, Short, Intermediate, or Long term |
-| **Liquidity** | The percentage of distributions needed from the portfolio |
 
 ### Available Actions
 

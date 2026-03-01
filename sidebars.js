@@ -148,7 +148,7 @@ const sidebars = {
           'components/my-practice/service-models',
           'components/my-practice/client-service',
           'components/my-practice/custom-fields',
-          'components/institutions',
+          'components/my-practice/institutions',
       ]
     },
       'components/super-mode',

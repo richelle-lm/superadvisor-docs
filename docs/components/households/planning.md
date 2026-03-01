@@ -214,9 +214,9 @@ The **Insurance** page offers a consolidated view of protection status.
         * **Nickname:** Enter a descriptive name to easily identify the policy (e.g., "Client Term Life").
         * **Policy Type:** Select the specific category of insurance (e.g., Term Life, Critical Illness). For more details on available options, see [**Insurance Policy Types**](#insurance-policy-types).
         * **Policy Number:** Input the unique policy ID provided by the insurer.
-        * **Insurance Company:** Select the issuing carrier. You can manage this list by clicking the **Settings** icon next to the field, which redirects to the **Carriers** page. Please refer to the [Carriers Page Tutorial](../institutions#carriers) for more details.
+        * **Insurance Company:** Select the issuing carrier. You can manage this list by clicking the **Settings** icon next to the field, which redirects to the **Carriers** page. Please refer to the [**Carriers Page Tutorial**](../my-practice/institutions#carriers) for more details.
         * **MGA:** Select the Managing General Agent if applicable. 
-        You can manage this list by clicking the **Settings** icon next to the field, which redirects to the **MGAs** page. Please refer to the [MGAs Page Tutorial](../institutions#mgas-managing-general-agents) for more details.
+        You can manage this list by clicking the **Settings** icon next to the field, which redirects to the **MGAs** page. Please refer to the [**MGAs Page Tutorial**](../my-practice/institutions#mgas-managing-general-agents) for more details.
     * **Policy Details:** Enter the key timing and administrative details for the policy.
         * **Coverage Start Date:** Enter the date when the insurance coverage officially begins.
         * **Term (Years):** Specify the duration of the policy term in years.

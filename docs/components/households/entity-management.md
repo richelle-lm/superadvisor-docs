@@ -6,6 +6,8 @@ The **Household Profile** is the central hub for managing a family's aggregate i
 
 When you open a household record, the interface provides a horizontal tab navigation across the top of the page. The main tabs are:
 
+![Household Navigation](../../assets/images/household/navigation.png)
+
 * **Overview:** A dashboard with customizable widgets summarizing the household at a glance.
 * **Activities:** The centralized audit trail and record management page (see [Household Activities](activities)).
 * **Opportunity:** Manage sales opportunities linked to this household.
@@ -99,20 +101,45 @@ This added person can then be used to select an existing contact when adding a s
 
 Use this feature to add legal entities to the household for a complete financial picture.
 
-1. Navigate to the **Profile** tab within the Household record.
-2. Click the **Add Entity** button.
-4. Select the **Entity Type** you wish to create.
+1. Navigate to the **Profile** tab within the **Household** record.
+2. In the Household Details page, click the **Add Entity** button.
+
+![Add Entity](../../assets/images/household/add-entity.png)
+
+3. Select the **Entity Type** you wish to create.
+
+![Entity Type](../../assets/images/household/entity-type.png)
 
 ### How to Add a Corporation
+
 1. Enter the **Corporation Name** and click **Create Corporation**.
-3. Select the newly created entity to manage the following tabs:
-    * **Details:** Define the **Structure** (*e.g., C Corp, Co-Operative*), enter the **Nature of Business**, and set the **Establishment Date** and **Incorporation Jurisdiction**.
+
+![Adding a Corporation](../../assets/images/household/add-corporation.gif)
+
+2. Select the newly created entity to manage the following tabs:
+    * **Details Tab:** This tab is composed of three main sections:
+        
+        * **Corporation Details:** Define the Corporation Structure (e.g., C Corp, Co-Operative), view or edit the Corporation Name, Nature of Business, Parent Company, Incorporation Jurisdiction, Identifier Type, Identifier Value, Year End Day, Year End Month, and Establishment Date.
+
+        * **Members:** View and manage the individuals associated with the corporation. (If no one is assigned, it will display "There are no members for this corporation").
+        To add someone, click Add Corporation Member, where you can:
+            * Select an existing contact (from the **Add Person** step) or choose to create a new person or company.
+            * **Ownership:** Define the **Legal Ownership (%)** and **Beneficial Ownership (%)**.
+            * **Roles:** Assign specific responsibilities (e.g., Authorized signatory, board member, etc.).
+
+        * **Delete Corporation:** Use this to completely remove the entity. 
+        
+        :::warning WARNING
+        This action cannot be undone. This will permanently delete this corporation and all its data.
+        :::
+    
     * **Contact:** Input the physical **Addresses**, **Emails**, and **Phone Numbers** specifically for the business.
+    
     * **Regulatory:** * Mark if the entity is a **Reporting Issuer** or **Regulated**, providing the ticker symbols or regulator names as required.
         * Set the entity's **Status** (**For Profit or Solicits Donations**).
         * Disclose **Ownership** details if the entity owns 10% or more shares of a publicly traded company.
 
-![Adding a Corporation](../../assets/images/household/add-corporation.gif)
+![Manage Corporation Details](../../assets/images/household/manage-corporation-details.gif)
 
 ### How to Add a Foundation
 1. Enter the **Foundation Name**.
