@@ -13,6 +13,8 @@ The **Activities** page uses a split-panel layout to give you simultaneous acces
 * **Records Panel (Left Side):** Displays the inventory of items — tasks, meetings, notes, forms, emails, workflows, and life events. This is where you browse, search, and manage individual records.
 * **Activity Feed (Right Side):** Displays a chronological audit trail of all actions taken on the household. This feed highlights the Actor (Team Member) and the Action (Created, Edited, Completed), providing a real-time history of team activity.
 
+![Activities Layout](../../assets/images/household/activities.png)
+
 :::note NOTE
 The **Search** bar at the top of the page searches only the **Records** panel on the left side. Use it to quickly find specific items by name or keyword.
 :::

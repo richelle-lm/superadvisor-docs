@@ -19,7 +19,7 @@ This module is divided into two areas:
 
 **Carriers** are the financial institutions that issue the actual contracts (e.g., Manulife, RBC, Fidelity). Every product in the system must be linked to a Carrier to ensure accurate reporting in the Products & Packages module.
 
-![Carriers Dashboard](../assets/images/institutions/carrier-dashboard.png)
+![Carriers Dashboard](../../assets/images/institutions/carrier-dashboard.png)
 
 ### Carriers Standard List Columns
 
@@ -38,7 +38,7 @@ You can select multiple categories.
 ::: 
 3. Click **Add Carrier**.
 
-![Add a Carrier](../assets/images/institutions/add-carrier.gif)
+![Add a Carrier](../../assets/images/institutions/add-carrier.gif)
 
 ### How to Merge Carriers
 
@@ -52,7 +52,7 @@ Use this feature to consolidate duplicate records (*e.g., "Manulife" and "Manuli
     * **Target Carrier:** Select the Correct Carrier from the dropdown list.
 5. Click **Confirm**.
 
-![Merge Carriers](../assets/images/institutions/merge-carrier.gif)
+![Merge Carriers](../../assets/images/institutions/merge-carrier.gif)
 
 :::note NOTE
 Notice: All associated records will be transferred to the target carrier.
@@ -62,7 +62,7 @@ Notice: All associated records will be transferred to the target carrier.
 
 MGAs are the brokerage firms, agencies, or "uplines" through which you submit business. If you contract through a larger agency rather than directly with a carrier, you must record them here to track commission splits correctly.
 
-![MGA Dashboard](../assets/images/institutions/mga-dashboard.png)
+![MGA Dashboard](../../assets/images/institutions/mga-dashboard.png)
 
 ### How to Add an MGA
 
@@ -72,5 +72,5 @@ MGAs are the brokerage firms, agencies, or "uplines" through which you submit bu
     * **MGA Name:** Enter the Legal Name of the MGA.
 4. Click **Add MGA** button.
 
-![Add an MGA](../assets/images/institutions/add-mga.gif)
+![Add an MGA](../../assets/images/institutions/add-mga.gif)
 
