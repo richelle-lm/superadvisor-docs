@@ -2,7 +2,15 @@
 
 These operational tools allow you to find specific records, initiate processes, or manage the database structure.
 
-## How to Search and Filter Records
+## Using the Bottom Action Toolbar
+
+The platform utilizes a fast, checkbox-driven workflow for managing records instead of horizontal scrolling.
+
+1. Select single or multiple contacts using the checkboxes located on the left-hand side of the table.
+2. Selecting these checkboxes automatically triggers a bottom action toolbar to appear.
+3. From this toolbar, you can easily execute bulk actions including: **Edit**, **Delete**, **Merge**, and **Launch Workflow**.
+
+![Bottom Action Toolbar](../../assets/images/contacts/contacts-bottom-toolbar.gif)
 
 ### Using the Global Search (Known Contact)
 
@@ -13,25 +21,6 @@ These operational tools allow you to find specific records, initiate processes, 
 3. Select the correct result to jump directly to their profile.
 
 ![Global Search](../../assets/images/contacts/global-search-contact.gif)
-
-### List Search
-
-*Use this when you want to filter your current view to see a subset of people.*
-
-1. Navigate to the **Contacts** page.
-2. Locate the **Search Bar** directly above the data table.
-3. Type a *Name* or keyword to filter the current list instantly.
-4. Click the **Navigate to record** icon to view their details.
-
-![Contact Search](../../assets/images/contacts/search-contact.gif)
-
-### Filter Contacts
-
-1. Click on the **Filter** icon (funnel) in the column header.
-2. Select the condition (e.g. contains, equals, etc), then type the value.
-3. Click **Apply**.
-
-![Contacts Filter](../../assets/images/contacts/contacts-filter.gif)
 
 ## How to Add a New Contact
 

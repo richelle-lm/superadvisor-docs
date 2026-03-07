@@ -49,7 +49,7 @@ const sidebars = {
           label: 'Contacts',
           link: {type: 'doc', id: 'components/contacts/index'},
           items: [
-            'components/contacts/contact-list',
+            'components/contacts/contact-dashboard',
             'components/contacts/contact-actions',
             'components/contacts/contact-profile',
           ],
@@ -59,11 +59,10 @@ const sidebars = {
           label: 'Households',
           link: {type: 'doc', id: 'components/households/index'},
           items: [
-            'components/households/household-list',
+            'components/households/household-dashboard',
             'components/households/household-actions',
             'components/households/entity-management',
             'components/households/activities',
-            'components/households/planning',
           ],
         },
         {

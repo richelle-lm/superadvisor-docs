@@ -4,7 +4,7 @@
 
 The **Contacts** page serves as the master database and atomic unit of your CRM, housing the "Golden Record" of truth for every individual. This includes Leads and Clients.
 
-Use this module to manage relationships, connect Households, and launch automated Workflows directly from individual profiles.
+Use this module to manage relationships, connect [**Households**](../households), and launch automated [**Workflows**](../workflows) directly from individual profiles.
 
 This section covers three key areas:
 

@@ -6,16 +6,6 @@ The **Home Page** serves as the operational command center for your practice. It
 
 Unlike static reports, this dashboard is designed for immediate action. Whether you need to triage overdue tasks, forecast revenue using weighted pipeline data, or identify clients at risk of churn due to low engagement, the **Home Page** provides the necessary quick links to address these issues without navigating through complex sub-menus.
 
-## Global Filters: The Primary Advisor View
-
-For firms with multiple advisors or administrative support staff, the **Home Page** features a powerful global filter located at the top right of the dashboard.
-
-By selecting a specific name from the **Primary Advisor** dropdown, the entire dashboard repurposes itself to show data exclusive to that individual.
-
-This feature is designed to help teams collaborate more effectively without getting overwhelmed by data. Advisors can use this filter to cut through firm-wide noise and focus strictly on their own tasks, meetings, and pipelines. Meanwhile, Admins and Support Staff can use it to "impersonate" an advisor's view. This allows support teams to step into an advisor's shoes to manage their schedule or organize their tasks, ensuring seamless support without needing to log in and out of different accounts.
-
-![Global Filters](../../assets/images/home/global-filter.gif)
-
 ## Key Performance Indicators
 
 The top banner provides a real-time financial snapshot of the firm. These cards serve as high-level health monitors and direct navigation points to your core databases.

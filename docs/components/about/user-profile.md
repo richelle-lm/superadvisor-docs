@@ -2,13 +2,15 @@
 
 ## Overview
 
-THe **User Profile** acts as your central identity hub within the **Super Advisor** platform. It is not merely a settings page; it directly controls your professional presentation to clients and colleagues. The details you configure here populate your "digital business card" within the Client Portal, determine how you appear in meeting invitations, and ensure that your communications are accurately tracked across the system.
+The **User Profile** acts as your central identity hub within the **Super Advisor** platform. It is not merely a settings page; it directly controls your professional presentation to clients and colleagues. The details you configure here populate your "digital business card" within the Client Portal, determine how you appear in meeting invitations, and ensure that your communications are accurately tracked across the system.
 
 ## Accessing Your Profile
 
 1. Locate your **Name** in the bottom of the navigation menu.
 2. Click on your name to open the user menu.
 3. Select **Edit** to enter the profile configuration page.
+
+![Edit Profile](../../assets/images/profile/edit-profile.png)
 
 ## Profile Configuration Sections
 
