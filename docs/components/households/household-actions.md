@@ -2,6 +2,26 @@
 
 Tools to manage household records, including creation and merging.
 
+## Using the Bottom Action Toolbar
+
+The platform utilizes a fast, checkbox-driven workflow for managing records instead of horizontal scrolling.
+
+1. Select single or multiple households using the checkboxes located on the left-hand side of the table.
+2. Selecting these checkboxes automatically triggers a bottom action toolbar to appear.
+3. From this toolbar, you can easily execute bulk actions including: **Edit**, **Delete**, **Merge**, and **Launch Workflow**.
+
+![Bottom Action Toolbar](../../assets/images/household/bottom-toolbar.gif)
+
+### Using the Global Search (Known Contact)
+
+*Use this when you know the exact name of the household you are looking for.*
+
+1. Click the **Global Search** bar at the top-left of the screen.
+2. Type a *Family Name* or *Household Name*.
+3. Select the correct result to jump directly to their profile.
+
+![Global Search](../../assets/images/household/global-search-household.gif)
+
 ## How to Search and Filter Households
 
 1. Navigate to the **Households** page.
