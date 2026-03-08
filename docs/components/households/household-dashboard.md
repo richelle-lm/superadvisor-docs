@@ -92,7 +92,7 @@ Saved Views allow you to preserve your column and filter configurations for quic
 
 1. Start making adjustments to your current list on the fly (e.g., applying a filter, sorting a column, or toggling column visibility).
 2. As soon as you make a change, the **Save as New View** and ** ** buttons will automatically appear below the list.
-3. Click Save as New View to turn your current configuration into a brand new saved view, or click Save to update the existing custom view with your new changes.
+3. Click **Save as New View** to turn your current configuration into a brand new saved view, or click **Save** to update the existing custom view with your new changes.
 
 ![Managing Saved Views - On The Fly](../../assets/images/household/saved-view-on-the-fly.gif)
 
