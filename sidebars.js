@@ -63,17 +63,19 @@ const sidebars = {
             'components/households/household-actions',
             'components/households/entity-management',
             'components/households/activities',
+             {
+              type: 'category',
+              label: 'Financial Data',
+              items: [
+                'components/households/financials',
+                'components/households/planning',
+                'components/households/documents',
+              ],
+            },
+            'components/households/operations-settings',
           ],
         },
-        {
-          type: 'category',
-          label: 'Financial Data',
-          items: [
-            'components/households/financials',
-            'components/households/planning',
-            'components/households/documents',
-          ],
-        },
+       
       ],
     },
       'components/opportunities',
